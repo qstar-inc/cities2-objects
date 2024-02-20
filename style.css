@@ -1,0 +1,27 @@
+body {
+  padding-top: 20px;
+  /* Adjust based on the height of your navbar */
+}
+
+#filterSelect {
+  border: 1px solid #aaa;
+  border-radius: 3px;
+  padding: 5px;
+  background-color: transparent;
+  color: inherit;
+  margin-left: 3px;
+}
+
+#filterSelectLabel,
+.dt-search > label {
+  width: 3.2rem !important;
+}
+
+#filterSelect,
+#dt-search-0 {
+  width: 15rem !important;
+}
+
+#dt-length-0 {
+  width: 11.5rem !important;
+}
