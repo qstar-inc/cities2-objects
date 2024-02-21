@@ -18,7 +18,7 @@
 
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg bg-secondary fixed-top">
-        <div class="container">
+        <div class="container-xxl">
             <a class="navbar-brand" href="/">
                 <h2>StarQ</h1>
             </a>
@@ -38,19 +38,27 @@
                 <p></p>
             </div>
         </div>
-        <div>
-            <div>
-                <label id="filterSelectLabel" for="filterSelect">Filter:</label><select id="filterSelect"
+        <div class="table-responsive">
+            <div id="filterDiv">
+                <label id="filterSelectLabel" for="filterSelect">Filter:</label><select id="filterSelect" multiple
                     class="text-bg-dark">
                     <option value="">All</option>
-                </select>
+                </select><span class="selectMultipleText"> (select multiple)</span>
             </div>
-            <table id="myDataTable" class="table table-sm table-striped">
-                <thead>
+            <div id="notesDiv">
+                <label id="notesSelectLabel" for="notesSelect">Notes:</label><select id="notesSelect" multiple
+                    class="text-bg-dark">
+                    <option value="">All</option>
+                </select><span class="selectMultipleText"> (select multiple)</span>
+            </div>
+            <table id="myDataTable" class="table table-sm table-hover">
+                <thead id="thead" class="d-none">
                     <tr>
-                        <th>Name</th>
+                        <th>Sl</th>
+                        <th class="normal-column">Name</th>
                         <th>Filter</th>
-                        <th>Notes</th>
+                        <th class="normal-column">Notes</th>
+                        <th class="mixed-column">Name / Notes</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -77,15 +85,51 @@
             var dataTable = $('#myDataTable').DataTable({
                 data: myData,
                 columns: [
-                    { data: 0 },
+                    {
+                        data: null,
+                        className: 'serial-column',
+                        render: function (data, type, row, meta) {
+                            // 'meta.row' provides the index of the row
+                            return meta.row + 1;
+                        }
+                    },
+                    {
+                        data: 0,
+                        className: 'normal-column'
+                    },
                     {
                         data: 1,
                         visible: false
                     },
                     {
                         data: 2,
+                        className: 'normal-column'
+                    },
+                    {
+                        data: function (row) {
+                            if (row[2] == '') {
+                                text = row[0];
+                            } else {
+                                text = row[0] + '<br><b>Note:</b> <small><i>' + row[2] + '</i></small>';
+                            }
+                            return text;
+                        },
+                        orderable: false,
+                        className: 'mixed-column'
                     }
                 ],
+                createdRow: function (row, data, index) {
+                    var notes = data[2];
+                    // Apply color based on cell value
+                    if (notes === 'Randomizer' || notes === 'Crash to Desktop' || notes === 'Invisible' || notes.slice(0, 2) === 'Un') {
+                        $(row).addClass('row-red');
+                    } else if (notes === 'Duplicate / Placeholder' || notes.slice(0, 4) === 'Flag' || notes === 'Hovers' || notes.slice(0, 2) === 'No' || notes.slice(0, 6) === 'Parked' || notes.slice(0, 4) === 'Same') {
+                        $(row).addClass('row-yellow');
+                    } else if (notes === '' || notes === 'Floats' || notes.slice(0, 8) === 'Modifies' || notes === 'Moves' || notes === 'Network Upgrade' || notes === 'Poleless' || notes.slice(0, 3) === 'Req' || notes.slice(0, 3) === 'Upg') {
+                        $(row).addClass('row-green');
+                    }
+                    // Add more conditions as needed for different values
+                },
                 lengthMenu: [
                     [25, 50, 100, 500, 1000, -1],
                     [25, 50, 100, 500, 1000, 'All (Warning: Long)']
@@ -93,6 +137,7 @@
                 initComplete: function () {
                     var lengthSelect = $('select[name="myDataTable_length"]');
                     lengthSelect.addClass('text-bg-dark');
+                    $('#thead').removeClass('d-none');
                 },
                 pageLength: 50,
                 pagingType: 'simple_numbers',
@@ -113,10 +158,29 @@
                 }));
             });
 
+            // Populate notes options
+            var notesSelect = $('#notesSelect');
+            var uniqueNotes = dataTable.column(3).data().unique().sort(); // Extract unique values from column 3 (Notes)
+            var notesMap = new Map();
+            uniqueNotes.each(function (note) {
+                var displayNote = note.includes("Untextured") ? "Untextured" : note;
+                var valueNote = note.includes("Untextured") ? "Untextured*" : note;
+                notesMap.set(displayNote, valueNote);
+            });
+            notesMap.forEach(function (value, key) {
+                notesSelect.append($('<option>', {
+                    value: value,
+                    text: key
+                }));
+            });
+
             // Apply filter on select change
-            filterSelect.on('change', function () {
-                var filterValue = $(this).val();
-                dataTable.columns(1).search(filterValue).draw();
+            filterSelect.add(notesSelect).on('change', function () {
+                var selectedFilters = filterSelect.val() || []; // Get selected values or an empty array
+                var selectedNotes = notesSelect.val() || []; // Get selected notes or an empty array
+                var regex = selectedFilters.join('|');
+                dataTable.columns(2).search(regex, true, false).draw();
+                dataTable.columns(3).search(selectedNotes.join('|'), true, false).draw();
             });
         });
     </script>

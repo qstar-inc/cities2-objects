@@ -243,7 +243,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "ACMachineWall01",
@@ -295,7 +295,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "ACMachineWindows01",
@@ -334,7 +334,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "ACVentRoof01",
@@ -406,7 +406,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "ACVentWall01",
@@ -484,7 +484,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "AStand01",
@@ -558,7 +558,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "ATMWall01",
@@ -610,7 +610,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "AdministrationVehicle01",
@@ -726,7 +726,7 @@ myData = [
   [
     "Agriculture Extractor Placeholder",
     ["object", "objectgeometry", "placeholderobject", "staticobject"],
-    "",
+    "Invisible",
   ],
   [
     "Agriculture Lot",
@@ -804,7 +804,7 @@ myData = [
       "uiobject",
       "vehicle",
     ],
-    "Hovers above the ground",
+    "Hovers",
   ],
   [
     "AirplaneLandingLightSource",
@@ -826,7 +826,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Hovers above the ground",
+    "Hovers",
   ],
   [
     "AirplanePassenger02",
@@ -841,7 +841,7 @@ myData = [
       "uiobject",
       "vehicle",
     ],
-    "Hovers above the ground",
+    "Hovers",
   ],
   [
     "AirplanePassengerCO01",
@@ -857,7 +857,7 @@ myData = [
       "uiobject",
       "vehicle",
     ],
-    "Hovers above the ground",
+    "Hovers",
   ],
   [
     "AirplaneTaxiLightSource",
@@ -920,7 +920,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "Airport01 Cargo Terminal",
@@ -943,7 +943,7 @@ myData = [
       "unlockonbuild",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "Airport01 Services",
@@ -959,7 +959,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   ["AirportBag01Spot", ["effect", "sfx", "transform"], "Unspawnable"],
   ["AirportBag02Spot", ["effect", "sfx", "transform"], "Unspawnable"],
@@ -1148,7 +1148,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "AntennaWall01",
@@ -1200,7 +1200,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "AppleTree01",
@@ -1583,7 +1583,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "BillboardHuge01",
@@ -1622,7 +1622,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured BillboardHuge01",
   ],
   [
     "BillboardLarge01",
@@ -1661,7 +1661,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured BillboardLarge01",
   ],
   [
     "BillboardLightSource01",
@@ -1705,7 +1705,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured BillboardMedium01",
   ],
   [
     "BillboardRoundLarge01",
@@ -1785,7 +1785,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured BillboardSmall01",
   ],
   [
     "BillboardWallHuge01",
@@ -1827,7 +1827,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured BillboardWallHuge01",
   ],
   [
     "BillboardWallLarge01",
@@ -1898,7 +1898,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured BillboardWallLarge02",
   ],
   [
     "BillboardWallLargeRandom02",
@@ -1911,7 +1911,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured BillboardWallLarge04",
   ],
   [
     "BillboardWallMedium01",
@@ -1952,7 +1952,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured BillboardWallMedium01",
   ],
   [
     "BillboardWallSmall01",
@@ -2021,7 +2021,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured BillboardWallSmall02",
   ],
   [
     "BillboardWallSmallRandom02",
@@ -2034,7 +2034,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured BillboardWallSmall03",
   ],
   [
     "BirchTree01",
@@ -2260,7 +2260,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Bus01",
@@ -2394,7 +2394,7 @@ myData = [
       "unlockonbuild",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "BusDepot01 Extra Garage",
@@ -2417,7 +2417,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   ["BusDepotExtraGarageUpgrade", ["effect", "sfx", "transform"], "Unspawnable"],
   [
@@ -2468,7 +2468,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "BusStation01 Recharging Station",
@@ -2491,7 +2491,7 @@ myData = [
       "unlockable",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "BusStation01 Taxi Stop",
@@ -2514,7 +2514,7 @@ myData = [
       "unlockable",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "BusStationElectricCharginStationUpgrade",
@@ -2550,7 +2550,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "BushWildRandom01",
@@ -2562,7 +2562,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Cable Stayed Pedestrian Bridge",
@@ -2821,7 +2821,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "Car02",
@@ -2840,7 +2840,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "Car03",
@@ -2858,7 +2858,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "Car04",
@@ -2876,7 +2876,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "Car05",
@@ -2894,7 +2894,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "Car06",
@@ -2913,7 +2913,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "Car07",
@@ -2931,7 +2931,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "Car08",
@@ -2949,7 +2949,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "Car09",
@@ -2967,7 +2967,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "CarAmberWarningSource",
@@ -3013,7 +3013,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "CarTrailer01_Props01",
@@ -3117,7 +3117,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "CardboardBoxRandom01",
@@ -3129,7 +3129,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Cargo Loading Location",
@@ -3181,7 +3181,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "CargoHarbor01 Railway Connection",
@@ -3203,7 +3203,7 @@ myData = [
       "unlockable",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "CargoHarbor01 Warehouses",
@@ -3226,7 +3226,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   ["CargoHarborCranesSpot02", ["effect", "sfx", "transform"], "Unspawnable"],
   ["CargoHarborCranesUpgrade", ["effect", "sfx", "transform"], "Unspawnable"],
@@ -3299,7 +3299,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "CargoTrainTerminal01 Storage Warehouse",
@@ -3322,7 +3322,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "CargoTrainTerminalExtraTracksUpgrade",
@@ -3424,7 +3424,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "Cemetery01 Columbarium",
@@ -3446,7 +3446,7 @@ myData = [
       "unlockable",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "Cemetery01 Mausoleum",
@@ -3466,7 +3466,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   ["CemeteryTempleSpot", ["audiospot", "effect", "transform"], "Unspawnable"],
   [
@@ -3783,7 +3783,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "CityHall01 Planning Offices",
@@ -3804,7 +3804,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   ["CityHallCourtUpgrade", ["effect", "sfx", "transform"], "Unspawnable"],
   [
@@ -4131,7 +4131,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "CoalPowerPlant01 Advanced Furnace",
@@ -4148,7 +4148,7 @@ myData = [
       "upkeepmodifier",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "CoalPowerPlant01 Coal Storage Yard",
@@ -4170,7 +4170,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "CoalPowerPlant01 Exhaust Filter",
@@ -4186,7 +4186,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "CoalTruck01",
@@ -4214,7 +4214,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "CoalTruck01_GarbagePile01",
@@ -4226,7 +4226,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "CoalTruck01_LoadPlaceholder01",
@@ -4238,7 +4238,7 @@ myData = [
       "quantityobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "CoalTruck01_OrePile01",
@@ -4250,7 +4250,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "CoalTruck01_StonePile01",
@@ -4262,7 +4262,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "Coast Animal Spawner",
@@ -4317,7 +4317,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "College01 Library",
@@ -4338,7 +4338,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   ["CollegeSpots", ["audiospot", "effect", "transform"], "Unspawnable"],
   [
@@ -4453,7 +4453,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "CommercialACVentRoof01",
@@ -4537,7 +4537,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "CommercialHighCloseGroupSFX",
@@ -4889,7 +4889,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "CrateRandom01",
@@ -4901,7 +4901,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Crematorium01",
@@ -4949,7 +4949,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "Crematorium01 Hearse Garage",
@@ -4971,7 +4971,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "Crematorium01 Refrigerator Expansion",
@@ -4987,7 +4987,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "Crosswalk",
@@ -5480,7 +5480,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured Doghouse01",
   ],
   [
     "Dolphin Spawner",
@@ -5565,7 +5565,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Double Public Transport Lane",
@@ -18900,7 +18900,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "ElementarySchool01 Extension Wing",
@@ -18922,7 +18922,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "ElementarySchool01 Playground",
@@ -18943,7 +18943,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "ElementarySchoolSpots",
@@ -18997,7 +18997,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "EmergencyBatteryStation01 Diesel Generator",
@@ -19022,7 +19022,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "EmergencyShelter01",
@@ -19064,7 +19064,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "EmergencyShelter01 Extra Consumables",
@@ -19079,7 +19079,7 @@ myData = [
       "storagelimit",
       "uiobject",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   ["Entrance Location", ["activitylocation", "transform"], "Unspawnable"],
   ["ExplosionTimedVFX", ["effect", "transform", "vfx"], "Unspawnable"],
@@ -19566,7 +19566,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FenceIndustrialPieceHighShort01",
@@ -19602,7 +19602,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FenceIndustrialPieceLow01",
@@ -19638,7 +19638,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FenceIndustrialPieceLowShort01",
@@ -19674,7 +19674,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FenceResidentialHigh Placeholder",
@@ -19740,7 +19740,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FenceResidentialPieceHighShort01",
@@ -19776,7 +19776,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FenceResidentialPieceLow01",
@@ -19812,7 +19812,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FenceResidentialPieceLowShort01",
@@ -19848,7 +19848,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FerrisWheel01",
@@ -19940,7 +19940,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FireEscapeBottomRandom01",
@@ -19952,7 +19952,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FireEscapeMiddle01",
@@ -20012,7 +20012,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FireEscapeMiddleRandom01",
@@ -20024,7 +20024,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FireEscapePlatform01",
@@ -20084,7 +20084,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FireEscapePlatformRandom01",
@@ -20096,7 +20096,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FireEscapeTop01",
@@ -20156,7 +20156,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FireEscapeTopRandom01",
@@ -20168,7 +20168,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   ["FireExtinguishing", ["effect", "sfx", "transform"], "Unspawnable"],
   [
@@ -20219,7 +20219,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   ["FireHouseSpots", ["audiospot", "effect", "transform"], "Unspawnable"],
   [
@@ -20399,7 +20399,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "FireStation01 Garage Extension",
@@ -20422,7 +20422,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "FireStation01 Helipad",
@@ -20441,7 +20441,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "FireStation01 Training Facilities",
@@ -20464,7 +20464,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   ["FireStationSpots", ["audiospot", "effect", "transform"], "Unspawnable"],
   ["FireTinyVFX", ["effect", "transform", "vfx"], "Unspawnable"],
@@ -20568,7 +20568,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FirewoodShelter01",
@@ -20615,7 +20615,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "FlagPole01",
@@ -20632,7 +20632,7 @@ myData = [
   [
     "FlagPole01_Clt",
     ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
-    "",
+    "Flag is one sided, appears invisible from one side",
   ],
   [
     "FlagPole02",
@@ -20649,7 +20649,7 @@ myData = [
   [
     "FlagPole02_Clt",
     ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
-    "",
+    "Flag is one sided, appears invisible from one side",
   ],
   [
     "FlagPoleCommercial01",
@@ -20666,7 +20666,7 @@ myData = [
   [
     "FlagPoleCommercial01_Clt",
     ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
-    "",
+    "Flag is one sided, appears invisible from one side",
   ],
   [
     "FlagPoleCommercial02",
@@ -20683,7 +20683,7 @@ myData = [
   [
     "FlagPoleCommercial02_Clt",
     ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
-    "",
+    "Flag is one sided, appears invisible from one side",
   ],
   [
     "FlagPoleCommercialWall01",
@@ -20700,7 +20700,7 @@ myData = [
   [
     "FlagPoleCommercialWall01_Clt",
     ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
-    "",
+    "Flag is one sided, appears invisible from one side",
   ],
   [
     "FlagPoleCommercialWall02",
@@ -20717,7 +20717,7 @@ myData = [
   [
     "FlagPoleCommercialWall02_Clt",
     ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
-    "",
+    "Flag is one sided, appears invisible from one side",
   ],
   [
     "FlagPoleWall 01",
@@ -20734,7 +20734,7 @@ myData = [
   [
     "FlagPoleWall01_Clt",
     ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
-    "",
+    "Flag is one sided, appears invisible from one side",
   ],
   [
     "FlagPoleWall02",
@@ -20751,7 +20751,7 @@ myData = [
   [
     "FlagPoleWall02_Clt",
     ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
-    "",
+    "Flag is one sided, appears invisible from one side",
   ],
   [
     "FlowerBushCity01",
@@ -21181,7 +21181,7 @@ myData = [
       "quantityobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "ForestForwarderTrailer01_LogPile01",
@@ -21192,7 +21192,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "ForestForwarderTrailer01_LogPile01-1",
@@ -21203,7 +21203,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "ForestForwarderTrailer01_LogPile01-2",
@@ -21214,7 +21214,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "ForestForwarderTrailer01_LogPile02",
@@ -21225,7 +21225,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "ForestForwarderTrailer01_LogPile02-1",
@@ -21236,7 +21236,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "ForestForwarderTrailer01_LogPile02-2",
@@ -21247,7 +21247,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "ForestForwarderTrailer01_LogPile03",
@@ -21258,7 +21258,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "ForestForwarderTrailer01_LogPile03-1",
@@ -21269,7 +21269,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "ForestForwarderTrailer01_LogPile03-2",
@@ -21280,7 +21280,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "ForestHarvester01",
@@ -21480,7 +21480,7 @@ myData = [
   [
     "Garbage Placeholder",
     ["object", "objectgeometry", "placeholderobject", "staticobject"],
-    "",
+    "Randomizer",
   ],
   [
     "GarbageLogoGround01",
@@ -21860,7 +21860,7 @@ myData = [
       "unlockable",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "GasPowerPlant01 Advanced Furnace",
@@ -21878,7 +21878,7 @@ myData = [
       "upkeepmodifier",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "GasPowerPlant01 Exhaust Filter",
@@ -21895,7 +21895,7 @@ myData = [
       "uiobject",
       "unlockable",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "GasPowerPlant01 Fuel Storage Extension",
@@ -21917,7 +21917,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "GasStationPylon01",
@@ -22096,7 +22096,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "GeothermalPowerPlant01 Additional Turbine",
@@ -22120,7 +22120,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "GeothermalPowerPlant01 Binary Cycle Power Station",
@@ -22138,7 +22138,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "Golden Gate Bridge",
@@ -22633,7 +22633,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Grill01",
@@ -22681,7 +22681,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Ground Cable Lane 0.5",
@@ -22821,7 +22821,7 @@ myData = [
       "uiobject",
       "waterpumpingstation",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "GroundwaterPumpingStation01 Extra Pump",
@@ -22842,7 +22842,7 @@ myData = [
       "waterpumpingstation",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "GroundwaterPumpingStationExtraPumpUpgrade",
@@ -23098,7 +23098,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "Harbor01 Transit Terminal",
@@ -23122,7 +23122,7 @@ myData = [
       "unlockable",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "HarborAdditionalTerminalUpgrade",
@@ -23394,7 +23394,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "HedgePieceLow01",
@@ -23430,7 +23430,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Helicopter Spawn Location",
@@ -23885,7 +23885,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "HighSchool01 Library",
@@ -23906,7 +23906,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "HighSchool01 Sports Field",
@@ -23931,7 +23931,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "HighSchoolSportsFieldSpots",
@@ -24359,7 +24359,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "Hospital01 Special Ward",
@@ -24381,7 +24381,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "Hospital01 Trauma Center",
@@ -24396,7 +24396,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "HotTub01",
@@ -24548,7 +24548,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "IncinerationPlant01 Garbage Truck Depot",
@@ -24571,7 +24571,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "IncinerationPlant01 Storage Extension",
@@ -24593,7 +24593,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "IndustrialACMachineRoof01",
@@ -24665,7 +24665,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "IndustrialACMachineWall01",
@@ -24730,7 +24730,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "IndustrialAgricultureCloseGroupSFX",
@@ -34680,52 +34680,52 @@ myData = [
   [
     "IndustrialVehicleBlastholeDrillingRig",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "IndustrialVehicleExcavator",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "IndustrialVehicleForwarder",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "IndustrialVehicleHarvesterEngine",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "IndustrialVehicleLoader",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "IndustrialVehicleTractorEngine",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "IndustrialVehicleTractorFertilizer",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "IndustrialVehicleTractorPlough",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "IndustrialVehicleTractorSowing",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "IndustrialVehicleTractorSprayer",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "Integrated Bus Stop",
@@ -34844,7 +34844,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "IntercomBuzzerSmall01",
@@ -34880,7 +34880,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "InternationalAirport01",
@@ -34967,7 +34967,7 @@ myData = [
   [
     "Invisible Airplane Airspace",
     ["markernet", "net", "netgeometry", "placeablenet", "taxiway"],
-    "",
+    "Invisible",
   ],
   [
     "Invisible Airplane Runway",
@@ -35354,7 +35354,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "LadderMiddle01",
@@ -35414,7 +35414,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "LadderMiddleShort01",
@@ -35474,7 +35474,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "LadderRoof01",
@@ -35529,7 +35529,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "LadderRoofShort01",
@@ -35584,7 +35584,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "LadderTop01",
@@ -35644,7 +35644,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "LadderTopShort01",
@@ -35704,7 +35704,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Landfill Site Lot",
@@ -35780,7 +35780,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "Landfill01 Hazardous Waste Collection Point",
@@ -35802,7 +35802,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "Landfill01 Waste Recycling Unit",
@@ -35818,7 +35818,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   ["Lane Editor Container", ["editorcontainer", "net"], "Invisible"],
   [
@@ -35830,7 +35830,7 @@ myData = [
       "staticobject",
       "trafficsignobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Large Road",
@@ -36040,7 +36040,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "LargeHadronCollider01",
@@ -36084,7 +36084,7 @@ myData = [
       "trafficlightobject",
       "trafficsignobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Lighting",
@@ -36678,7 +36678,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "LogPileMediumHigh01",
@@ -36791,7 +36791,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "LogPileSmallHigh01",
@@ -36904,7 +36904,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "LogRandom01",
@@ -36916,7 +36916,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Low-voltage Cable Lane",
@@ -37163,7 +37163,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "MailboxWallRandom01",
@@ -37176,7 +37176,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "MakeshiftTent01",
@@ -37235,7 +37235,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured MakeshiftTent01",
   ],
   ["Map Tile", ["area", "maptile"], ""],
   [
@@ -37287,7 +37287,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "MedicalClinic01 Extension Wing",
@@ -37309,7 +37309,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "MedicalClinicAmbulanceDepotSpots",
@@ -37371,7 +37371,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "MedicalUniversity01 Practice Clinic",
@@ -37394,7 +37394,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "MedicalUniversity01 Research Facilities",
@@ -37416,7 +37416,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "MedicalUniversitySpots",
@@ -37609,7 +37609,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "MiningExcavator01",
@@ -37674,7 +37674,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "MotorbikeDelivery01",
@@ -37732,7 +37732,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "MuscleCar02",
@@ -37750,7 +37750,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "MuscleCar03",
@@ -37768,7 +37768,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "MuscleCar04",
@@ -37786,7 +37786,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "MuscleCar05",
@@ -37804,7 +37804,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "MuscleCarGarage01",
@@ -50853,7 +50853,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "NoParkingStripingDecal01",
@@ -53389,7 +53389,7 @@ myData = [
   [
     "Oil Extractor Placeholder",
     ["object", "objectgeometry", "placeholderobject", "staticobject"],
-    "",
+    "Randomizer",
   ],
   [
     "Oil Lot",
@@ -53568,7 +53568,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "OldCemeteryTombstoneRandom02",
@@ -53579,7 +53579,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Oneway Public Transport Lane",
@@ -53663,7 +53663,7 @@ myData = [
       "track",
       "unlockable",
     ],
-    "",
+    "Poleless",
   ],
   [
     "Ore Area Placeholder - Coal",
@@ -53804,7 +53804,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "OreMiningTruck01_OrePile01",
@@ -53954,7 +53954,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Pallet01",
@@ -54114,7 +54114,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   ["ParkLightSource01", ["effect", "lighteffect", "transform"], "Unspawnable"],
   ["ParkLightSource02", ["effect", "lighteffect", "transform"], "Unspawnable"],
@@ -54166,7 +54166,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "ParkMaintenanceDepot01 Supply Storage",
@@ -54189,7 +54189,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "ParkMaintenanceExtraGarageUpgrade",
@@ -54263,7 +54263,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "ParkSignpost01",
@@ -54311,7 +54311,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   ["Parking Lane 2", ["netlane", "parkinglane"], "Unspawnable"],
   [
@@ -54356,7 +54356,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "ParkingHall02",
@@ -55319,7 +55319,7 @@ myData = [
   [
     "PedestrianBridgeCableStayedPillar Placeholder",
     ["object", "objectgeometry", "placeholderobject", "staticobject"],
-    "",
+    "Randomizer",
   ],
   [
     "PicnicBlanket01",
@@ -56104,7 +56104,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "PileStoneLargeHigh01",
@@ -56241,7 +56241,7 @@ myData = [
   [
     "Pillar Pedestrian Placeholder",
     ["object", "objectgeometry", "placeholderobject", "staticobject"],
-    "",
+    "Randomizer",
   ],
   [
     "Pillar Pedestrian Top 16",
@@ -56669,7 +56669,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "PoliceHeadquarters01 Garage Extension",
@@ -56691,7 +56691,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "PoliceHeadquarters01 Helipad",
@@ -56712,7 +56712,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "PoliceHeadquartersExtraJailUpgrade",
@@ -56883,7 +56883,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   ["PoliceStationGarageUpgrade", ["effect", "sfx", "transform"], "Unspawnable"],
   ["PolygonFinishSFX", ["effect", "sfx", "transform"], "Unspawnable"],
@@ -57056,7 +57056,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "PostOffice01 Post Van Garage",
@@ -57079,7 +57079,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "PostSortingFacility01",
@@ -57121,7 +57121,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "PostSortingFacility01 Extra Loading Ramps",
@@ -57144,7 +57144,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "PostSortingFacility01 Mail Storage Extension",
@@ -57167,7 +57167,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "PosterHuge01",
@@ -57292,7 +57292,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Poultry Animal Spawner",
@@ -57480,7 +57480,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "Prison01 Prison Library",
@@ -57503,7 +57503,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   ["PrisonExtraWingUpgrade", ["effect", "sfx", "transform"], "Unspawnable"],
   [
@@ -57525,47 +57525,47 @@ myData = [
   [
     "PrivateVehicleCar01",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "PrivateVehicleCar02-04",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "PrivateVehicleCar05-06",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "PrivateVehicleCar07",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "PrivateVehicleCar08",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "PrivateVehicleMotorbike",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "PrivateVehicleMuscleCar",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "PrivateVehicleScooter",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "PrivateVehicleVan",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   ["Producing Location", ["activitylocation", "transform"], "Unspawnable"],
   [
@@ -57619,7 +57619,7 @@ myData = [
       "telecomfacility",
       "uiobject",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "RadioMast01 Wireless Network Antenna",
@@ -57635,7 +57635,7 @@ myData = [
       "telecomfacility",
       "uiobject",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "RadioTelescope01",
@@ -57710,7 +57710,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "RailYard01 Maintenance Hall",
@@ -57731,7 +57731,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "RailYardMaintenanceHallUpgrade",
@@ -57788,7 +57788,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "RecyclingCenter01 Hazardous Waste Collection Point",
@@ -57810,7 +57810,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "RecyclingCenter01 Storage Extension",
@@ -57832,7 +57832,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "ResidentialHighCloseGroupSFX",
@@ -60477,7 +60477,7 @@ myData = [
       "staticobject",
       "treeobject",
     ],
-    "Spawns Poplar Tree",
+    "Same as Poplar Tree",
   ],
   [
     "RoadArrow Forward Left90 Placeholder",
@@ -60488,7 +60488,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadArrow Forward Left90 Right90 Placeholder",
@@ -60499,7 +60499,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadArrow Forward Placeholder",
@@ -60510,7 +60510,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadArrow Forward Right90 Placeholder",
@@ -60521,7 +60521,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadArrow Left45 Placeholder",
@@ -60532,7 +60532,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadArrow Left45 Right90 Placeholder",
@@ -60543,7 +60543,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadArrow Left90 Placeholder",
@@ -60554,7 +60554,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadArrow Left90 Right45 Placeholder",
@@ -60565,7 +60565,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadArrow Left90 Right90 Placeholder",
@@ -60576,7 +60576,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadArrow Placeholder",
@@ -60588,7 +60588,7 @@ myData = [
       "staticobject",
       "trafficsignobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadArrow Right45 Placeholder",
@@ -60599,7 +60599,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadArrow Right90 Placeholder",
@@ -60610,7 +60610,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadMaintenanceDepot01",
@@ -60656,7 +60656,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "RoadMaintenanceDepotExtraGarageUpgrade",
@@ -60689,7 +60689,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RoadMaintenanceVehicle01_Props01",
@@ -61136,7 +61136,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   ["RocketExhaustVFX", ["effect", "transform", "vfx"], "Unspawnable"],
   [
@@ -61259,7 +61259,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "RooftopAccess01",
@@ -61827,7 +61827,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   ["Sand Surface 01", ["area", "renderedarea", "spawnablearea", "surface"], ""],
   ["Sand Surface 02", ["area", "renderedarea", "spawnablearea", "surface"], ""],
@@ -61885,7 +61885,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured Sandbox01",
   ],
   [
     "SatelliteDishRoof01",
@@ -61933,7 +61933,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "SatelliteDishWall01",
@@ -61985,7 +61985,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "SatelliteUplink01",
@@ -62030,7 +62030,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "Screen01",
@@ -62129,7 +62129,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured Seesaw01",
   ],
   [
     "ServerFarm01",
@@ -62171,7 +62171,7 @@ myData = [
       "telecomfacility",
       "uiobject",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "ServerFarm01 Server Upgrade",
@@ -62187,7 +62187,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   ["ServiceBuildingAirport", ["effect", "sfx", "transform"], "Unspawnable"],
   [
@@ -62829,32 +62829,32 @@ myData = [
   [
     "ServiceVehicleHelicopter",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "ServiceVehicleNormal",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "ServiceVehiclePrisonerVan",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "ServiceVehicleSnowplowEnginePlowing",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "ServiceVehicleTruckEngine",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "ServiceVehicleVanEngine",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "Sewage Pipe Lane 1",
@@ -62936,7 +62936,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "SewageOutlet01 Extra Settling Tank",
@@ -62957,7 +62957,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "SewageOutletExtraSettlingTankUpgrade",
@@ -63062,7 +63062,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "ShipCargo01_LoadPlaceholder01",
@@ -63074,7 +63074,7 @@ myData = [
       "quantityobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "ShipDeckLightSource",
@@ -63184,7 +63184,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "ShippingContainerPileMediumHigh01",
@@ -63228,7 +63228,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "ShippingContainerPileSmallHigh01",
@@ -63272,7 +63272,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "ShippingContainerRandom01",
@@ -63284,7 +63284,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "ShopRack01",
@@ -63368,12 +63368,12 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Sidewalk Prop Placeholder",
     ["object", "objectgeometry", "placeholderobject", "staticobject"],
-    "",
+    "Randomizer",
   ],
   [
     "SignForSale01",
@@ -63424,7 +63424,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "SignFrontwayLarge01",
@@ -63462,7 +63462,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured SignFrontwayLarge01",
   ],
   [
     "SignFrontwayMedium01",
@@ -63500,7 +63500,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured SignFrontwayMedium01",
   ],
   [
     "SignFrontwaySmall01",
@@ -63538,7 +63538,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured SignFrontwaySmall01",
   ],
   [
     "SignNeonLarge01",
@@ -63676,7 +63676,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "SignSidewayMedium01",
@@ -63717,7 +63717,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "SignSidewaySmall01",
@@ -63758,7 +63758,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "SignatureBuildingCommercialLoop",
@@ -64060,7 +64060,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured Slide01",
   ],
   [
     "SlowDownTextDecal01",
@@ -64330,7 +64330,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   ["SmokeFactoryVFX", ["effect", "transform", "vfx"], "Unspawnable"],
   ["SmokeFireVFX", ["effect", "transform", "vfx"], "Unspawnable"],
@@ -64533,7 +64533,7 @@ myData = [
       "unlockable",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "SolarPowerStation01 Advanced Tracking System",
@@ -64550,7 +64550,7 @@ myData = [
       "uiobject",
       "unlockable",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "SolarPowerStation01 Backup Battery",
@@ -64574,7 +64574,7 @@ myData = [
       "unlockable",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "Sound Barrier",
@@ -64675,7 +64675,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured SpinningWheel01",
   ],
   [
     "SportParkAmericanFootballGoal01",
@@ -64734,7 +64734,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Flag is one sided, appears invisible from one side",
   ],
   [
     "SportParkFootballGoal01",
@@ -65084,7 +65084,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "StaircaseSpiralMid01",
@@ -65117,7 +65117,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "StaircaseSpiralRandom01",
@@ -65128,7 +65128,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Stand01",
@@ -65166,7 +65166,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Untextured AStand01",
   ],
   [
     "StandingStone01",
@@ -65265,7 +65265,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "StoneHead01",
@@ -65309,7 +65309,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Stormwater Pipe Lane 1.5",
@@ -65345,7 +65345,7 @@ myData = [
   [
     "StreetLightSource",
     ["effect", "effectcolor", "lighteffect", "randomtransform", "transform"],
-    "",
+    "Unspawnable",
   ],
   [
     "StreetlightDouble01",
@@ -65574,7 +65574,7 @@ myData = [
   [
     "Subway Pillar Placeholder",
     ["object", "objectgeometry", "placeholderobject", "staticobject"],
-    "",
+    "Randomizer",
   ],
   [
     "Subway Pillar Top 10",
@@ -65710,7 +65710,7 @@ myData = [
   [
     "Subway Spawn Location",
     ["markerobject", "netobject", "object", "spawnlocation"],
-    "Replace Parking Lanes with Bus Bays (non removable)",
+    "Non Removable / Replaces Parking Lanes with Bus Bays",
   ],
   [
     "Subway Third Rail Edge",
@@ -65812,7 +65812,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "SubwayStation02",
@@ -65861,7 +65861,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "SubwayStationServicesUpgrade",
@@ -65915,7 +65915,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "SubwayYard01 Maintenance Hall",
@@ -65938,7 +65938,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "SubwayYardMaintenanceHallUpgrade",
@@ -66160,7 +66160,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Untextured SwingSet03",
   ],
   [
     "Table01",
@@ -66280,7 +66280,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "TableRandom01",
@@ -66292,7 +66292,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "TableSet01",
@@ -66556,7 +66556,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "TaxiDepot01 Electric Taxis",
@@ -66572,7 +66572,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "TaxiDepot01 Taxi Garage",
@@ -66595,7 +66595,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "TaxiDepotGarageExtensionUpgrade",
@@ -66743,7 +66743,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "TechnicalUniversity01 Workshop Upgrade",
@@ -66761,7 +66761,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "Teen_Female",
@@ -67199,7 +67199,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "TombstoneRandom01",
@@ -67210,7 +67210,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   ["ToolEndSFX", ["effect", "sfx", "transform"], "Unspawnable"],
   ["ToolFinishSFX", ["effect", "sfx", "transform"], "Unspawnable"],
@@ -67362,7 +67362,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "TractorTrailer02",
@@ -67415,7 +67415,7 @@ myData = [
       "placeholderobject",
       "staticobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Traffic Lights",
@@ -67441,7 +67441,7 @@ myData = [
       "trafficlightobject",
       "trafficsignobject",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Traffic Spawner",
@@ -67644,7 +67644,7 @@ myData = [
   [
     "Train Pillar Placeholder",
     ["object", "objectgeometry", "placeholderobject", "staticobject"],
-    "",
+    "Randomizer",
   ],
   [
     "Train Pillar Top 13",
@@ -67775,7 +67775,7 @@ myData = [
   [
     "Train Spawn Location",
     ["markerobject", "netobject", "object", "spawnlocation"],
-    "Replaces Parking Lanes with Bus Bays (non removable)",
+    "Non Removable / Replaces Parking Lanes with Bus Bays",
   ],
   [
     "Train Vertical Pillar",
@@ -67832,7 +67832,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainCargoCar01_LoadPlaceholder01",
@@ -67844,7 +67844,7 @@ myData = [
       "quantityobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainCargoEngine01",
@@ -67890,7 +67890,7 @@ myData = [
       "quantityobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainForestryCar01_LogPile01",
@@ -67901,7 +67901,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainForestryCar01_LogPile01-1",
@@ -67912,7 +67912,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainForestryCar01_LogPile01-2",
@@ -67923,7 +67923,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainForestryCar01_LogPile02",
@@ -67934,7 +67934,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainForestryCar01_LogPile02-1",
@@ -67945,7 +67945,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainForestryCar01_LogPile02-2",
@@ -67956,7 +67956,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainForestryCar01_LogPile03",
@@ -67967,7 +67967,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainForestryCar01_LogPile03-1",
@@ -67978,7 +67978,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainForestryCar01_LogPile03-2",
@@ -67989,7 +67989,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainHeadlightSmallSource",
@@ -68044,7 +68044,7 @@ myData = [
       "quantityobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainOreCar01_OrePile01",
@@ -68056,7 +68056,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TrainPassengerCar01",
@@ -68153,7 +68153,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "TrainStation01 Services",
@@ -68177,7 +68177,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "TrainStation01 Subway Interface",
@@ -68199,7 +68199,7 @@ myData = [
       "unlockable",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "TrainStation01 Taxi Stop",
@@ -68220,7 +68220,7 @@ myData = [
       "unlockable",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "TrainStation01ClockPointers01",
@@ -68262,7 +68262,7 @@ myData = [
   [
     "Tram Spawn Location",
     ["markerobject", "netobject", "object", "spawnlocation"],
-    "Replaces Parking Lanes with Wide Sidewalk (non removable)",
+    "Non Removable / Replaces Parking Lanes with Wide Sidewalk",
   ],
   [
     "TramCar01",
@@ -68346,7 +68346,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "TramDepotGarageExtensionUpgrade",
@@ -68521,72 +68521,72 @@ myData = [
   [
     "TransportationTaxiBoarding",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehicleBusElectric",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehicleBusEngine",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehiclePlane",
     ["effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehicleShip",
     ["effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehicleSpaceRocket",
     ["effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehicleSubwayCar",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehicleSubwayEngine",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehicleTaxiElectric",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehicleTaxiEngine",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehicleTrainCar",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehicleTrainEnginePassenger",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehicleTramCar",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   [
     "TransportationVehicleTramEngine",
     ["cullingeffect", "effect", "sfx", "transform", "vehiclesfx"],
-    "",
+    "Unspawnable",
   ],
   ["TransportlineBuildSFX", ["effect", "sfx", "transform"], "Unspawnable"],
   ["TransportlineCompleteSFX", ["effect", "sfx", "transform"], "Unspawnable"],
@@ -68890,7 +68890,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "TreeWildRandom01",
@@ -68903,7 +68903,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Trees",
@@ -68959,7 +68959,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TruckTrailer02_LoadPlaceholder01",
@@ -68971,7 +68971,7 @@ myData = [
       "quantityobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TruckTrailer03",
@@ -68999,7 +68999,7 @@ myData = [
       "quantityobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TruckTrailer03_LogPile01",
@@ -69010,7 +69010,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TruckTrailer03_LogPile01-1",
@@ -69021,7 +69021,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TruckTrailer03_LogPile01-2",
@@ -69032,7 +69032,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TruckTrailer03_LogPile02",
@@ -69043,7 +69043,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TruckTrailer03_LogPile02-1",
@@ -69054,7 +69054,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TruckTrailer03_LogPile02-2",
@@ -69065,7 +69065,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TruckTrailer03_LogPile03",
@@ -69076,7 +69076,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TruckTrailer03_LogPile03-1",
@@ -69087,7 +69087,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TruckTrailer03_LogPile03-2",
@@ -69098,7 +69098,7 @@ myData = [
       "spawnableobject",
       "staticobject",
     ],
-    "",
+    "Invisible",
   ],
   [
     "TruckTrailer04",
@@ -69265,7 +69265,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "University01 Library",
@@ -69286,7 +69286,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "University01 Park",
@@ -69310,7 +69310,7 @@ myData = [
       "uiobject",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   ["UniversitySpots", ["audiospot", "effect", "transform"], "Unspawnable"],
   [
@@ -69329,7 +69329,7 @@ myData = [
       "vehicle",
       "vehiclesideeffects",
     ],
-    "Parked",
+    "Parked on the nearest Street",
   ],
   [
     "VehicleForestryWorklightSource",
@@ -69398,7 +69398,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "VentilationDuct01",
@@ -69497,7 +69497,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "VentilationDuctElbowVertical01",
@@ -69596,7 +69596,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "VentilationDuctElbowVerticalRandom01",
@@ -69607,7 +69607,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "VentilationDuctGroundConnection01",
@@ -69662,7 +69662,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "VentilationDuctRandom01",
@@ -69673,7 +69673,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "VentilationDuctSupportConnection01",
@@ -69772,7 +69772,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "VentilationDuctSupportsElbow01",
@@ -69827,7 +69827,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "VentilationDuctSupportsRandom01",
@@ -69838,7 +69838,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "VentilationDuctSupportsTJoint01",
@@ -69893,7 +69893,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "VentilationDuctTJoint01",
@@ -69948,7 +69948,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "VentilationDuctVertical01",
@@ -70008,7 +70008,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "VentilationDuctWallConnection01",
@@ -70063,7 +70063,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Vertical Pillar",
@@ -70295,7 +70295,7 @@ myData = [
       "streetlightobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "WallLightShortRange01",
@@ -70702,7 +70702,7 @@ myData = [
       "uiobject",
       "unlockable",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "WastewaterTreatmentPlant01 Extra Processing Unit",
@@ -70725,7 +70725,7 @@ myData = [
       "unlockable",
       "workplace",
     ],
-    "Decorative",
+    "Upgrade as Decoration",
   ],
   [
     "Water Outside Connection",
@@ -70961,7 +70961,7 @@ myData = [
       "waterpumpingstation",
       "workplace",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "WaterPumpingStationExtraPumpUpgrade",
@@ -71056,7 +71056,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   ["WaterVaporFactoryBigVFX", ["effect", "transform", "vfx"], "Unspawnable"],
   ["WaterVaporFactorySmallVFX", ["effect", "transform", "vfx"], "Unspawnable"],
@@ -71160,7 +71160,7 @@ myData = [
       "uiobject",
       "windpowered",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "WindTurbine01 Battery Extension",
@@ -71178,7 +71178,7 @@ myData = [
       "uiobject",
       "unlockable",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "WindTurbine01 Solar Assisted",
@@ -71196,7 +71196,7 @@ myData = [
       "uiobject",
       "unlockable",
     ],
-    "Base",
+    "Requires Base Building",
   ],
   [
     "WindowBoardsLarge01",
@@ -71244,7 +71244,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "WindowBoardsMedium01",
@@ -71292,7 +71292,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "WindowBoardsSmall01",
@@ -71340,7 +71340,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "WindowCleaningPlatform01",
@@ -71413,7 +71413,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "WindowSecurityShuttersMedium01",
@@ -71461,7 +71461,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "WindowSecurityShuttersSmall01",
@@ -71509,7 +71509,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "WoodStack01",
@@ -71569,7 +71569,7 @@ myData = [
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Randomizer",
   ],
   [
     "Wooden Covered Bridge - 2 lanes",
