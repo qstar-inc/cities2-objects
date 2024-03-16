@@ -22,7 +22,7 @@
             <a class="navbar-brand" href="/">
                 <h2>StarQ</h1>
             </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+            <button class="navbar-toggler" id="toaster" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -30,12 +30,27 @@
         </div>
     </nav>
 
+    <!-- Toast -->
+    <div class="toast-container position-fixed bottom-0 end-0 p-3">
+
+        <div id="nothingToast" class="toast align-items-center text-bg-primary border-0" role="alert"
+            aria-live="assertive" aria-atomic="true">
+            <div class="d-flex">
+                <div class="toast-body">
+                    Hello there! This does nothing (yet)!
+                </div>
+                <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"
+                    aria-label="Close"></button>
+            </div>
+        </div>
+    </div>
+
     <!-- Page Content -->
     <div class="container mb-5">
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="mt-5">Cities: Skylines 2 Developer Mode AddObjects item list</h1>
-                <h3 class="text-end">Version 1.03</h3>
+                <h3 class="text-end">Version 1.03.1</h3>
             </div>
             <div class="card card-body" id="howtoDiv">
                 <div class="text-center">
@@ -65,7 +80,8 @@
                                 However, reviewing the notes
                                 is recommended for any additional information.</li>
                         </ul>
-                        <p>The filters below can also help you narrow down what you're looking for.</p>
+                        <p>The filters below can also help you narrow down what you're looking for. You can select
+                            multiple values on the filters at once.</p>
                     </div>
                 </div>
             </div>
@@ -75,59 +91,58 @@
                 <button class="btn btn-primary d-none" type="button" data-bs-toggle="collapse"
                     data-bs-target="#collapseFilters" aria-expanded="false" aria-controls="collapseFilters"
                     id="filtersButton">
-                    Show Filters
+                    Toggle Filters
                 </button>
             </div>
             <div class="collapse mt-3" id="collapseFilters">
                 <div class="d-flex flex-wrap justify-content-around align-items-center">
                     <div id="filterDiv" class="divGroup">
-                        <label class="divSelectLabel" id="filterSelectLabel" for="filterSelect">Filter:</label><select
-                            class="divSelect" id="filterSelect" multiple class="text-bg-dark">
+                        <label class="divSelectLabel" id="filterSelectLabel" for="filterSelect">Filter:</label>
+                        <select class="divSelect" id="filterSelect" multiple class="text-bg-dark">
                             <option value="">All</option>
-                        </select><span class="selectMultipleText"><br /> (select multiple)</span>
+                        </select>
                     </div>
                     <div id="notesDiv" class="divGroup">
-                        <label class="divSelectLabel" id="notesSelectLabel" for="notesSelect">Notes:</label><select
-                            class="divSelect" id="notesSelect" multiple class="text-bg-dark">
+                        <label class="divSelectLabel" id="notesSelectLabel" for="notesSelect">Notes:</label>
+                        <select class="divSelect" id="notesSelect" multiple class="text-bg-dark">
                             <option value="">All</option>
-                        </select><span class="selectMultipleText"><br />(select multiple)</span>
+                        </select>
                     </div>
                 </div>
                 <div class="d-flex flex-wrap justify-content-around align-items-center">
                     <div id="dlcDiv" class="divGroup">
-                        <label class="divSelectLabel" id="dlcSelectLabel" for="dlcSelect">Unlock:</label><select
-                            class="divSelect" id="dlcSelect" multiple class="text-bg-dark">
+                        <label class="divSelectLabel" id="dlcSelectLabel" for="dlcSelect">Unlock:</label>
+                        <select class="divSelect" id="dlcSelect" multiple class="text-bg-dark">
                             <option value="">All</option>
-                        </select><span class="selectMultipleText"><br />(select multiple)</span>
+                        </select>
                     </div>
                     <div id="categoryDiv" class="divGroup">
-                        <label class="divSelectLabel2" id="categorySelectLabel"
-                            for="categorySelect">Category:</label><select class="divSelect" id="categorySelect" multiple
-                            class="text-bg-dark">
+                        <label class="divSelectLabel2" id="categorySelectLabel" for="categorySelect">Category:</label>
+                        <select class="divSelect" id="categorySelect" multiple class="text-bg-dark">
                             <option value="">All</option>
-                        </select><span class="selectMultipleText"><br />(select multiple)</span>
+                        </select>
                     </div>
                     <div id="subCategoryDiv" class="divGroup">
                         <label class="divSelectLabel2" id="subcategorySelectLabel"
-                            for="subcategorySelect">Subcategory:</label><select class="divSelect" id="subcategorySelect"
-                            multiple class="text-bg-dark">
+                            for="subcategorySelect">Subcategory:</label>
+                        <select class="divSelect" id="subcategorySelect" multiple class="text-bg-dark">
                             <option value="">All</option>
-                        </select><span class="selectMultipleText"><br />(select multiple)</span>
+                        </select>
                     </div>
                 </div>
             </div>
             <table id="myDataTable" class="table table-sm table-hover">
                 <thead id="thead" class="d-none">
                     <tr>
-                        <th>Sl</th>
-                        <th class="normal-column">Name</th>
-                        <th>Filter</th>
-                        <th class="normal-column">Notes</th>
-                        <th class="mixed-column">Name / Notes</th>
-                        <th class="normal-column" id="table-column">Unlock</th>
-                        <th class="normal-column" id="hidden-column">Category</th>
-                        <th class="normal-column" id="hidden-column">Subcategory</th>
-                        <th class="normal-column" id="table-column">Categories</th>
+                        <th class="serial-column">Sl</th>
+                        <th class="normal-column long-column">Name</th>
+                        <th class="hidden-column">Filter</th>
+                        <th class="normal-column long-column">Notes</th>
+                        <th class="mixed-column xl-column">Name / Notes</th>
+                        <th class="normal-column small-column">Unlock</th>
+                        <th class="hidden-column">Category</th>
+                        <th class="hidden-column">Subcategory</th>
+                        <th class="normal-column small-column">Categories</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -200,8 +215,10 @@
                                 if (row[2] == '') {
                                     text = row[0];
                                 } else {
-                                    text = row[0] + '<br><span class="m-1 px-2 border rounded bg-warning text-dark"><b>Note:</b> <small><i>' + row[2] + '</i></small></span>';
+                                    text = row[0] + "<br><span class='m-1 px-2 border rounded bg-warning text-dark'><b>Note:</b> <small><i>" + row[2] + "</i></small></span>";
                                 }
+                                text += "<br><b>Requires: </b>" + dlc[Number(row[3]) - 1][2];
+                                text += "<br><b>Category: </b>" + row[4] + " > " + row[5];
                                 return text;
                             },
                             orderable: false,
@@ -357,8 +374,19 @@
                 initializeDataTable();
                 $('#filtersButton').removeClass('d-none');
                 $('#howtoDiv').addClass('d-none');
+                $('#loadDataTableButton').addClass('d-none');
             });
         });
+
+        const toastTrigger = document.getElementById('toaster')
+        const toastLiveExample = document.getElementById('nothingToast')
+
+        if (toastTrigger) {
+            const toastBootstrap = bootstrap.Toast.getOrCreateInstance(toastLiveExample)
+            toastTrigger.addEventListener('click', () => {
+                toastBootstrap.show()
+            })
+        }
     </script>
 </body>
 

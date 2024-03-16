@@ -17,7 +17,8 @@ body {
   margin-bottom: 1rem !important;
 }
 
-.divSelect {
+.divSelect,
+#dt-length-0 {
   border: 1px solid #aaa;
   border-radius: 3px;
   padding: 5px;
@@ -27,30 +28,34 @@ body {
 }
 
 .divSelectLabel,
-.dt-search > label {
+.dt-search > label,
+.dt-length > label {
   width: 4.5rem !important;
+  text-align: end;
+  margin-right: 0.5rem;
 }
 
 .divSelectLabel2 {
   width: 6rem !important;
+  text-align: end;
+  margin-right: 0.5rem;
 }
 
 .divSelect,
-#dt-search-0 {
-  width: 15rem !important;
-}
-
+#dt-search-0,
 #dt-length-0 {
-  margin-left: 1.35rem !important;
   width: 15rem !important;
 }
 
 @media screen and (max-width: 767px) {
+  .divSelectLabel,
+  .divSelectLabel2,
+  .dt-search > label,
+  .dt-length > label {
+    width: 6.5rem !important;
+  }
   .divGroup {
     text-align: center !important;
-  }
-  .selectMultipleText {
-    display: none !important;
   }
 }
 
@@ -70,7 +75,7 @@ body {
 }
 
 .xl-column {
-  min-width: 50% !important;
+  min-width: 80vw !important;
 }
 
 .small-column {
