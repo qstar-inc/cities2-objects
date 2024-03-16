@@ -35,17 +35,20 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="mt-5">Cities: Skylines 2 Developer Mode AddObjects item list</h1>
-                <p></p>
+                <h3 class="text-end">Version 1.03</h3>
             </div>
-            <div class="card card-body">
+            <div class="card card-body" id="howtoDiv">
                 <div class="text-center">
                     <button class="btn btn-primary" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                        data-bs-target="#collapseHowItWorks" aria-expanded="false" aria-controls="collapseHowItWorks"
+                        id="howtoButton">
                         How it works?
                     </button>
                 </div>
-                <div class="collapse mt-3" id="collapseExample">
+                <div class="collapse mt-3" id="collapseHowItWorks">
                     <div class="card card-body pb-0">
+                        <p>First, tap the "Load Table" button to initaialize the table. This is to prevent accidental
+                            hang up on lower end devices as the table is pretty large.</p>
                         <p>
                             The table is color-coded to make it easy to understand their function and behavior.</p>
                         <ul>
@@ -62,22 +65,56 @@
                                 However, reviewing the notes
                                 is recommended for any additional information.</li>
                         </ul>
+                        <p>The filters below can also help you narrow down what you're looking for.</p>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="table-responsive mt-4">
-            <div id="filterDiv">
-                <label id="filterSelectLabel" for="filterSelect">Filter:</label><select id="filterSelect" multiple
-                    class="text-bg-dark">
-                    <option value="">All</option>
-                </select><span class="selectMultipleText"> (select multiple)</span>
+        <div class="table-responsive mt-3">
+            <div class="text-center">
+                <button class="btn btn-primary d-none" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapseFilters" aria-expanded="false" aria-controls="collapseFilters"
+                    id="filtersButton">
+                    Show Filters
+                </button>
             </div>
-            <div id="notesDiv">
-                <label id="notesSelectLabel" for="notesSelect">Notes:</label><select id="notesSelect" multiple
-                    class="text-bg-dark">
-                    <option value="">All</option>
-                </select><span class="selectMultipleText"> (select multiple)</span>
+            <div class="collapse mt-3" id="collapseFilters">
+                <div class="d-flex flex-wrap justify-content-around align-items-center">
+                    <div id="filterDiv" class="divGroup">
+                        <label class="divSelectLabel" id="filterSelectLabel" for="filterSelect">Filter:</label><select
+                            class="divSelect" id="filterSelect" multiple class="text-bg-dark">
+                            <option value="">All</option>
+                        </select><span class="selectMultipleText"><br /> (select multiple)</span>
+                    </div>
+                    <div id="notesDiv" class="divGroup">
+                        <label class="divSelectLabel" id="notesSelectLabel" for="notesSelect">Notes:</label><select
+                            class="divSelect" id="notesSelect" multiple class="text-bg-dark">
+                            <option value="">All</option>
+                        </select><span class="selectMultipleText"><br />(select multiple)</span>
+                    </div>
+                </div>
+                <div class="d-flex flex-wrap justify-content-around align-items-center">
+                    <div id="dlcDiv" class="divGroup">
+                        <label class="divSelectLabel" id="dlcSelectLabel" for="dlcSelect">Unlock:</label><select
+                            class="divSelect" id="dlcSelect" multiple class="text-bg-dark">
+                            <option value="">All</option>
+                        </select><span class="selectMultipleText"><br />(select multiple)</span>
+                    </div>
+                    <div id="categoryDiv" class="divGroup">
+                        <label class="divSelectLabel2" id="categorySelectLabel"
+                            for="categorySelect">Category:</label><select class="divSelect" id="categorySelect" multiple
+                            class="text-bg-dark">
+                            <option value="">All</option>
+                        </select><span class="selectMultipleText"><br />(select multiple)</span>
+                    </div>
+                    <div id="subCategoryDiv" class="divGroup">
+                        <label class="divSelectLabel2" id="subcategorySelectLabel"
+                            for="subcategorySelect">Subcategory:</label><select class="divSelect" id="subcategorySelect"
+                            multiple class="text-bg-dark">
+                            <option value="">All</option>
+                        </select><span class="selectMultipleText"><br />(select multiple)</span>
+                    </div>
+                </div>
             </div>
             <table id="myDataTable" class="table table-sm table-hover">
                 <thead id="thead" class="d-none">
@@ -87,11 +124,20 @@
                         <th>Filter</th>
                         <th class="normal-column">Notes</th>
                         <th class="mixed-column">Name / Notes</th>
+                        <th class="normal-column" id="table-column">Unlock</th>
+                        <th class="normal-column" id="hidden-column">Category</th>
+                        <th class="normal-column" id="hidden-column">Subcategory</th>
+                        <th class="normal-column" id="table-column">Categories</th>
                     </tr>
                 </thead>
                 <tbody>
                 </tbody>
             </table>
+            <div class="text-center">
+                <button class="btn btn-primary" type="button" id="loadDataTableButton">
+                    Load Table
+                </button>
+            </div>
         </div>
     </div>
     <footer class="footer bg-secondary fixed-bottom text-center">
@@ -119,109 +165,198 @@
         src="https://cdn.datatables.net/v/dt/dt-2.0.0/af-2.7.0/b-3.0.0/b-colvis-3.0.0/b-html5-3.0.0/b-print-3.0.0/cr-2.0.0/date-1.5.2/fc-5.0.0/fh-4.0.0/kt-2.12.0/r-3.0.0/rg-1.5.0/rr-1.5.0/sc-2.4.0/sb-1.7.0/sp-2.3.0/sl-2.0.0/sr-1.4.0/datatables.min.js"></script>
     <!-- Data -->
     <script src="min/data.min.js"></script>
+    <script src="min/dlc.min.js"></script>
     <script src="min/filters.min.js"></script>
+    <script src="min/categories.min.js"></script>
     <!-- Datatables Code -->
     <script>
         $(document).ready(function () {
-            var dataTable = $('#myDataTable').DataTable({
-                data: myData,
-                columns: [
-                    {
-                        data: null,
-                        className: 'serial-column',
-                        render: function (data, type, row, meta) {
-                            // 'meta.row' provides the index of the row
-                            return meta.row + 1;
+            function initializeDataTable() {
+                var dataTable = $('#myDataTable').DataTable({
+                    data: myData,
+                    columns: [
+                        {
+                            data: null,
+                            className: 'serial-column',
+                            render: function (data, type, row, meta) {
+                                return meta.row + 1;
+                            }
+                        },
+                        {
+                            data: 0,
+                            className: 'normal-column long-column',
+                        },
+                        {
+                            data: 1,
+                            className: 'hidden-column',
+                            visible: false
+                        },
+                        {
+                            data: 2,
+                            className: 'normal-column long-column'
+                        },
+                        {
+                            data: function (row) {
+                                if (row[2] == '') {
+                                    text = row[0];
+                                } else {
+                                    text = row[0] + '<br><span class="m-1 px-2 border rounded bg-warning text-dark"><b>Note:</b> <small><i>' + row[2] + '</i></small></span>';
+                                }
+                                return text;
+                            },
+                            orderable: false,
+                            className: 'mixed-column xl-column'
+                        },
+                        {
+                            data: 3,
+                            className: 'normal-column small-column',
+                            render: function (data, type, row, meta) {
+                                return dlc[Number(data) - 1][2];
+                            }
+                        },
+                        {
+                            data: 4,
+                            className: 'hidden-column',
+                            visible: false
+                        },
+                        {
+                            data: 5,
+                            className: 'hidden-column',
+                            visible: false
+                        },
+                        {
+                            data: 4,
+                            className: 'normal-column small-column',
+                            render: function (data, type, row, meta) {
+                                return data + " > " + row[5];
+                            }
+                        }
+                    ],
+                    createdRow: function (row, data, index) {
+                        var notes = data[2];
+                        // Apply color based on cell value
+                        if (notes === 'Randomizer' || notes === 'Crash to Desktop' || notes === 'Invisible' || notes.slice(0, 2) === 'Un' || notes === 'Specialized Industry Base / Despawns') {
+                            $(row).addClass('row-red');
+                        } else if (notes === 'Duplicate / Placeholder' || notes.slice(0, 4) === 'Flag' || notes === 'Hovers' || notes.slice(0, 2) === 'No' || notes.slice(0, 6) === 'Parked' || notes.slice(0, 4) === 'Same') {
+                            $(row).addClass('row-yellow');
+                        } else if (notes === '' || notes === 'Floats' || notes.slice(0, 8) === 'Modifies' || notes === 'Moves' || notes === 'Network Upgrade' || notes === 'Poleless' || notes.slice(0, 3) === 'Req' || notes.slice(0, 3) === 'Upg') {
+                            $(row).addClass('row-green');
                         }
                     },
-                    {
-                        data: 0,
-                        className: 'normal-column'
+                    lengthMenu: [
+                        [25, 50, 100, 500, 1000, -1],
+                        ['25 entries', '50 entries', '100 entries', '500 entries', '1000 entries', 'All (Warning: Long)']
+                    ],
+                    initComplete: function () {
+                        var lengthSelect = $('select[name="myDataTable_length"]');
+                        lengthSelect.addClass('text-bg-dark');
+                        $('#thead').removeClass('d-none');
                     },
-                    {
-                        data: 1,
-                        visible: false
+                    pageLength: 50,
+                    pagingType: 'simple_numbers',
+                    layout: {
+                        topStart: 'pageLength',
+                        top2Start: 'search',
+                        topEnd: null,
                     },
-                    {
-                        data: 2,
-                        className: 'normal-column'
-                    },
-                    {
-                        data: function (row) {
-                            if (row[2] == '') {
-                                text = row[0];
-                            } else {
-                                text = row[0] + '<br><span class="m-1 px-2 border rounded bg-warning text-dark"><b>Note:</b> <small><i>' + row[2] + '</i></small></span>';
-                            }
-                            return text;
-                        },
-                        orderable: false,
-                        className: 'mixed-column'
+                    language: {
+                        lengthMenu: 'Display: _MENU_'
                     }
-                ],
-                createdRow: function (row, data, index) {
-                    var notes = data[2];
-                    // Apply color based on cell value
-                    if (notes === 'Randomizer' || notes === 'Crash to Desktop' || notes === 'Invisible' || notes.slice(0, 2) === 'Un') {
-                        $(row).addClass('row-red');
-                    } else if (notes === 'Duplicate / Placeholder' || notes.slice(0, 4) === 'Flag' || notes === 'Hovers' || notes.slice(0, 2) === 'No' || notes.slice(0, 6) === 'Parked' || notes.slice(0, 4) === 'Same') {
-                        $(row).addClass('row-yellow');
-                    } else if (notes === '' || notes === 'Floats' || notes.slice(0, 8) === 'Modifies' || notes === 'Moves' || notes === 'Network Upgrade' || notes === 'Poleless' || notes.slice(0, 3) === 'Req' || notes.slice(0, 3) === 'Upg') {
-                        $(row).addClass('row-green');
-                    }
-                    // Add more conditions as needed for different values
-                },
-                lengthMenu: [
-                    [25, 50, 100, 500, 1000, -1],
-                    [25, 50, 100, 500, 1000, 'All (Warning: Long)']
-                ],
-                initComplete: function () {
-                    var lengthSelect = $('select[name="myDataTable_length"]');
-                    lengthSelect.addClass('text-bg-dark');
-                    $('#thead').removeClass('d-none');
-                },
-                pageLength: 50,
-                pagingType: 'simple_numbers',
-                layout: {
-                    topStart: 'pageLength',
-                    top2Start: 'search',
-                    topEnd: null,
-                },
-                language: {
-                    lengthMenu: 'Display _MENU_ records'
-                }
-            });
-            var filterSelect = $('#filterSelect');
-            filters.forEach(function (filter) {
-                filterSelect.append($('<option>', {
-                    value: filter,
-                    text: filter
-                }));
-            });
+                });
 
-            // Populate notes options
-            var notesSelect = $('#notesSelect');
-            var uniqueNotes = dataTable.column(3).data().unique().sort(); // Extract unique values from column 3 (Notes)
-            var notesMap = new Map();
-            uniqueNotes.each(function (note) {
-                var displayNote = note.includes("Untextured") ? "Untextured" : note;
-                var valueNote = note.includes("Untextured") ? "Untextured*" : note;
-                notesMap.set(displayNote, valueNote);
-            });
-            notesMap.forEach(function (value, key) {
-                notesSelect.append($('<option>', {
-                    value: value,
-                    text: key
-                }));
-            });
+                var filterSelect = $('#filterSelect');
+                filters.forEach(function (filter) {
+                    filterSelect.append($('<option>', {
+                        value: filter,
+                        text: filter
+                    }));
+                });
 
-            // Apply filter on select change
-            filterSelect.add(notesSelect).on('change', function () {
-                var selectedFilters = filterSelect.val() || []; // Get selected values or an empty array
-                var selectedNotes = notesSelect.val() || []; // Get selected notes or an empty array
-                var regex = selectedFilters.join('|');
-                dataTable.columns(2).search(regex, true, false).draw();
-                dataTable.columns(3).search(selectedNotes.join('|'), true, false).draw();
+                // Populate notes options
+                var notesSelect = $('#notesSelect');
+                var uniqueNotes = dataTable.column(3).data().unique().sort();
+                var notesMap = new Map();
+                uniqueNotes.each(function (note) {
+                    var displayNote = note.includes("Untextured") ? "Untextured" : note;
+                    var valueNote = note.includes("Untextured") ? "Untextured*" : note;
+                    notesMap.set(displayNote, valueNote);
+                });
+                notesMap.forEach(function (value, key) {
+                    notesSelect.append($('<option>', {
+                        value: value,
+                        text: key
+                    }));
+                });
+
+                // Populate DLC
+                var dlcSelect = $('#dlcSelect');
+                dlc.forEach(function (dlc) {
+                    dlcSelect.append($('<option>', {
+                        value: dlc[2],
+                        text: dlc[2]
+                    }));
+                });
+
+                // Populate Category
+                var categorySelect = $('#categorySelect');
+                categories.forEach(function (category) {
+                    var categoryValue = category[1];
+                    if (!categorySelect.find('option[value="' + categoryValue + '"]').length) {
+                        categorySelect.append($('<option>', {
+                            value: category[1],
+                            text: category[1]
+                        }));
+                    };
+                });
+
+                // Populate Subategory
+                var subcategorySelect = $('#subcategorySelect');
+                var selectedCategories = [];
+                categorySelect.on('change', function () {
+                    selectedCategories = $(this).val() || [];
+                    console.log(selectedCategories);
+                    subcategorySelect.empty();
+                    subcategorySelect.append($('<option>', {
+                        value: '',
+                        text: 'All'
+                    }));
+                    selectedCategories.forEach(function (selectedCategory) {
+                        categories.forEach(function (category2) {
+                            if (category2[1] === selectedCategory.toString()) {
+                                var subcategoryValue = category2[2];
+                                if (!subcategorySelect.find('option[value="' + subcategoryValue + '"]').length) {
+                                    subcategorySelect.append($('<option>', {
+                                        value: category2[2],
+                                        text: category2[2]
+                                    }));
+                                };
+                            };
+                        });
+                    });
+                });
+
+                // Apply filter on select change
+                filterSelect.add(notesSelect).add(dlcSelect).add(categorySelect).add(subcategorySelect).on('change', function () {
+                    var selectedFilters = filterSelect.val() || [];
+                    var selectedNotes = notesSelect.val() || [];
+                    var selectedDlc = dlcSelect.val() || [];
+                    var selectedCategory = categorySelect.val() || [];
+                    var selectedSubcategory = subcategorySelect.val() || '';
+
+                    // Apply filters to the table
+                    var regex = selectedFilters.join('|');
+                    dataTable.columns(2).search(regex, true, false).draw();
+                    dataTable.columns(3).search(selectedNotes.join('|'), true, false).draw();
+                    dataTable.columns(5).search(selectedDlc.join('|'), true, false).draw();
+                    dataTable.columns(6).search(selectedCategory.join('|'), true, false).draw();
+                    dataTable.columns(7).search(selectedSubcategory || '', true, false).draw();
+                });
+            };
+
+            $('#loadDataTableButton').on('click', function () {
+                initializeDataTable();
+                $('#filtersButton').removeClass('d-none');
+                $('#howtoDiv').addClass('d-none');
             });
         });
     </script>

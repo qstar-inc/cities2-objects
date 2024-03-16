@@ -13,8 +13,11 @@ body {
   height: 3rem !important;
 }
 
-#filterSelect,
-#notesSelect {
+.divGroup {
+  margin-bottom: 1rem !important;
+}
+
+.divSelect {
   border: 1px solid #aaa;
   border-radius: 3px;
   padding: 5px;
@@ -23,25 +26,27 @@ body {
   margin-left: 3px;
 }
 
-#filterSelectLabel,
-#notesSelectLabel,
+.divSelectLabel,
 .dt-search > label {
-  width: 3.2rem !important;
+  width: 4.5rem !important;
 }
 
-#filterSelect,
-#notesSelect,
+.divSelectLabel2 {
+  width: 6rem !important;
+}
+
+.divSelect,
 #dt-search-0 {
   width: 15rem !important;
 }
 
 #dt-length-0 {
-  width: 11.5rem !important;
+  margin-left: 1.35rem !important;
+  width: 15rem !important;
 }
 
 @media screen and (max-width: 767px) {
-  #filterDiv,
-  #notesDiv {
+  .divGroup {
     text-align: center !important;
   }
   .selectMultipleText {
@@ -54,6 +59,26 @@ body {
 }
 .normal-column {
   display: table-cell;
+}
+
+.serial-column {
+  min-width: 5% !important;
+}
+
+.long-column {
+  min-width: 25% !important;
+}
+
+.xl-column {
+  min-width: 50% !important;
+}
+
+.small-column {
+  min-width: 20% !important;
+}
+
+.hidden-column {
+  min-width: 0px !important;
 }
 
 /* Media query for small screens */
