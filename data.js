@@ -23663,7 +23663,7 @@ myData = [
       "placeablenet",
       "powerline",
     ],
-    "",
+    "Non Removable",
   ],
   [
     "HighPitchAdultHappy",
@@ -24759,7 +24759,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub01_L2",
@@ -24778,7 +24778,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub01_L3",
@@ -24797,7 +24797,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub01_L4",
@@ -24816,7 +24816,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub01_L5",
@@ -24835,7 +24835,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub02_L1",
@@ -24854,7 +24854,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub02_L2",
@@ -24873,7 +24873,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub02_L3",
@@ -24892,7 +24892,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub02_L4",
@@ -24911,7 +24911,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub02_L5",
@@ -24930,7 +24930,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub03_L1",
@@ -24949,7 +24949,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub03_L2",
@@ -24968,7 +24968,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub03_L3",
@@ -24987,7 +24987,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub03_L4",
@@ -25006,7 +25006,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialAgricultureHub03_L5",
@@ -25025,7 +25025,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialChimneyLarge01 Agriculture",
@@ -25260,7 +25260,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub01_L2",
@@ -25278,7 +25278,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub01_L3",
@@ -25296,7 +25296,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub01_L4",
@@ -25314,7 +25314,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub01_L5",
@@ -25332,7 +25332,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub02_L1",
@@ -25350,7 +25350,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub02_L2",
@@ -25368,7 +25368,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub02_L3",
@@ -25386,7 +25386,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub02_L4",
@@ -25404,7 +25404,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub02_L5",
@@ -25422,7 +25422,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub03_L1",
@@ -25440,7 +25440,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub03_L2",
@@ -25458,7 +25458,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub03_L3",
@@ -25476,7 +25476,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub03_L4",
@@ -25494,7 +25494,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialForestryHub03_L5",
@@ -25512,7 +25512,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialManufacturing01_L1_2x2",
@@ -29864,7 +29864,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub01_L2",
@@ -29883,7 +29883,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub01_L3",
@@ -29902,7 +29902,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub01_L4",
@@ -29921,7 +29921,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub01_L5",
@@ -29940,7 +29940,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub02_L1",
@@ -29959,7 +29959,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub02_L2",
@@ -29978,7 +29978,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub02_L3",
@@ -29997,7 +29997,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub02_L4",
@@ -30016,7 +30016,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub02_L5",
@@ -30035,7 +30035,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub03_L1",
@@ -30054,7 +30054,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub03_L2",
@@ -30073,7 +30073,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub03_L3",
@@ -30092,7 +30092,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub03_L4",
@@ -30111,7 +30111,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOilHub03_L5",
@@ -30130,7 +30130,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   ["IndustrialOreCloseGroupSFX", ["effect", "sfx", "transform"], "Unspawnable"],
   [
@@ -30155,7 +30155,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub01_L2",
@@ -30174,7 +30174,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub01_L3",
@@ -30193,7 +30193,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub01_L4",
@@ -30212,7 +30212,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub01_L5",
@@ -30231,7 +30231,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub02_L1",
@@ -30250,7 +30250,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub02_L2",
@@ -30269,7 +30269,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub02_L3",
@@ -30288,7 +30288,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub02_L4",
@@ -30307,7 +30307,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub02_L5",
@@ -30326,7 +30326,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub03_L1",
@@ -30345,7 +30345,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub03_L2",
@@ -30364,7 +30364,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub03_L3",
@@ -30383,7 +30383,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub03_L4",
@@ -30402,7 +30402,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialOreHub03_L5",
@@ -30421,7 +30421,7 @@ myData = [
       "staticobject",
       "uiobject",
     ],
-    "Requires Zoning",
+    "Specialized Industry Base / Despawns",
   ],
   [
     "IndustrialStorageAgriculture01_L1_2x2",
@@ -36966,7 +36966,7 @@ myData = [
       "placeablenet",
       "powerline",
     ],
-    "",
+    "Non Removable",
   ],
   [
     "Low-voltage Marker - Small",
@@ -53389,7 +53389,7 @@ myData = [
   [
     "Oil Extractor Placeholder",
     ["object", "objectgeometry", "placeholderobject", "staticobject"],
-    "Randomizer",
+    "Invisible",
   ],
   [
     "Oil Lot",
@@ -53720,7 +53720,7 @@ myData = [
   [
     "Ore Extractor Placeholder",
     ["object", "objectgeometry", "placeholderobject", "staticobject"],
-    "",
+    "Duplicate / Placeholder",
   ],
   [
     "Ore Lot",
@@ -60420,7 +60420,7 @@ myData = [
       "serviceobject",
       "unlockable",
     ],
-    "Non Removable / Blocks Traffic",
+    "Slows down (or Blocks) Traffic / Non Removable in Vanilla",
   ],
   [
     "Road Outside Connection - Oneway",
