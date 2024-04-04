@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cities: Skylines 2 Developer Mode AddObjects item list</title>
+    <title>Cities: Skylines II Objects List</title>
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
     <!-- Datatables CSS -->
     <link
         href="https://cdn.datatables.net/v/dt/dt-2.0.0/af-2.7.0/b-3.0.0/b-colvis-3.0.0/b-html5-3.0.0/b-print-3.0.0/cr-2.0.0/date-1.5.2/fc-5.0.0/fh-4.0.0/kt-2.12.0/r-3.0.0/rg-1.5.0/rr-1.5.0/sc-2.4.0/sb-1.7.0/sp-2.3.0/sl-2.0.0/sr-1.4.0/datatables.min.css"
@@ -19,9 +19,13 @@
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg bg-secondary fixed-top">
         <div class="container-xxl">
-            <a class="navbar-brand" href="/">
-                <h2>StarQ</h1>
+            <a class="navbar-brand" href="#">
+                <img src="/files/starq.svg" alt="StarQ" width="50" height="50"
+                    class="d-inline-block align-text-baseline" style="margin-top: -1rem !important;">
+                <span class="h1 cities-font">StarQ</span>
             </a>
+            <button class="btn btn-outline-danger me-2" type="button" data-bs-toggle="modal"
+                data-bs-target="#disclaimerModal">Disclaimer</button>
             <button class="navbar-toggler" id="toaster" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -30,13 +34,59 @@
         </div>
     </nav>
 
+    <!-- Server Modal -->
+    <div class="modal fade" id="legacyModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+        aria-labelledby="legacyModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="legacyModalLabel">😓 <b>Uh oh! There's been an error.</b></h1>
+                </div>
+                <div class="modal-body">
+                    Unfortunately, the primary data server is unreachable right now. Please use the legacy (old) version
+                    instead for now.
+                </div>
+                <div class="modal-footer">
+                    <a type="button" class="btn btn-success" href="legacy.html">Go to Legacy version</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Disclaimer Modal -->
+    <div class="modal fade" id="disclaimerModal" tabindex="-1" aria-labelledby="disclaimerModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="disclaimerModalLabel">⚠️ <b>DISCLAIMER</b></h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center fs-6">
+                    <p>WARNING: Use developer mode with caution.<br />
+                        Improper use may lead to save file corruption or
+                        other game issues.</p>
+                    <p>Cities: Skylines II is published by Paradox Interactive AB and developed by Colossal Order
+                        Ltd.<br />
+                        CITIES SKYLINES and PARADOX INTERACTIVE are trademarks and/or registered trademarks of
+                        Paradox Interactive AB in Europe, the U.S. and other countries.</p>
+                    <p>GitHub is a registered trademark of GitHub, Inc.</p>
+                    <p>Any other trademark, logo and copyright is the property of its owner.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Okay!</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Toast -->
     <div class="toast-container position-fixed bottom-0 end-0 p-3">
 
         <div id="nothingToast" class="toast align-items-center text-bg-primary border-0" role="alert"
             aria-live="assertive" aria-atomic="true">
             <div class="d-flex">
-                <div class="toast-body">
+                <div class="toast-body cities-font">
                     Hello there! This does nothing (yet)!
                 </div>
                 <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"
@@ -46,59 +96,85 @@
     </div>
 
     <!-- Page Content -->
-    <div class="container mb-5">
+    <div class="container-xxl mb-5 px-5">
         <div class="row">
-            <div class="col-lg-12">
-                <h1 class="mt-5">Cities: Skylines 2 Developer Mode AddObjects item list</h1>
-                <h3 class="text-end">Version 1.03.1</h3>
+            <div class="d-flex justify-content-between align-items-center flex-wrap mt-5">
+                <h1 class="cities-font">Cities: Skylines II Objects List</h1>
+                <div class="ms-auto">
+                    <h3 class="text-end cities-font">Revision 2.01.0</h3>
+                    <p class="text-end cities-font">Added "Beach Properties" objects</p>
+                </div>
             </div>
             <div class="card card-body" id="howtoDiv">
-                <div class="text-center">
-                    <button class="btn btn-primary" type="button" data-bs-toggle="collapse"
+                <div class="d-grid text-center gap-2 d-flex justify-content-around">
+                    <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseHowItWorks" aria-expanded="false" aria-controls="collapseHowItWorks"
                         id="howtoButton">
-                        How it works?
+                        How it works
+                    </button>
+                    <button class="btn btn-primary btn-sm d-none" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseFilters" aria-expanded="false" aria-controls="collapseFilters"
+                        id="filtersButton">
+                        Toggle Filters
+                    </button>
+                    <button class="btn btn-primary btn-sm" type="button" disabled id="loadDataTableButton">
+                        Checking...
                     </button>
                 </div>
-                <div class="collapse mt-3" id="collapseHowItWorks">
-                    <div class="card card-body pb-0">
-                        <p>First, tap the "Load Table" button to initaialize the table. This is to prevent accidental
-                            hang up on lower end devices as the table is pretty large.</p>
-                        <p>
-                            The table is color-coded to make it easy to understand their function and behavior.</p>
-                        <ul>
-                            <li class="row-red"><b>Red:</b> Objects marked in red signify potential hazards,
-                                such as being unspawnable
-                                or prone to causing game crashes.</li>
-                            <li class="row-yellow"><b>Yellow:</b> Items in yellow are spawnable but may have
-                                issues. Check the notes
-                                for further details.</li>
-                            <!-- <li class="row-blue"><b>Blue:</b> Objects coded in blue are standard and work
+            </div>
+            <div class="collapse mt-3" id="collapseHowItWorks">
+                <div class="card card-body pb-0">
+                    <p>First, tap the "Load Table" button to initaialize the table. This is to prevent accidental
+                        hang up on lower end devices as the table is pretty large.</p>
+                    <p>
+                        The table is color-coded to make it easy to understand their function and behavior.</p>
+                    <ul>
+                        <li class="row-red"><b class="cities-font">Red:</b> Items marked in red signify potential
+                            hazards, such as being unspawnable or prone to causing game crashes.</li>
+                        <li class="row-yellow"><b class="cities-font">Yellow:</b> Items in yellow are spawnable but may
+                            have issues. Check the notes for further details.</li>
+                        <!-- <li class="row-blue"><b class="cities-font">Blue:</b> Objects coded in blue are standard and work
                                 seamlessly within the game.
                             </li> -->
-                            <li class="row-green"><b>Green:</b> Items marked in green are safe to spawn.
-                                However, reviewing the notes
-                                is recommended for any additional information.</li>
-                        </ul>
-                        <p>The filters below can also help you narrow down what you're looking for. You can select
-                            multiple values on the filters at once.</p>
+                        <li class="row-green"><b class="cities-font">Green:</b> Items in green are safe to spawn.
+                            However, reviewing the notes is recommended for any additional information.</li>
+                        <li class="row-grey"><b class="cities-font">Grey:</b> Items in grey has been removed from the
+                            game. Usually this means some replacement items were introduced.</li>
+                    </ul>
+                    <p>The filters can also help you narrow down what you're looking for. You can select multiple values
+                        on the filters at once.</p>
+                    <div class="text-center">
+                        <iframe width="560" height="315"
+                            src="https://www.youtube.com/embed/E68sOrml-oo?si=BO1OKmA44Ny5K5rx"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="table-responsive mt-3">
-            <div class="text-center">
-                <button class="btn btn-primary d-none" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#collapseFilters" aria-expanded="false" aria-controls="collapseFilters"
-                    id="filtersButton">
-                    Toggle Filters
-                </button>
+            <div class="card card-body mt-3">
+                <div class="btn-group" role="group" aria-label="Button Group">
+                    <a href="?source=5" class="btn btn-outline-info">Beach Properties
+                        <span class="position-absolute top-0 start-0 translate-middle badge rounded-pill bg-danger">
+                            NEW</span></a>
+                    <a href="?cat=vehicles" class="btn btn-outline-info">Vehicles</a>
+                    <a href="?cat=props" class="btn btn-outline-info">Props</a>
+                    <a href="?cat=buildings" class="btn btn-outline-info">Zoned Buildings</a>
+                    <a href="?cat=signature%20buildings" class="btn btn-outline-info">Signature Buildings</a>
+                    <a href="?cat=sub%20buildings" class="btn btn-outline-info">Sub Buildings</a>
+                    <a href="?removed=true" class="btn btn-outline-info">Removed</a>
+                    <a href="index.html" class="btn btn-outline-info">Reset
+                        <span class="position-absolute top-100 start-100 translate-middle badge rounded-pill bg-danger">
+                            X</span></a>
+                </div>
             </div>
+        </div>
+        <div class="row mt-3">
             <div class="collapse mt-3" id="collapseFilters">
                 <div class="d-flex flex-wrap justify-content-around align-items-center">
-                    <div id="filterDiv" class="divGroup">
-                        <label class="divSelectLabel" id="filterSelectLabel" for="filterSelect">Filter:</label>
-                        <select class="divSelect" id="filterSelect" multiple class="text-bg-dark">
+                    <div id="tagsDiv" class="divGroup">
+                        <label class="divSelectLabel" id="tagsSelectLabel" for="tagsSelect">Tags:</label>
+                        <select class="divSelect" id="tagsSelect" multiple class="text-bg-dark">
                             <option value="">All</option>
                         </select>
                     </div>
@@ -110,9 +186,9 @@
                     </div>
                 </div>
                 <div class="d-flex flex-wrap justify-content-around align-items-center">
-                    <div id="dlcDiv" class="divGroup">
-                        <label class="divSelectLabel" id="dlcSelectLabel" for="dlcSelect">Unlock:</label>
-                        <select class="divSelect" id="dlcSelect" multiple class="text-bg-dark">
+                    <div id="sourceDiv" class="divGroup">
+                        <label class="divSelectLabel" id="sourceSelectLabel" for="sourceSelect">Unlock:</label>
+                        <select class="divSelect" id="sourceSelect" multiple class="text-bg-dark">
                             <option value="">All</option>
                         </select>
                     </div>
@@ -131,38 +207,43 @@
                     </div>
                 </div>
             </div>
-            <table id="myDataTable" class="table table-sm table-hover">
+            <table id="dyna" class="table table-sm table-hover" style="width:100%">
                 <thead id="thead" class="d-none">
                     <tr>
                         <th class="serial-column">Sl</th>
-                        <th class="normal-column long-column">Name</th>
-                        <th class="hidden-column">Filter</th>
+                        <th class="normal-column long-column">Object Name</th>
                         <th class="normal-column long-column">Notes</th>
-                        <th class="mixed-column xl-column">Name / Notes</th>
-                        <th class="normal-column small-column">Unlock</th>
+                        <th class="mixed-column xl-column">Details</th>
+                        <th class="hidden-column">Tags</th>
                         <th class="hidden-column">Category</th>
                         <th class="hidden-column">Subcategory</th>
-                        <th class="normal-column small-column">Categories</th>
+                        <th class="hidden-column">Source</th>
                     </tr>
                 </thead>
                 <tbody>
                 </tbody>
             </table>
-            <div class="text-center">
-                <button class="btn btn-primary" type="button" id="loadDataTableButton">
-                    Load Table
-                </button>
-            </div>
         </div>
     </div>
     <footer class="footer bg-secondary fixed-bottom text-center">
-        <div class="m-2">
+        <div class="d-flex m-2 justify-content-center gap-4">
             <a class="" href="https://github.com/qstar-inc/cities2-objects">
-                <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" style="fill:whitesmoke"
-                    data-view-component="true" class="octicon octicon-mark-github">
+                <svg class="octicon octicon-mark-github" height="32" style="fill:whitesmoke" aria-hidden="true"
+                    viewBox="0 0 16 16" version="1.1" data-view-component="true">
                     <path
-                        d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z">
-                    </path>
+                        d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z" />
+                </svg>
+            </a><a class="" href="https://youtube.com/@StarQGaming">
+                <svg id="yt_icon_mono_dark" height="32" style="fill:whitesmoke" aria-hidden="true" viewBox="0 0 176 124"
+                    version="1.1" data-view-component="true">
+                    <path
+                        d="M172.32,19.36A22.12,22.12,0,0,0,156.76,3.7C143,0,88,0,88,0S33,0,19.24,3.7A22.12,22.12,0,0,0,3.68,19.36C0,33.18,0,62,0,62s0,28.82,3.68,42.64A22.12,22.12,0,0,0,19.24,120.3C33,124,88,124,88,124s55,0,68.76-3.7a22.12,22.12,0,0,0,15.56-15.66C176,90.82,176,62,176,62S176,33.18,172.32,19.36ZM70,88.17V35.83L116,62Z" />
+                </svg>
+            </a><a class="" href="https://discord.gg/U2PSjUzUuF">
+                <svg id="discord-mark-logos" height="32" style="fill:whitesmoke" aria-hidden="true"
+                    viewBox="0 0 127.14 96.36" version="1.1" data-view-component="true">
+                    <path
+                        d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.68,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1A105.25,105.25,0,0,0,126.6,80.22h0C129.24,52.84,122.09,29.11,107.7,8.07ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S54,46,53.89,53,48.84,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.25,60,73.25,53s5-12.74,11.44-12.74S96.23,46,96.12,53,91.08,65.69,84.69,65.69Z" />
                 </svg>
             </a>
         </div>
@@ -179,203 +260,382 @@
     <script
         src="https://cdn.datatables.net/v/dt/dt-2.0.0/af-2.7.0/b-3.0.0/b-colvis-3.0.0/b-html5-3.0.0/b-print-3.0.0/cr-2.0.0/date-1.5.2/fc-5.0.0/fh-4.0.0/kt-2.12.0/r-3.0.0/rg-1.5.0/rr-1.5.0/sc-2.4.0/sb-1.7.0/sp-2.3.0/sl-2.0.0/sr-1.4.0/datatables.min.js"></script>
     <!-- Data -->
-    <script src="min/data.min.js"></script>
-    <script src="min/dlc.min.js"></script>
+    <script src="min/util.min.js"></script>
     <script src="min/filters.min.js"></script>
-    <script src="min/categories.min.js"></script>
+
     <!-- Datatables Code -->
     <script>
+        var u = 'aHR0cHM6Ly9zay1rbS5jb20uYmQv'; //web
+        // var u = 'aHR0cDovL2xvY2FsaG9zdDoxNTAv'; //local
+        var auth = 'ZUJImMyi0d7ycNC9Nnrixku9WM4nbWY9';
+
         $(document).ready(function () {
-            function initializeDataTable() {
-                var dataTable = $('#myDataTable').DataTable({
-                    data: myData,
-                    columns: [
-                        {
-                            data: null,
-                            className: 'serial-column',
-                            render: function (data, type, row, meta) {
-                                return meta.row + 1;
-                            }
-                        },
-                        {
-                            data: 0,
-                            className: 'normal-column long-column',
-                        },
-                        {
-                            data: 1,
-                            className: 'hidden-column',
-                            visible: false
-                        },
-                        {
-                            data: 2,
-                            className: 'normal-column long-column'
-                        },
-                        {
-                            data: function (row) {
-                                if (row[2] == '') {
-                                    text = row[0];
-                                } else {
-                                    text = row[0] + "<br><span class='m-1 px-2 border rounded bg-warning text-dark'><b>Note:</b> <small><i>" + row[2] + "</i></small></span>";
-                                }
-                                text += "<br><b>Requires: </b>" + dlc[Number(row[3]) - 1][2];
-                                text += "<br><b>Category: </b>" + row[4] + " > " + row[5];
-                                return text;
-                            },
-                            orderable: false,
-                            className: 'mixed-column xl-column'
-                        },
-                        {
-                            data: 3,
-                            className: 'normal-column small-column',
-                            render: function (data, type, row, meta) {
-                                return dlc[Number(data) - 1][2];
-                            }
-                        },
-                        {
-                            data: 4,
-                            className: 'hidden-column',
-                            visible: false
-                        },
-                        {
-                            data: 5,
-                            className: 'hidden-column',
-                            visible: false
-                        },
-                        {
-                            data: 4,
-                            className: 'normal-column small-column',
-                            render: function (data, type, row, meta) {
-                                return data + " > " + row[5];
-                            }
-                        }
-                    ],
-                    createdRow: function (row, data, index) {
-                        var notes = data[2];
-                        // Apply color based on cell value
-                        if (notes === 'Randomizer' || notes === 'Crash to Desktop' || notes === 'Invisible' || notes.slice(0, 2) === 'Un' || notes === 'Specialized Industry Base / Despawns') {
-                            $(row).addClass('row-red');
-                        } else if (notes === 'Duplicate / Placeholder' || notes.slice(0, 4) === 'Flag' || notes === 'Hovers' || notes.slice(0, 2) === 'No' || notes.slice(0, 6) === 'Parked' || notes.slice(0, 4) === 'Same') {
-                            $(row).addClass('row-yellow');
-                        } else if (notes === '' || notes === 'Floats' || notes.slice(0, 8) === 'Modifies' || notes === 'Moves' || notes === 'Network Upgrade' || notes === 'Poleless' || notes.slice(0, 3) === 'Req' || notes.slice(0, 3) === 'Upg') {
-                            $(row).addClass('row-green');
-                        }
-                    },
-                    lengthMenu: [
-                        [25, 50, 100, 500, 1000, -1],
-                        ['25 entries', '50 entries', '100 entries', '500 entries', '1000 entries', 'All (Warning: Long)']
-                    ],
-                    initComplete: function () {
-                        var lengthSelect = $('select[name="myDataTable_length"]');
-                        lengthSelect.addClass('text-bg-dark');
-                        $('#thead').removeClass('d-none');
-                    },
-                    pageLength: 50,
-                    pagingType: 'simple_numbers',
-                    layout: {
-                        topStart: 'pageLength',
-                        top2Start: 'search',
-                        topEnd: null,
-                    },
-                    language: {
-                        lengthMenu: 'Display: _MENU_'
+            const legacyModal = new bootstrap.Modal('#legacyModal');
+
+            fetch(atob(u) + 'cities2_ping', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': auth
+                },
+                data: {
+                    'Authorization': auth,
+                }
+            })
+                .then(response => {
+                    if (response.ok && response.status === 200) {
+                        enableButtons();
+                    } else {
+                        legacyModal.show();
                     }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    legacyModal.show();
                 });
+        });
 
-                var filterSelect = $('#filterSelect');
-                filters.forEach(function (filter) {
-                    filterSelect.append($('<option>', {
-                        value: filter,
-                        text: filter
-                    }));
-                });
+        function enableButtons() {
+            $('#loadDataTableButton').html('Load Table');
+            $('#loadDataTableButton').prop({ disabled: false });
+            if (getUrlParameter('cat') + getUrlParameter('source') + getUrlParameter('removed') != '') {
+                $('#loadDataTableButton').click();
+            }
+        }
 
-                // Populate notes options
-                var notesSelect = $('#notesSelect');
-                var uniqueNotes = dataTable.column(3).data().unique().sort();
-                var notesMap = new Map();
-                uniqueNotes.each(function (note) {
-                    var displayNote = note.includes("Untextured") ? "Untextured" : note;
-                    var valueNote = note.includes("Untextured") ? "Untextured*" : note;
-                    notesMap.set(displayNote, valueNote);
-                });
-                notesMap.forEach(function (value, key) {
+        $('#loadDataTableButton').on('click', function () {
+            loadData();
+            $('#filtersButton').removeClass('d-none');
+            $('#loadDataTableButton').addClass('d-none');
+        });
+
+        function loadData() {
+            $.ajax({
+                url: atob(u) + "cities2_extra",
+                type: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': auth
+                },
+                "data": {
+                    Authorization: auth,
+                },
+                dataType: 'json',
+                success: function (response) {
+                    var sourceArray = response['sources'];
+                    var catArray = response['cats'];
+                    var tagArray = response['tags'];
+                    initializeDatatable(sourceArray, catArray);
+                    populateSources(sourceArray);
+                    populateCats(catArray);
+                    populateTags(tagArray);
+                },
+                error: function (xhr, status, error) {
+                    console.error(status, error);
+                }
+            });
+        }
+
+        function initializeDatatable(sourceArray, catArray) {
+            var dataTable = $('#dyna').DataTable({
+                ajax: {
+                    "url": atob(u) + "cities2_objects",
+                    "type": "POST",
+                    headers: {
+                        'Authorization': auth
+                    },
+                    "data": {
+                        "Authorization": auth,
+                        "cat": getUrlParameter('cat'),
+                        "source": getUrlParameter('source'),
+                        "removed": getUrlParameter('removed')
+                    },
+                    // dataType: 'json',
+                },
+                columns: [
+                    {
+                        data: null,
+                        className: 'serial-column',
+                        width: '10%',
+                        render: function (data, type, row, meta) {
+                            return meta.row + 1;
+                        }
+                    },
+                    {
+                        data: 'title',
+                        className: 'normal-column long-column',
+                        render: function (data, type, row, meta) {
+                            title = row['title'];
+                            info = '';
+
+                            if (row['source'] != null) {
+                                info += '<div class="info-icon d-inline-block" data-bs-toggle="tooltip" data-bs-title="' + sourceArray[row['source'] - 1]['name'] + '" data-bs-placement="top">'
+                                info += '<img src="/files/sources/' + sourceArray[row['source'] - 1]['id'] + '.svg" alt="' + sourceArray[row['source'] - 1]['name'] + '" width="20" height="20" class="bi"></div>'
+                            }
+                            if (row['theme'] != null) {
+                                switch (row['theme']) {
+                                    case 'EU':
+                                        themeName = 'European'
+                                        break;
+                                    case 'NA':
+                                        themeName = 'North American'
+                                        break;
+                                    default: ''
+                                        break;
+                                }
+                                info += '<div class="info-icon d-inline-block" data-bs-toggle="tooltip" data-bs-title="' + themeName + '" data-bs-placement="top">'
+                                info += '<img src="/files/themes/' + row['theme'] + '.svg" alt="' + row['theme'] + '" width="20" height="20" class="bi"></div>'
+                            }
+                            if (row['date'] != null) {
+                                info += '<div class="info-icon d-inline-block" data-bs-toggle="tooltip" data-bs-title="' + formatDate(row['date']) + '" data-bs-placement="top">'
+                                info += '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-x-circle text-primary-emphasis" viewBox="0 0 16 16">';
+                                info += '<path d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2M1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857z"/>';
+                                info += '<path d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2m-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2m-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2"/>';
+                                info += '</svg>';
+                                info += '</div>';
+                            }
+                            if (row['removed'] == 1) {
+                                info += '<div class="info-icon d-inline-block" data-bs-toggle="tooltip" data-bs-title="Item Removed" data-bs-placement="top">'
+                                info += '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-x-circle text-danger" viewBox="0 0 16 16">';
+                                info += '<path d = "M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>';
+                                info += '<path d = "M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708" />';
+                                info += '</svg>';
+                                info += '</div>';
+                            }
+                            if (row['removed'] == 1) {
+                                info += '<s>' + title + '</s>';
+                            } else {
+                                info += title;
+                            }
+                            return trimString(info);
+                        }
+                    },
+                    {
+                        data: 'notes',
+                        className: 'normal-column xl-column',
+                        orderable: false,
+                        render: function (data, type, row, meta) {
+                            text = '<ul class="mb-0 px-0">'
+                            text += (row['notes'] == null ? '' : '<li>' + row['notes'] + '</li>');
+                            text += (row['log'] == null ? '' : '<li>' + row['log'] + '</li>');
+
+
+                            line = catArray[row['cat'] - 1]['cat'] + " > " + catArray[row['cat'] - 1]['subcat'];
+                            if (row['removed'] == 1) {
+                                line = '<s>' + line + '</s>';
+                            }
+                            text += '<li>' + line + '</li>';
+                            return trimString(text);
+                        }
+                    },
+                    {
+                        data: function (row) {
+                            if (row['notes'] == '' || row['notes'] == null) {
+                                text = row['title'];
+                            } else {
+                                text = row['title'] + "<br><span class='m-1 px-2 border rounded bg-warning text-dark'><b>Note:</b> <small><i>" + row['notes'] + "</i></small></span>";
+                            }
+                            text += "<br><b>Requires: </b>" + sourceArray[row['source'] - 1]['name'];
+                            text += "<br><b>Category: </b>" + catArray[row['cat'] - 1]['cat'] + " > " + catArray[row['cat'] - 1]['subcat'];
+                            return text;
+                        },
+                        orderable: false,
+                        className: 'mixed-column xl-column'
+                    },
+                    {
+                        data: 'tags',
+                        visible: false
+                    },
+                    {
+                        data: 'cat',
+                        visible: false,
+                        render: function (data, type, row, meta) {
+                            return catArray[row['cat'] - 1]['cat'];
+                        }
+                    },
+                    {
+                        data: null,
+                        visible: false,
+                        render: function (data, type, row, meta) {
+                            return row['cat'];
+                        }
+                    },
+                    {
+                        data: 'source',
+                        visible: false
+                    }
+                ],
+                createdRow: function (row, data, index) {
+                    var color = data['color'];
+                    // Apply color based on cell value
+                    if (color === 'red') {
+                        $(row).addClass('row-red');
+                    } else if (color === 'yellow') {
+                        $(row).addClass('row-yellow');
+                    } else if (color === 'green') {
+                        $(row).addClass('row-green');
+                    } else if (color === 'grey') {
+                        $(row).addClass('row-grey');
+                    }
+                    $(row).find('[data-bs-toggle="tooltip"]').tooltip();
+                },
+                lengthMenu: [
+                    [25, 50, 100, 500, 1000, -1],
+                    ['25 entries', '50 entries', '100 entries', '500 entries', '1000 entries', 'All (Warning: Long)']
+                ],
+                initComplete: function () {
+                    var lengthSelect = $('select[name="dyna_length"]');
+                    lengthSelect.addClass('text-bg-dark');
+                    $('#thead').removeClass('d-none');
+
+                    // Preparte notes options
+                    var notesSelect = $('#notesSelect');
+                    var columnData = dataTable.column(2).data().toArray();
+                    var filteredData = columnData.filter(function (value) {
+                        return value !== null;
+                    });
+
+                    var uniqueNotesMap = {};
+
+                    // Populate unique notes map
+                    filteredData.forEach(function (note) {
+                        var displayNote = note.includes("Untextured") ? "Untextured" : note;
+                        var valueNote = note.includes("Untextured") ? "Untextured*" : note;
+                        uniqueNotesMap[displayNote] = valueNote;
+                    });
+                    notesSelect.empty();
+
                     notesSelect.append($('<option>', {
-                        value: value,
-                        text: key
-                    }));
-                });
-
-                // Populate DLC
-                var dlcSelect = $('#dlcSelect');
-                dlc.forEach(function (dlc) {
-                    dlcSelect.append($('<option>', {
-                        value: dlc[2],
-                        text: dlc[2]
-                    }));
-                });
-
-                // Populate Category
-                var categorySelect = $('#categorySelect');
-                categories.forEach(function (category) {
-                    var categoryValue = category[1];
-                    if (!categorySelect.find('option[value="' + categoryValue + '"]').length) {
-                        categorySelect.append($('<option>', {
-                            value: category[1],
-                            text: category[1]
-                        }));
-                    };
-                });
-
-                // Populate Subategory
-                var subcategorySelect = $('#subcategorySelect');
-                var selectedCategories = [];
-                categorySelect.on('change', function () {
-                    selectedCategories = $(this).val() || [];
-                    console.log(selectedCategories);
-                    subcategorySelect.empty();
-                    subcategorySelect.append($('<option>', {
                         value: '',
                         text: 'All'
                     }));
-                    selectedCategories.forEach(function (selectedCategory) {
-                        categories.forEach(function (category2) {
-                            if (category2[1] === selectedCategory.toString()) {
-                                var subcategoryValue = category2[2];
-                                if (!subcategorySelect.find('option[value="' + subcategoryValue + '"]').length) {
-                                    subcategorySelect.append($('<option>', {
-                                        value: category2[2],
-                                        text: category2[2]
-                                    }));
-                                };
+
+                    // Populate notes options
+                    Object.keys(uniqueNotesMap).sort().forEach(function (displayNote) {
+                        var valueNote = uniqueNotesMap[displayNote];
+                        notesSelect.append($('<option>', {
+                            value: valueNote,
+                            text: displayNote
+                        }));
+                    });
+
+                },
+                pageLength: 50,
+                pagingType: 'simple_numbers',
+                layout: {
+                    topStart: 'pageLength',
+                    topEnd: 'search',
+                },
+                language: {
+                    lengthMenu: 'Display: _MENU_'
+                },
+                processing: true,
+            });
+        }
+
+        // Populate Sources
+        function populateSources(sourceArray) {
+            var sourceSelect = $('#sourceSelect');
+            sourceArray.forEach(function (option) {
+                sourceSelect.append($('<option>', {
+                    value: option.sl,
+                    text: option.name
+                }));
+            });
+        }
+
+        function populateCats(catArray) {
+            // Populate Category
+            var categorySelect = $('#categorySelect');
+            catArray.forEach(function (category) {
+                var categoryValue = category['cat'];
+                if (!categorySelect.find('option[value="' + categoryValue + '"]').length) {
+                    categorySelect.append($('<option>', {
+                        value: category.cat,
+                        text: category.cat
+                    }));
+                };
+            });
+
+            // Populate Subategory
+            var subcategorySelect = $('#subcategorySelect');
+            var selectedCategories = [];
+            categorySelect.on('change', function () {
+                selectedCategories = $(this).val() || [];
+                subcategorySelect.empty();
+                subcategorySelect.append($('<option>', {
+                    value: '',
+                    text: 'All'
+                }));
+                selectedCategories.forEach(function (selectedCategory) {
+                    catArray.forEach(function (subcat) {
+                        if (subcat['cat'] === selectedCategory.toString()) {
+                            var subcategoryValue = subcat['subcat'];
+                            if (!subcategorySelect.find('option[value="' + subcategoryValue + '"]').length) {
+                                subcategorySelect.append($('<option>', {
+                                    value: subcat.sl,
+                                    text: subcat.subcat
+                                }));
                             };
-                        });
+                        };
                     });
                 });
 
-                // Apply filter on select change
-                filterSelect.add(notesSelect).add(dlcSelect).add(categorySelect).add(subcategorySelect).on('change', function () {
-                    var selectedFilters = filterSelect.val() || [];
-                    var selectedNotes = notesSelect.val() || [];
-                    var selectedDlc = dlcSelect.val() || [];
-                    var selectedCategory = categorySelect.val() || [];
-                    var selectedSubcategory = subcategorySelect.val() || '';
-
-                    // Apply filters to the table
-                    var regex = selectedFilters.join('|');
-                    dataTable.columns(2).search(regex, true, false).draw();
-                    dataTable.columns(3).search(selectedNotes.join('|'), true, false).draw();
-                    dataTable.columns(5).search(selectedDlc.join('|'), true, false).draw();
-                    dataTable.columns(6).search(selectedCategory.join('|'), true, false).draw();
-                    dataTable.columns(7).search(selectedSubcategory || '', true, false).draw();
+                var selectElement = document.getElementById("subcategorySelect");
+                var options = Array.from(selectElement.getElementsByTagName("option"));
+                options.sort(function (a, b) {
+                    return a.textContent.localeCompare(b.textContent);
                 });
-            };
-
-            $('#loadDataTableButton').on('click', function () {
-                initializeDataTable();
-                $('#filtersButton').removeClass('d-none');
-                $('#howtoDiv').addClass('d-none');
-                $('#loadDataTableButton').addClass('d-none');
+                while (selectElement.firstChild) {
+                    selectElement.removeChild(selectElement.firstChild);
+                }
+                options.forEach(function (option) {
+                    selectElement.appendChild(option);
+                });
             });
+        }
+
+        // Populate Tags
+        function populateTags(tagArray) {
+            var tagsSelect = $('#tagsSelect');
+            tagArray.forEach(function (tags) {
+                tagsSelect.append($('<option>', {
+                    value: tags.sl,
+                    text: tags.id
+                }));
+            });
+        }
+
+        var tagsSelect = $('#tagsSelect');
+        var notesSelect = $('#notesSelect');
+        var sourceSelect = $('#sourceSelect');
+        var categorySelect = $('#categorySelect');
+        var subcategorySelect = $('#subcategorySelect');
+
+        tagsSelect.add(notesSelect).add(sourceSelect).add(categorySelect).add(subcategorySelect).on('change', function () {
+            var dataTable = $('#dyna').DataTable();
+            var selectedTags = tagsSelect.val() || [];
+            var selectedNotes = notesSelect.val() || [];
+            var selectedSource = sourceSelect.val() || [];
+            var selectedCategory = categorySelect.val() || [];
+            var selectedSubcategory = subcategorySelect.val() || [];
+
+            // Create search for tags
+            var regex = '\\b' + selectedTags.join('\\b|\\b') + '\\b';;
+            var searchRegex = new RegExp(regex, 'g');
+            var data = dataTable.data();
+            data.each(function (rowData, index) {
+                var columnData = rowData['tags'];
+                var dataArray = JSON.parse(columnData);
+                var searchString = dataArray.join(' ');
+            });
+
+            // Redraw the DataTable
+            dataTable.columns(2).search(selectedNotes.join('|'), true, false).draw();
+            dataTable.columns(4).search(searchRegex, true, false).draw();
+            dataTable.columns(5).search(selectedCategory.join('|'), true, false).draw();
+            dataTable.columns(6).search(selectedSubcategory.join('|'), true, false).draw();
+            dataTable.columns(7).search(selectedSource.join('|'), true, false).draw();
         });
 
         const toastTrigger = document.getElementById('toaster')

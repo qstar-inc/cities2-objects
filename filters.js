@@ -45,6 +45,7 @@ var filters = [
   "district",
   "domesticated",
   "earlydisasterwarningsystem",
+  "editorassetcategoryoverride",
   "editorcontainer",
   "effect",
   "effectcolor",

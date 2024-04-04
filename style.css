@@ -3,6 +3,9 @@ body {
   /* Adjust based on the height of your navbar */
 }
 
+.cities-font {
+  font-family: "Cities 0.4", "Lato", "Roboto", sans-serif;
+}
 .navbar {
   background-color: rgb(64, 6, 122) !important;
   height: 4rem !important;
@@ -30,7 +33,7 @@ body {
 .divSelectLabel,
 .dt-search > label,
 .dt-length > label {
-  width: 4.5rem !important;
+  /* width: 4.5rem !important; */
   text-align: end;
   margin-right: 0.5rem;
 }
@@ -59,6 +62,10 @@ body {
   }
 }
 
+#dyna {
+  width: 100% !important;
+}
+
 .mixed-column {
   display: none; /* Hide the Notes column by default */
 }
@@ -67,16 +74,16 @@ body {
 }
 
 .serial-column {
-  min-width: 5% !important;
+  width: 5% !important;
 }
 
 .long-column {
-  min-width: 25% !important;
+  width: 35% !important;
 }
 
-.xl-column {
-  min-width: 80vw !important;
-}
+/* .xl-column { */
+/* width: 60% !important; */
+/* } */
 
 .small-column {
   min-width: 20% !important;
@@ -110,4 +117,14 @@ body {
 .row-green > td {
   background-color: #12240a !important;
   color: #6dce6a !important;
+}
+
+.row-grey,
+.row-grey > td {
+  background-color: #1b1b1b !important;
+  color: #7c7c7c !important;
+}
+
+.info-icon {
+  margin-right: 0.4rem !important;
 }

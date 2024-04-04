@@ -4,4 +4,5 @@ var dlc = [
   [3, "Paradox", "Link Paradox Account", "2023-10-24"],
   [4, "Landmark", "Landmark Buildings", "2023-10-24"],
   [5, "SanFran", "San Francisco Set", "2023-10-24"],
+  [6, "BeachProperties", "Beach Properties", "2024-03-25"],
 ];

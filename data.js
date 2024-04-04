@@ -254,6 +254,7 @@ myData = [
   [
     "ACMachineRoof01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -269,6 +270,7 @@ myData = [
   [
     "ACMachineRoof02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -284,6 +286,7 @@ myData = [
   [
     "ACMachineRoof03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -299,6 +302,7 @@ myData = [
   [
     "ACMachineRoofRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -315,6 +319,7 @@ myData = [
     "ACMachineWall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -331,6 +336,7 @@ myData = [
     "ACMachineWall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -347,6 +353,7 @@ myData = [
     "ACMachineWall03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -363,6 +370,7 @@ myData = [
     "ACMachineWallRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -379,6 +387,7 @@ myData = [
     "ACMachineWindows01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -395,6 +404,7 @@ myData = [
     "ACMachineWindows02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -411,6 +421,7 @@ myData = [
     "ACMachineWindowsRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -426,6 +437,7 @@ myData = [
   [
     "ACVentRoof01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -441,6 +453,7 @@ myData = [
   [
     "ACVentRoof02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -456,6 +469,7 @@ myData = [
   [
     "ACVentRoof03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -471,6 +485,7 @@ myData = [
   [
     "ACVentRoof04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -486,6 +501,7 @@ myData = [
   [
     "ACVentRoof05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -501,6 +517,7 @@ myData = [
   [
     "ACVentRoofRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -517,6 +534,7 @@ myData = [
     "ACVentWall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -533,6 +551,7 @@ myData = [
     "ACVentWall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -549,6 +568,7 @@ myData = [
     "ACVentWall03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -565,6 +585,7 @@ myData = [
     "ACVentWall04",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -581,6 +602,7 @@ myData = [
     "ACVentWall05",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -597,6 +619,7 @@ myData = [
     "ACVentWallRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -612,6 +635,7 @@ myData = [
   [
     "AStand01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -628,6 +652,7 @@ myData = [
   [
     "AStand02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -644,6 +669,7 @@ myData = [
   [
     "ATMStand01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -659,6 +685,7 @@ myData = [
   [
     "ATMStand02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -674,6 +701,7 @@ myData = [
   [
     "ATMStand03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -689,6 +717,7 @@ myData = [
   [
     "ATMStandRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -705,6 +734,7 @@ myData = [
     "ATMWall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -721,6 +751,7 @@ myData = [
     "ATMWall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -737,6 +768,7 @@ myData = [
     "ATMWall03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -753,6 +785,7 @@ myData = [
     "ATMWallRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -948,6 +981,7 @@ myData = [
   [
     "AgricultureSprinklerSystem",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -1379,7 +1413,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalBearldle01",
+    "AnimalBearIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1387,7 +1421,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalBearldle02",
+    "AnimalBearIdle02",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1395,7 +1429,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalBearldle03",
+    "AnimalBearIdle03",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1411,7 +1445,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalChickenldle01",
+    "AnimalChickenIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1427,7 +1461,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalCowldle01",
+    "AnimalCowIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1435,7 +1469,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalCowldle02",
+    "AnimalCowIdle02",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1443,7 +1477,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalCowldle03",
+    "AnimalCowIdle03",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1459,7 +1493,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalDeerldle01",
+    "AnimalDeerIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1467,7 +1501,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalDeerldle02",
+    "AnimalDeerIdle02",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1475,7 +1509,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalDeerldle03",
+    "AnimalDeerIdle03",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1491,7 +1525,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalDogldle01",
+    "AnimalDogIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1499,7 +1533,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalDogldle02",
+    "AnimalDogIdle02",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1507,7 +1541,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalDogldle03",
+    "AnimalDogIdle03",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1523,7 +1557,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalDolphinldle01",
+    "AnimalDolphinIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1531,7 +1565,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalDolphinldle02",
+    "AnimalDolphinIdle02",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1539,7 +1573,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalDolphinldle03",
+    "AnimalDolphinIdle03",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1555,7 +1589,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalEagleldle01",
+    "AnimalEagleIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1571,7 +1605,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalGooseldle01",
+    "AnimalGooseIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1579,7 +1613,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalGooseldle02",
+    "AnimalGooseIdle02",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1587,7 +1621,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalGooseldle03",
+    "AnimalGooseIdle03",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1603,7 +1637,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalHorseldle01",
+    "AnimalHorseIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1611,7 +1645,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalHorseldle02",
+    "AnimalHorseIdle02",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1619,7 +1653,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalHorseldle03",
+    "AnimalHorseIdle03",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1635,7 +1669,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalMooseldle01",
+    "AnimalMooseIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1651,7 +1685,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalPigldle01",
+    "AnimalPigIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1659,7 +1693,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalPigldle02",
+    "AnimalPigIdle02",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1667,7 +1701,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalPigldle03",
+    "AnimalPigIdle03",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1683,7 +1717,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalSeagullldle01",
+    "AnimalSeagullIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1691,7 +1725,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalSeagullldle02",
+    "AnimalSeagullIdle02",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1699,7 +1733,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalSeagullldle03",
+    "AnimalSeagullIdle03",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1715,7 +1749,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalSharkldle01",
+    "AnimalSharkIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1731,7 +1765,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalSheepldle01",
+    "AnimalSheepIdle01",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1739,7 +1773,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalSheepldle02",
+    "AnimalSheepIdle02",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1747,7 +1781,7 @@ myData = [
     "SFX",
   ],
   [
-    "AnimalSheepldle03",
+    "AnimalSheepIdle03",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -1757,6 +1791,7 @@ myData = [
   [
     "AntennaRoof01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -1772,6 +1807,7 @@ myData = [
   [
     "AntennaRoof02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -1787,6 +1823,7 @@ myData = [
   [
     "AntennaRoof03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -1802,6 +1839,7 @@ myData = [
   [
     "AntennaRoofRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -1818,6 +1856,7 @@ myData = [
     "AntennaWall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -1834,6 +1873,7 @@ myData = [
     "AntennaWall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -1850,6 +1890,7 @@ myData = [
     "AntennaWall03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -1866,6 +1907,7 @@ myData = [
     "AntennaWallRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -1977,6 +2019,7 @@ myData = [
   [
     "BackupGenerator01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -1991,6 +2034,7 @@ myData = [
   [
     "Barn01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -2006,6 +2050,7 @@ myData = [
   [
     "Barn02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -2021,6 +2066,7 @@ myData = [
   [
     "Barn03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -2036,6 +2082,7 @@ myData = [
   [
     "BarnRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -2050,6 +2097,7 @@ myData = [
   [
     "Barrel01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2065,6 +2113,7 @@ myData = [
   [
     "Barrel02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2080,6 +2129,7 @@ myData = [
   [
     "Barrel03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2095,6 +2145,7 @@ myData = [
   [
     "BarrelFire01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -2112,6 +2163,7 @@ myData = [
   [
     "BarrelFire02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -2129,6 +2181,7 @@ myData = [
   [
     "BarrelFireRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2144,6 +2197,7 @@ myData = [
   [
     "BarrelPile01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2159,6 +2213,7 @@ myData = [
   [
     "BarrelPile02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2174,6 +2229,7 @@ myData = [
   [
     "BarrelPile03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2189,6 +2245,7 @@ myData = [
   [
     "BarrelPileRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2204,6 +2261,7 @@ myData = [
   [
     "BarrelRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2262,6 +2320,7 @@ myData = [
   [
     "BasketballHoopStand01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2278,6 +2337,7 @@ myData = [
     "BasketballHoopWall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2334,6 +2394,7 @@ myData = [
   [
     "BikeRack01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2349,6 +2410,7 @@ myData = [
   [
     "BikeRack02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2364,6 +2426,7 @@ myData = [
   [
     "BikeRackRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2379,6 +2442,7 @@ myData = [
   [
     "BillboardHuge01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -2396,6 +2460,7 @@ myData = [
   [
     "BillboardHuge02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2412,6 +2477,7 @@ myData = [
   [
     "BillboardHugeRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2427,6 +2493,7 @@ myData = [
   [
     "BillboardLarge01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -2444,6 +2511,7 @@ myData = [
   [
     "BillboardLarge02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2460,6 +2528,7 @@ myData = [
   [
     "BillboardLargeRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2483,6 +2552,7 @@ myData = [
   [
     "BillboardMedium01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -2500,6 +2570,7 @@ myData = [
   [
     "BillboardMedium02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2516,6 +2587,7 @@ myData = [
   [
     "BillboardMediumRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2532,6 +2604,7 @@ myData = [
     "BillboardRoundLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2549,6 +2622,7 @@ myData = [
     "BillboardRoundMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2566,6 +2640,7 @@ myData = [
     "BillboardRoundSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2582,6 +2657,7 @@ myData = [
   [
     "BillboardSmall01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2598,6 +2674,7 @@ myData = [
   [
     "BillboardSmall02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2614,6 +2691,7 @@ myData = [
   [
     "BillboardSmallRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2630,6 +2708,7 @@ myData = [
     "BillboardWallHuge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -2648,6 +2727,7 @@ myData = [
     "BillboardWallHuge02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2665,6 +2745,7 @@ myData = [
     "BillboardWallHugeRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2681,6 +2762,7 @@ myData = [
     "BillboardWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2698,6 +2780,7 @@ myData = [
     "BillboardWallLarge02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -2716,6 +2799,7 @@ myData = [
     "BillboardWallLarge03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2733,6 +2817,7 @@ myData = [
     "BillboardWallLarge04",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -2751,6 +2836,7 @@ myData = [
     "BillboardWallLargeRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2767,6 +2853,7 @@ myData = [
     "BillboardWallLargeRandom02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2783,6 +2870,7 @@ myData = [
     "BillboardWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2800,6 +2888,7 @@ myData = [
     "BillboardWallMedium02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2817,6 +2906,7 @@ myData = [
     "BillboardWallMediumRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2833,6 +2923,7 @@ myData = [
     "BillboardWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2850,6 +2941,7 @@ myData = [
     "BillboardWallSmall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2867,6 +2959,7 @@ myData = [
     "BillboardWallSmall03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2884,6 +2977,7 @@ myData = [
     "BillboardWallSmall04",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2901,6 +2995,7 @@ myData = [
     "BillboardWallSmallRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -2917,6 +3012,7 @@ myData = [
     "BillboardWallSmallRandom02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -3018,6 +3114,7 @@ myData = [
   [
     "Boulder01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -3033,6 +3130,7 @@ myData = [
   [
     "Boulder02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -3048,6 +3146,7 @@ myData = [
   [
     "Boulder03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -3063,6 +3162,7 @@ myData = [
   [
     "Boulder04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -3078,6 +3178,7 @@ myData = [
   [
     "Boulder05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -3093,6 +3194,7 @@ myData = [
   [
     "Boulder06",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -3108,6 +3210,7 @@ myData = [
   [
     "Boulder07",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -3123,6 +3226,7 @@ myData = [
   [
     "Boulder08",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -3138,6 +3242,7 @@ myData = [
   [
     "BoulderRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -3217,6 +3322,7 @@ myData = [
   [
     "BuildingRubble Placeholder",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -3544,6 +3650,7 @@ myData = [
   [
     "BusStop02 Placeholder",
     [
+      "editorassetcategoryoverride",
       "netobject",
       "object",
       "objectgeometry",
@@ -3632,6 +3739,7 @@ myData = [
   [
     "CableReel01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -3646,6 +3754,7 @@ myData = [
   [
     "CableReel02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -3734,6 +3843,7 @@ myData = [
     "CampgroundBench01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -3750,6 +3860,7 @@ myData = [
     "CampgroundBench02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -3765,6 +3876,7 @@ myData = [
   [
     "CampgroundFireplace01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -3780,6 +3892,7 @@ myData = [
   [
     "CampgroundFireplace02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -3795,6 +3908,7 @@ myData = [
   [
     "CampgroundFireplace03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -3810,6 +3924,7 @@ myData = [
   [
     "CampgroundShelter01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -3825,6 +3940,7 @@ myData = [
   [
     "CampgroundShelter02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -3840,6 +3956,7 @@ myData = [
   [
     "CampgroundSign01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -3856,6 +3973,7 @@ myData = [
     "CampgroundTableset01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -3872,6 +3990,7 @@ myData = [
     "CampgroundTableset02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4215,6 +4334,7 @@ myData = [
   [
     "CardboardBox01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4230,6 +4350,7 @@ myData = [
   [
     "CardboardBox02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4245,6 +4366,7 @@ myData = [
   [
     "CardboardBox03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4260,6 +4382,7 @@ myData = [
   [
     "CardboardBoxPile01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4275,6 +4398,7 @@ myData = [
   [
     "CardboardBoxPile02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4290,6 +4414,7 @@ myData = [
   [
     "CardboardBoxPile03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4305,6 +4430,7 @@ myData = [
   [
     "CardboardBoxPileRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4320,6 +4446,7 @@ myData = [
   [
     "CardboardBoxRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4601,6 +4728,7 @@ myData = [
   [
     "Carport01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -4616,6 +4744,7 @@ myData = [
   [
     "Carport02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -4631,6 +4760,7 @@ myData = [
   [
     "Carport03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -4875,6 +5005,7 @@ myData = [
     "Chair01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4891,6 +5022,7 @@ myData = [
     "Chair02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4907,6 +5039,7 @@ myData = [
     "Chair03",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4923,6 +5056,7 @@ myData = [
     "ChairCommercial01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4939,6 +5073,7 @@ myData = [
     "ChairCommercial02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4955,6 +5090,7 @@ myData = [
     "ChairCommercial03",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4971,6 +5107,7 @@ myData = [
     "ChairCommercial04",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -4987,6 +5124,7 @@ myData = [
     "ChairCommercial05",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5003,6 +5141,7 @@ myData = [
     "ChairCommercial06",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5018,6 +5157,7 @@ myData = [
   [
     "ChairCommercialRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5033,6 +5173,7 @@ myData = [
   [
     "ChairRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5341,6 +5482,7 @@ myData = [
   [
     "ClothesDryer01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -5357,6 +5499,7 @@ myData = [
   [
     "ClothesDryer01_Clt",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5371,6 +5514,7 @@ myData = [
   [
     "ClothesDryer02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -5387,6 +5531,7 @@ myData = [
   [
     "ClothesDryer02_Clt",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5401,6 +5546,7 @@ myData = [
   [
     "ClothesDryer03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -5417,6 +5563,7 @@ myData = [
   [
     "ClothesDryer03_Clt",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5431,6 +5578,7 @@ myData = [
   [
     "ClothesDryerRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5446,6 +5594,7 @@ myData = [
   [
     "Clothesline01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -5462,6 +5611,7 @@ myData = [
   [
     "Clothesline01_Clt",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5476,6 +5626,7 @@ myData = [
   [
     "Clothesline02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -5492,6 +5643,7 @@ myData = [
   [
     "Clothesline02_Clt",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5506,6 +5658,7 @@ myData = [
   [
     "Clothesline03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -5522,6 +5675,7 @@ myData = [
   [
     "Clothesline03_Clt",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5536,6 +5690,7 @@ myData = [
   [
     "ClotheslineRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5915,6 +6070,7 @@ myData = [
   [
     "CommercialACMachineRoof01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5930,6 +6086,7 @@ myData = [
   [
     "CommercialACMachineRoof02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5945,6 +6102,7 @@ myData = [
   [
     "CommercialACMachineRoof03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5960,6 +6118,7 @@ myData = [
   [
     "CommercialACMachineRoof04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5975,6 +6134,7 @@ myData = [
   [
     "CommercialACMachineRoof05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -5990,6 +6150,7 @@ myData = [
   [
     "CommercialACMachineRoofRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -6004,6 +6165,7 @@ myData = [
   [
     "CommercialACVentRoof01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6019,6 +6181,7 @@ myData = [
   [
     "CommercialACVentRoof02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6034,6 +6197,7 @@ myData = [
   [
     "CommercialACVentRoof03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6049,6 +6213,7 @@ myData = [
   [
     "CommercialACVentRoof04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6064,6 +6229,7 @@ myData = [
   [
     "CommercialACVentRoof05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6079,6 +6245,7 @@ myData = [
   [
     "CommercialACVentRoof06",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6094,6 +6261,7 @@ myData = [
   [
     "CommercialACVentRoofRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6140,7 +6308,13 @@ myData = [
   ],
   [
     "CommunicationsLogoGround01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -6148,7 +6322,13 @@ myData = [
   ],
   [
     "CommunicationsLogoGround02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -6156,7 +6336,13 @@ myData = [
   ],
   [
     "CommunicationsLogoRoofLarge01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -6164,7 +6350,13 @@ myData = [
   ],
   [
     "CommunicationsLogoRoofMedium01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -6172,7 +6364,13 @@ myData = [
   ],
   [
     "CommunicationsLogoRoofSmall01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -6182,6 +6380,7 @@ myData = [
     "CommunicationsLogoWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -6196,6 +6395,7 @@ myData = [
     "CommunicationsLogoWallLargeNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -6210,6 +6410,7 @@ myData = [
     "CommunicationsLogoWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -6224,6 +6425,7 @@ myData = [
     "CommunicationsLogoWallMediumNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -6238,6 +6440,7 @@ myData = [
     "CommunicationsLogoWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -6252,6 +6455,7 @@ myData = [
     "CommunicationsLogoWallSmallNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -6359,6 +6563,7 @@ myData = [
   [
     "ConcreteBarrier01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6374,6 +6579,7 @@ myData = [
   [
     "ConcreteBarrier02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6389,6 +6595,7 @@ myData = [
   [
     "ConcreteBarrier03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6404,6 +6611,7 @@ myData = [
   [
     "ConcreteBarrierRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6420,6 +6628,7 @@ myData = [
     "ConstructionCrane01",
     [
       "craneobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "standingobject",
@@ -6503,6 +6712,7 @@ myData = [
   [
     "Crate01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6518,6 +6728,7 @@ myData = [
   [
     "Crate02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6533,6 +6744,7 @@ myData = [
   [
     "Crate03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6548,6 +6760,7 @@ myData = [
   [
     "CratePile01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6563,6 +6776,7 @@ myData = [
   [
     "CratePile02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6578,6 +6792,7 @@ myData = [
   [
     "CratePile03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6593,6 +6808,7 @@ myData = [
   [
     "CratePileRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6608,6 +6824,7 @@ myData = [
   [
     "CrateRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6753,6 +6970,7 @@ myData = [
     "DeckChair01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6770,6 +6988,7 @@ myData = [
     "DeckChair02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6787,6 +7006,7 @@ myData = [
     "DeckChair03",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6803,6 +7023,7 @@ myData = [
   [
     "DeckChairRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -6929,7 +7150,7 @@ myData = [
   [
     "DisasterHailStormLoop",
     ["cullingeffect", "effect", "sfx", "transform"],
-    "",
+    "Unspawnable",
     "1",
     "Effects",
     "SFX",
@@ -6937,7 +7158,7 @@ myData = [
   [
     "DisasterTornadoLoop",
     ["cullingeffect", "effect", "sfx", "transform"],
-    "",
+    "Unspawnable",
     "1",
     "Effects",
     "SFX",
@@ -7099,6 +7320,7 @@ myData = [
   [
     "DogParkDrinkingFountain01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7114,6 +7336,7 @@ myData = [
   [
     "DogParkHoop01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7129,6 +7352,7 @@ myData = [
   [
     "DogParkHoop02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7144,6 +7368,7 @@ myData = [
   [
     "DogParkJumpFence01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7159,6 +7384,7 @@ myData = [
   [
     "DogParkJumpFence02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7182,6 +7408,7 @@ myData = [
   [
     "DogParkPlatform01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7197,6 +7424,7 @@ myData = [
   [
     "DogParkPole01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7212,6 +7440,7 @@ myData = [
   [
     "DogParkRamp01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7227,6 +7456,7 @@ myData = [
   [
     "DogParkRamp02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7242,6 +7472,7 @@ myData = [
   [
     "DogParkSeesaw01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7257,6 +7488,7 @@ myData = [
   [
     "DogParkSign01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7304,6 +7536,7 @@ myData = [
   [
     "DogParkTube01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7319,6 +7552,7 @@ myData = [
   [
     "DogParkTube02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7342,6 +7576,7 @@ myData = [
   [
     "Doghouse01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7358,6 +7593,7 @@ myData = [
   [
     "Doghouse02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7374,6 +7610,7 @@ myData = [
   [
     "Doghouse03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7390,6 +7627,7 @@ myData = [
   [
     "DoghouseRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7439,6 +7677,7 @@ myData = [
   [
     "DoorMat01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7454,6 +7693,7 @@ myData = [
   [
     "DoorMat02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7469,6 +7709,7 @@ myData = [
   [
     "DoorMat03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7484,6 +7725,7 @@ myData = [
   [
     "DoorMat04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7499,6 +7741,7 @@ myData = [
   [
     "DoorMatRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -7631,6 +7874,7 @@ myData = [
   [
     "DrivewayLight01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -23333,6 +23577,7 @@ myData = [
   [
     "ElectricalBox01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -23347,6 +23592,7 @@ myData = [
   [
     "ElectricalBox02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -23361,6 +23607,7 @@ myData = [
   [
     "ElectricalSubstation01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsublanes",
@@ -23374,7 +23621,13 @@ myData = [
   ],
   [
     "ElectricityLogoGround01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -23382,7 +23635,13 @@ myData = [
   ],
   [
     "ElectricityLogoGround02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -23390,7 +23649,13 @@ myData = [
   ],
   [
     "ElectricityLogoRoofLarge01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -23398,7 +23663,13 @@ myData = [
   ],
   [
     "ElectricityLogoRoofMedium01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -23406,7 +23677,13 @@ myData = [
   ],
   [
     "ElectricityLogoRoofSmall01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -23416,6 +23693,7 @@ myData = [
     "ElectricityLogoWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -23430,6 +23708,7 @@ myData = [
     "ElectricityLogoWallLargeNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -23444,6 +23723,7 @@ myData = [
     "ElectricityLogoWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -23458,6 +23738,7 @@ myData = [
     "ElectricityLogoWallMediumNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -23472,6 +23753,7 @@ myData = [
     "ElectricityLogoWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -23486,6 +23768,7 @@ myData = [
     "ElectricityLogoWallSmallNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -23529,7 +23812,6 @@ myData = [
   [
     "ElementarySchool01 Childrens Clinic",
     [
-      "adjusthappiness",
       "building",
       "buildingterraformoverride",
       "effectsource",
@@ -23539,6 +23821,7 @@ myData = [
       "objectsublanes",
       "objectsubobjects",
       "obsoleteidentifiers",
+      "school",
       "serviceconsumption",
       "serviceupgrade",
       "staticobject",
@@ -23578,7 +23861,6 @@ myData = [
   [
     "ElementarySchool01 Playground",
     [
-      "adjusthappiness",
       "building",
       "effectsource",
       "localeffects",
@@ -23589,6 +23871,7 @@ myData = [
       "objectsubobjects",
       "obsoleteidentifiers",
       "pollution",
+      "school",
       "serviceconsumption",
       "serviceupgrade",
       "staticobject",
@@ -24318,6 +24601,7 @@ myData = [
   [
     "FenceIndustrialPieceHigh01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24333,6 +24617,7 @@ myData = [
   [
     "FenceIndustrialPieceHigh02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24348,6 +24633,7 @@ myData = [
   [
     "FenceIndustrialPieceHighRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24363,6 +24649,7 @@ myData = [
   [
     "FenceIndustrialPieceHighShort01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24378,6 +24665,7 @@ myData = [
   [
     "FenceIndustrialPieceHighShort02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24393,6 +24681,7 @@ myData = [
   [
     "FenceIndustrialPieceHighShortRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24408,6 +24697,7 @@ myData = [
   [
     "FenceIndustrialPieceLow01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24423,6 +24713,7 @@ myData = [
   [
     "FenceIndustrialPieceLow02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24438,6 +24729,7 @@ myData = [
   [
     "FenceIndustrialPieceLowRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24453,6 +24745,7 @@ myData = [
   [
     "FenceIndustrialPieceLowShort01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24468,6 +24761,7 @@ myData = [
   [
     "FenceIndustrialPieceLowShort02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24483,6 +24777,7 @@ myData = [
   [
     "FenceIndustrialPieceLowShortRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24546,6 +24841,7 @@ myData = [
   [
     "FenceResidentialPieceHigh01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24561,6 +24857,7 @@ myData = [
   [
     "FenceResidentialPieceHigh02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24576,6 +24873,7 @@ myData = [
   [
     "FenceResidentialPieceHighRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24591,6 +24889,7 @@ myData = [
   [
     "FenceResidentialPieceHighShort01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24606,6 +24905,7 @@ myData = [
   [
     "FenceResidentialPieceHighShort02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24621,6 +24921,7 @@ myData = [
   [
     "FenceResidentialPieceHighShortRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24636,6 +24937,7 @@ myData = [
   [
     "FenceResidentialPieceLow01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24651,6 +24953,7 @@ myData = [
   [
     "FenceResidentialPieceLow02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24666,6 +24969,7 @@ myData = [
   [
     "FenceResidentialPieceLowRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24681,6 +24985,7 @@ myData = [
   [
     "FenceResidentialPieceLowShort01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24696,6 +25001,7 @@ myData = [
   [
     "FenceResidentialPieceLowShort02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24711,6 +25017,7 @@ myData = [
   [
     "FenceResidentialPieceLowShortRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -24776,6 +25083,7 @@ myData = [
     "FireEscapeBottom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -24791,6 +25099,7 @@ myData = [
     "FireEscapeBottom02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -24806,6 +25115,7 @@ myData = [
     "FireEscapeBottomMirror01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -24821,6 +25131,7 @@ myData = [
     "FireEscapeBottomMirror02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -24836,6 +25147,7 @@ myData = [
     "FireEscapeBottomMirrorRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -24851,6 +25163,7 @@ myData = [
     "FireEscapeBottomRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -24866,6 +25179,7 @@ myData = [
     "FireEscapeMiddle01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -24881,6 +25195,7 @@ myData = [
     "FireEscapeMiddle02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -24896,6 +25211,7 @@ myData = [
     "FireEscapeMiddleMirror01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -24911,6 +25227,7 @@ myData = [
     "FireEscapeMiddleMirror02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -24926,6 +25243,7 @@ myData = [
     "FireEscapeMiddleMirrorRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -24941,6 +25259,7 @@ myData = [
     "FireEscapeMiddleRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -24956,6 +25275,7 @@ myData = [
     "FireEscapePlatform01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -24971,6 +25291,7 @@ myData = [
     "FireEscapePlatform02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -24986,6 +25307,7 @@ myData = [
     "FireEscapePlatformMirror01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -25001,6 +25323,7 @@ myData = [
     "FireEscapePlatformMirror02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -25016,6 +25339,7 @@ myData = [
     "FireEscapePlatformMirrorRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -25031,6 +25355,7 @@ myData = [
     "FireEscapePlatformRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -25046,6 +25371,7 @@ myData = [
     "FireEscapeTop01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -25061,6 +25387,7 @@ myData = [
     "FireEscapeTop02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -25076,6 +25403,7 @@ myData = [
     "FireEscapeTopMirror01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -25091,6 +25419,7 @@ myData = [
     "FireEscapeTopMirror02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -25106,6 +25435,7 @@ myData = [
     "FireEscapeTopMirrorRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -25121,6 +25451,7 @@ myData = [
     "FireEscapeTopRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -25206,7 +25537,13 @@ myData = [
   ],
   [
     "FireLogoGround01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -25214,7 +25551,13 @@ myData = [
   ],
   [
     "FireLogoGround02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -25222,7 +25565,13 @@ myData = [
   ],
   [
     "FireLogoRoofLarge01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -25230,7 +25579,13 @@ myData = [
   ],
   [
     "FireLogoRoofMedium01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -25238,7 +25593,13 @@ myData = [
   ],
   [
     "FireLogoRoofSmall01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -25248,6 +25609,7 @@ myData = [
     "FireLogoWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -25262,6 +25624,7 @@ myData = [
     "FireLogoWallLargeNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -25276,6 +25639,7 @@ myData = [
     "FireLogoWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -25290,6 +25654,7 @@ myData = [
     "FireLogoWallMediumNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -25304,6 +25669,7 @@ myData = [
     "FireLogoWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -25318,6 +25684,7 @@ myData = [
     "FireLogoWallSmallNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -25331,7 +25698,7 @@ myData = [
   [
     "FireLoopSFX",
     ["cullingeffect", "effect", "obsoleteidentifiers", "sfx", "transform"],
-    "",
+    "Unspawnable",
     "1",
     "Effects",
     "SFX",
@@ -25670,6 +26037,7 @@ myData = [
   [
     "FirewoodPile01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25685,6 +26053,7 @@ myData = [
   [
     "FirewoodPile02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25700,6 +26069,7 @@ myData = [
   [
     "FirewoodPile03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25715,6 +26085,7 @@ myData = [
   [
     "FirewoodPileRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25730,6 +26101,7 @@ myData = [
   [
     "FirewoodShelter01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25745,6 +26117,7 @@ myData = [
   [
     "FirewoodShelter02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25759,6 +26132,7 @@ myData = [
   [
     "FirewoodShelter03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25774,6 +26148,7 @@ myData = [
   [
     "FirewoodShelterRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25789,6 +26164,7 @@ myData = [
   [
     "FlagPole01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25803,7 +26179,13 @@ myData = [
   ],
   [
     "FlagPole01_Clt",
-    ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "staticobject",
+    ],
     "Flag is one sided, appears invisible from one side",
     "1",
     "Props",
@@ -25812,6 +26194,7 @@ myData = [
   [
     "FlagPole02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25826,7 +26209,13 @@ myData = [
   ],
   [
     "FlagPole02_Clt",
-    ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "staticobject",
+    ],
     "Flag is one sided, appears invisible from one side",
     "1",
     "Props",
@@ -25835,6 +26224,7 @@ myData = [
   [
     "FlagPoleCommercial01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25849,7 +26239,13 @@ myData = [
   ],
   [
     "FlagPoleCommercial01_Clt",
-    ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "staticobject",
+    ],
     "Flag is one sided, appears invisible from one side",
     "1",
     "Props",
@@ -25858,6 +26254,7 @@ myData = [
   [
     "FlagPoleCommercial02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25872,7 +26269,13 @@ myData = [
   ],
   [
     "FlagPoleCommercial02_Clt",
-    ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "staticobject",
+    ],
     "Flag is one sided, appears invisible from one side",
     "1",
     "Props",
@@ -25882,6 +26285,7 @@ myData = [
     "FlagPoleCommercialWall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25895,7 +26299,13 @@ myData = [
   ],
   [
     "FlagPoleCommercialWall01_Clt",
-    ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "staticobject",
+    ],
     "Flag is one sided, appears invisible from one side",
     "1",
     "Props",
@@ -25905,6 +26315,7 @@ myData = [
     "FlagPoleCommercialWall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25918,7 +26329,13 @@ myData = [
   ],
   [
     "FlagPoleCommercialWall02_Clt",
-    ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "staticobject",
+    ],
     "Flag is one sided, appears invisible from one side",
     "1",
     "Props",
@@ -25928,6 +26345,7 @@ myData = [
     "FlagPoleWall 01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25941,7 +26359,13 @@ myData = [
   ],
   [
     "FlagPoleWall01_Clt",
-    ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "staticobject",
+    ],
     "Flag is one sided, appears invisible from one side",
     "1",
     "Props",
@@ -25951,6 +26375,7 @@ myData = [
     "FlagPoleWall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -25964,7 +26389,13 @@ myData = [
   ],
   [
     "FlagPoleWall02_Clt",
-    ["object", "objectgeometry", "obsoleteidentifiers", "staticobject"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "staticobject",
+    ],
     "Flag is one sided, appears invisible from one side",
     "1",
     "Props",
@@ -26127,6 +26558,7 @@ myData = [
   [
     "FlowerPot01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -26143,6 +26575,7 @@ myData = [
   [
     "FlowerPot02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -26159,6 +26592,7 @@ myData = [
   [
     "Flowerbed01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -26174,6 +26608,7 @@ myData = [
   [
     "Flowerbed02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -26190,6 +26625,7 @@ myData = [
     "FoodCart01",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -26207,6 +26643,7 @@ myData = [
     "FoodCart02",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -26223,6 +26660,7 @@ myData = [
     "FoodCart03",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -26239,6 +26677,7 @@ myData = [
   [
     "FoodCartRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -26255,6 +26694,7 @@ myData = [
     "FoodStall01",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -26272,6 +26712,7 @@ myData = [
     "FoodStall02",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -26289,6 +26730,7 @@ myData = [
     "FoodStall03",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -26305,6 +26747,7 @@ myData = [
   [
     "FoodStallRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -26366,6 +26809,7 @@ myData = [
   [
     "FootballGoal01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -26901,7 +27345,13 @@ myData = [
   ],
   [
     "GarbageLogoGround01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -26909,7 +27359,13 @@ myData = [
   ],
   [
     "GarbageLogoGround02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -26917,7 +27373,13 @@ myData = [
   ],
   [
     "GarbageLogoRoofLarge01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -26925,7 +27387,13 @@ myData = [
   ],
   [
     "GarbageLogoRoofMedium01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -26933,7 +27401,13 @@ myData = [
   ],
   [
     "GarbageLogoRoofSmall01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -26943,6 +27417,7 @@ myData = [
     "GarbageLogoWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -26957,6 +27432,7 @@ myData = [
     "GarbageLogoWallLargeNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -26971,6 +27447,7 @@ myData = [
     "GarbageLogoWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -26985,6 +27462,7 @@ myData = [
     "GarbageLogoWallMediumNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -26999,6 +27477,7 @@ myData = [
     "GarbageLogoWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -27013,6 +27492,7 @@ myData = [
     "GarbageLogoWallSmallNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -27046,6 +27526,7 @@ myData = [
     "GardenBench01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27062,6 +27543,7 @@ myData = [
     "GardenBench02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27078,6 +27560,7 @@ myData = [
     "GardenBench03",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27094,6 +27577,7 @@ myData = [
     "GardenBench04",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27109,6 +27593,7 @@ myData = [
   [
     "GardenBenchRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27124,6 +27609,7 @@ myData = [
   [
     "GardenLight01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -27142,6 +27628,7 @@ myData = [
   [
     "GardenLight02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -27160,6 +27647,7 @@ myData = [
   [
     "GardenLight03",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -27178,6 +27666,7 @@ myData = [
   [
     "GardenLightRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27219,6 +27708,7 @@ myData = [
   [
     "GasBottle01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27233,6 +27723,7 @@ myData = [
   [
     "GasBottleCart01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27247,6 +27738,7 @@ myData = [
   [
     "GasBottlePallet01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27261,6 +27753,7 @@ myData = [
   [
     "GasBottleRack01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27275,6 +27768,7 @@ myData = [
   [
     "GasHeater01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27291,6 +27785,7 @@ myData = [
   [
     "GasHeater02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27307,6 +27802,7 @@ myData = [
   [
     "GasHeaterRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27447,6 +27943,7 @@ myData = [
   [
     "GasStationPylon01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27463,6 +27960,7 @@ myData = [
   [
     "GasStationPylon02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27479,6 +27977,7 @@ myData = [
   [
     "GasStationPylon03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27495,6 +27994,7 @@ myData = [
   [
     "GasStationPylonRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27510,6 +28010,7 @@ myData = [
   [
     "Gazebo01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -27526,6 +28027,7 @@ myData = [
   [
     "Gazebo02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -27542,6 +28044,7 @@ myData = [
   [
     "Gazebo03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -27558,6 +28061,7 @@ myData = [
   [
     "GazeboRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -27876,6 +28380,7 @@ myData = [
       "serviceobject",
       "uiobject",
       "undergroundnetsections",
+      "unlockable",
     ],
     "",
     "1",
@@ -28001,7 +28506,7 @@ myData = [
   [
     "GrandHotelSpot01",
     ["contentprerequisite", "effect", "sfx", "transform"],
-    "",
+    "Unspawnable",
     "4",
     "Effects",
     "SFX",
@@ -28009,7 +28514,7 @@ myData = [
   [
     "GrandHotelSpot02",
     ["contentprerequisite", "effect", "sfx", "transform"],
-    "",
+    "Unspawnable",
     "4",
     "Effects",
     "SFX",
@@ -28017,7 +28522,7 @@ myData = [
   [
     "GrandHotelSpot03",
     ["contentprerequisite", "effect", "sfx", "transform"],
-    "",
+    "Unspawnable",
     "4",
     "Effects",
     "SFX",
@@ -28291,6 +28796,7 @@ myData = [
   [
     "Greenhouse01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -28305,6 +28811,7 @@ myData = [
   [
     "Greenhouse02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -28319,6 +28826,7 @@ myData = [
   [
     "Greenhouse03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -28333,6 +28841,7 @@ myData = [
   [
     "GreenhouseRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -28347,6 +28856,7 @@ myData = [
   [
     "Grill01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -28362,6 +28872,7 @@ myData = [
   [
     "Grill02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -28377,6 +28888,7 @@ myData = [
   [
     "Grill03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -28392,6 +28904,7 @@ myData = [
   [
     "GrillRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -28479,6 +28992,7 @@ myData = [
   [
     "GroundLightFarRange01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -28503,6 +29017,7 @@ myData = [
   [
     "GroundLightMidRange01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -28527,6 +29042,7 @@ myData = [
   [
     "GroundLightShortRange01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -28657,6 +29173,7 @@ myData = [
   [
     "GymParkChestPress01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -28673,6 +29190,7 @@ myData = [
     "GymParkChinUpBar01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -28688,6 +29206,7 @@ myData = [
   [
     "GymParkDipStation01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -28703,6 +29222,7 @@ myData = [
   [
     "GymParkPaddleBike01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -28718,6 +29238,7 @@ myData = [
   [
     "GymParkParallelBars01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -28733,6 +29254,7 @@ myData = [
   [
     "GymParkPushUpBars01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -28748,6 +29270,7 @@ myData = [
   [
     "GymParkRower01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -28763,6 +29286,7 @@ myData = [
   [
     "GymParkSign01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -28786,6 +29310,7 @@ myData = [
   [
     "Hammock01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -28801,6 +29326,7 @@ myData = [
   [
     "Hammock02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -28816,6 +29342,7 @@ myData = [
   [
     "HammockRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -28839,6 +29366,7 @@ myData = [
     "HangingChair01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -28855,6 +29383,7 @@ myData = [
     "HangingChair02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -28870,6 +29399,7 @@ myData = [
   [
     "HangingChairRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -29047,7 +29577,13 @@ myData = [
   ],
   [
     "HealthcareLogoGround01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -29055,7 +29591,13 @@ myData = [
   ],
   [
     "HealthcareLogoGround02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -29063,7 +29605,13 @@ myData = [
   ],
   [
     "HealthcareLogoRoofLarge01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -29071,7 +29619,13 @@ myData = [
   ],
   [
     "HealthcareLogoRoofMedium01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -29079,7 +29633,13 @@ myData = [
   ],
   [
     "HealthcareLogoRoofSmall01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -29089,6 +29649,7 @@ myData = [
     "HealthcareLogoWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -29103,6 +29664,7 @@ myData = [
     "HealthcareLogoWallLargeNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -29117,6 +29679,7 @@ myData = [
     "HealthcareLogoWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -29131,6 +29694,7 @@ myData = [
     "HealthcareLogoWallMediumNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -29145,6 +29709,7 @@ myData = [
     "HealthcareLogoWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -29159,6 +29724,7 @@ myData = [
     "HealthcareLogoWallSmallNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -29275,6 +29841,7 @@ myData = [
   [
     "HedgePieceHigh01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -29290,6 +29857,7 @@ myData = [
   [
     "HedgePieceHigh02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -29305,6 +29873,7 @@ myData = [
   [
     "HedgePieceHighRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -29320,6 +29889,7 @@ myData = [
   [
     "HedgePieceLow01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -29335,6 +29905,7 @@ myData = [
   [
     "HedgePieceLow02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -29350,6 +29921,7 @@ myData = [
   [
     "HedgePieceLowRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -29516,6 +30088,7 @@ myData = [
   [
     "Helipad01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -29531,6 +30104,7 @@ myData = [
   [
     "Helipad02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -29546,6 +30120,7 @@ myData = [
   [
     "Helipad03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -29561,6 +30136,7 @@ myData = [
   [
     "HeyBale01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -29575,6 +30151,7 @@ myData = [
   [
     "HeyBale02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -29589,6 +30166,7 @@ myData = [
   [
     "HeyBale03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31231,6 +31809,7 @@ myData = [
   [
     "HotTub01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31245,6 +31824,7 @@ myData = [
   [
     "HotTub02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31333,6 +31913,7 @@ myData = [
   [
     "IceHockeyGoal01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31458,6 +32039,7 @@ myData = [
   [
     "IndustrialACMachineRoof01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31473,6 +32055,7 @@ myData = [
   [
     "IndustrialACMachineRoof02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31488,6 +32071,7 @@ myData = [
   [
     "IndustrialACMachineRoof03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31503,6 +32087,7 @@ myData = [
   [
     "IndustrialACMachineRoof04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31518,6 +32103,7 @@ myData = [
   [
     "IndustrialACMachineRoof05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31533,6 +32119,7 @@ myData = [
   [
     "IndustrialACMachineRoofRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31549,6 +32136,7 @@ myData = [
     "IndustrialACMachineWall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31565,6 +32153,7 @@ myData = [
     "IndustrialACMachineWall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31581,6 +32170,7 @@ myData = [
     "IndustrialACMachineWall03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31597,6 +32187,7 @@ myData = [
     "IndustrialACMachineWall04",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31613,6 +32204,7 @@ myData = [
     "IndustrialACMachineWallRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -31975,6 +32567,7 @@ myData = [
     "IndustrialChimneyLarge01 Agriculture",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -31993,6 +32586,7 @@ myData = [
     "IndustrialChimneyLarge02 Forestry",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -32011,6 +32605,7 @@ myData = [
     "IndustrialChimneyLarge03 Oil",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -32029,6 +32624,7 @@ myData = [
     "IndustrialChimneyLarge04 Ore",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -32046,6 +32642,7 @@ myData = [
   [
     "IndustrialChimneyLargeRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -32062,6 +32659,7 @@ myData = [
     "IndustrialChimneyMedium01 Agriculture",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -32079,6 +32677,7 @@ myData = [
     "IndustrialChimneyMedium02 Forestry",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -32096,6 +32695,7 @@ myData = [
     "IndustrialChimneyMedium03 Oil",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -32113,6 +32713,7 @@ myData = [
     "IndustrialChimneyMedium04 Ore",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -32128,6 +32729,7 @@ myData = [
   [
     "IndustrialChimneyMediumRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -32144,6 +32746,7 @@ myData = [
     "IndustrialChimneySmall01 Agriculture",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -32161,6 +32764,7 @@ myData = [
     "IndustrialChimneySmall02 Forestry",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -32178,6 +32782,7 @@ myData = [
     "IndustrialChimneySmall03 Oil",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -32195,6 +32800,7 @@ myData = [
     "IndustrialChimneySmall04 Ore",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -32211,6 +32817,7 @@ myData = [
   [
     "IndustrialChimneySmallRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -36348,6 +36955,7 @@ myData = [
     "IndustrialManufacturingDecoration01_1x1 Agriculture",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -36364,6 +36972,7 @@ myData = [
     "IndustrialManufacturingDecoration01_1x3 Agriculture",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -36381,6 +36990,7 @@ myData = [
     "IndustrialManufacturingDecoration01_2x2 Agriculture",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -36398,6 +37008,7 @@ myData = [
     "IndustrialManufacturingDecoration01_2x4 Agriculture",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -36415,6 +37026,7 @@ myData = [
     "IndustrialManufacturingDecoration02_1x1 Forestry",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -36431,6 +37043,7 @@ myData = [
     "IndustrialManufacturingDecoration02_1x3 Forestry",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -36448,6 +37061,7 @@ myData = [
     "IndustrialManufacturingDecoration02_2x2 Forestry",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -36466,6 +37080,7 @@ myData = [
     "IndustrialManufacturingDecoration02_2x4 Forestry",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -36484,6 +37099,7 @@ myData = [
     "IndustrialManufacturingDecoration03_1x1 Oil",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -36500,6 +37116,7 @@ myData = [
     "IndustrialManufacturingDecoration03_1x3 Oil",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -36517,6 +37134,7 @@ myData = [
     "IndustrialManufacturingDecoration03_2x2 Oil",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -36535,6 +37153,7 @@ myData = [
     "IndustrialManufacturingDecoration03_2x4 Oil",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -36552,6 +37171,7 @@ myData = [
     "IndustrialManufacturingDecoration04_1x1 Ore",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -36568,6 +37188,7 @@ myData = [
     "IndustrialManufacturingDecoration04_1x3 Ore",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -36585,6 +37206,7 @@ myData = [
     "IndustrialManufacturingDecoration04_2x2 Ore",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -36603,6 +37225,7 @@ myData = [
     "IndustrialManufacturingDecoration04_2x4 Ore",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -36620,6 +37243,7 @@ myData = [
   [
     "IndustrialManufacturingDecorationRandom01_1x1",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -36635,6 +37259,7 @@ myData = [
   [
     "IndustrialManufacturingDecorationRandom01_1x3",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -36650,6 +37275,7 @@ myData = [
   [
     "IndustrialManufacturingDecorationRandom01_2x2",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -36665,6 +37291,7 @@ myData = [
   [
     "IndustrialManufacturingDecorationRandom01_2x4",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -43515,6 +44142,7 @@ myData = [
     "IntercomBuzzerLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -43530,6 +44158,7 @@ myData = [
     "IntercomBuzzerLarge02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -43545,6 +44174,7 @@ myData = [
     "IntercomBuzzerLargeRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -43560,6 +44190,7 @@ myData = [
     "IntercomBuzzerSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -43575,6 +44206,7 @@ myData = [
     "IntercomBuzzerSmall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -43590,6 +44222,7 @@ myData = [
     "IntercomBuzzerSmallRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -44104,6 +44737,7 @@ myData = [
     "Kiosk01",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -44121,6 +44755,7 @@ myData = [
     "Kiosk02",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -44138,6 +44773,7 @@ myData = [
     "Kiosk03",
     [
       "companyobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -44154,6 +44790,7 @@ myData = [
   [
     "KioskRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -44170,6 +44807,7 @@ myData = [
     "LadderBottom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44185,6 +44823,7 @@ myData = [
     "LadderBottom02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44200,6 +44839,7 @@ myData = [
     "LadderBottom03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44215,6 +44855,7 @@ myData = [
     "LadderBottom04",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44230,6 +44871,7 @@ myData = [
     "LadderBottomRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -44245,6 +44887,7 @@ myData = [
     "LadderMiddle01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44260,6 +44903,7 @@ myData = [
     "LadderMiddle02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44275,6 +44919,7 @@ myData = [
     "LadderMiddle03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44290,6 +44935,7 @@ myData = [
     "LadderMiddle04",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44305,6 +44951,7 @@ myData = [
     "LadderMiddleRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -44320,6 +44967,7 @@ myData = [
     "LadderMiddleShort01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44335,6 +44983,7 @@ myData = [
     "LadderMiddleShort02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44350,6 +44999,7 @@ myData = [
     "LadderMiddleShort03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44365,6 +45015,7 @@ myData = [
     "LadderMiddleShort04",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44380,6 +45031,7 @@ myData = [
     "LadderMiddleShortRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -44394,6 +45046,7 @@ myData = [
   [
     "LadderRoof01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44408,6 +45061,7 @@ myData = [
   [
     "LadderRoof02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44422,6 +45076,7 @@ myData = [
   [
     "LadderRoof03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44436,6 +45091,7 @@ myData = [
   [
     "LadderRoof04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44450,6 +45106,7 @@ myData = [
   [
     "LadderRoofRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -44464,6 +45121,7 @@ myData = [
   [
     "LadderRoofShort01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44478,6 +45136,7 @@ myData = [
   [
     "LadderRoofShort02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44492,6 +45151,7 @@ myData = [
   [
     "LadderRoofShort03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44506,6 +45166,7 @@ myData = [
   [
     "LadderRoofShort04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44520,6 +45181,7 @@ myData = [
   [
     "LadderRoofShortRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -44535,6 +45197,7 @@ myData = [
     "LadderTop01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44550,6 +45213,7 @@ myData = [
     "LadderTop02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44565,6 +45229,7 @@ myData = [
     "LadderTop03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44580,6 +45245,7 @@ myData = [
     "LadderTop04",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44595,6 +45261,7 @@ myData = [
     "LadderTopRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -44610,6 +45277,7 @@ myData = [
     "LadderTopShort01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44625,6 +45293,7 @@ myData = [
     "LadderTopShort02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44640,6 +45309,7 @@ myData = [
     "LadderTopShort03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44655,6 +45325,7 @@ myData = [
     "LadderTopShort04",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -44670,6 +45341,7 @@ myData = [
     "LadderTopShortRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -45030,6 +45702,7 @@ myData = [
   [
     "LargeFountain01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -45045,6 +45718,7 @@ myData = [
   [
     "LargeFountain02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -45060,6 +45734,7 @@ myData = [
   [
     "LargeFountain03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -45075,6 +45750,7 @@ myData = [
   [
     "LargeFountainRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -45119,7 +45795,13 @@ myData = [
   ],
   [
     "LargeOpenContainer01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -45128,6 +45810,7 @@ myData = [
   [
     "Levelcrossing Placeholder",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -45193,6 +45876,7 @@ myData = [
   [
     "LightpoleCommercial01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45210,6 +45894,7 @@ myData = [
   [
     "LightpoleCommercial02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45227,6 +45912,7 @@ myData = [
   [
     "LightpoleCommercial03",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45244,6 +45930,7 @@ myData = [
   [
     "LightpoleCommercial04",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45261,6 +45948,7 @@ myData = [
   [
     "LightpoleCommercialRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -45309,6 +45997,7 @@ myData = [
   [
     "LightpoleIndustrial01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45327,6 +46016,7 @@ myData = [
   [
     "LightpoleIndustrial02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45345,6 +46035,7 @@ myData = [
   [
     "LightpoleIndustrial03",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45363,6 +46054,7 @@ myData = [
   [
     "LightpoleIndustrial04",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45381,6 +46073,7 @@ myData = [
   [
     "LightpoleIndustrialRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -45430,6 +46123,7 @@ myData = [
   [
     "LightpolePark01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45448,6 +46142,7 @@ myData = [
   [
     "LightpolePark02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45466,6 +46161,7 @@ myData = [
   [
     "LightpolePark03",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45484,6 +46180,7 @@ myData = [
   [
     "LightpolePark04",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45502,6 +46199,7 @@ myData = [
   [
     "LightpoleParkRandom01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -45520,6 +46218,7 @@ myData = [
   [
     "Log01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -45535,6 +46234,7 @@ myData = [
   [
     "Log02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -45550,6 +46250,7 @@ myData = [
   [
     "Log03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -45565,6 +46266,7 @@ myData = [
   [
     "Log04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -45580,6 +46282,7 @@ myData = [
   [
     "Log05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -45595,6 +46298,7 @@ myData = [
   [
     "Log06",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -45610,6 +46314,7 @@ myData = [
   [
     "Log07",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -45624,6 +46329,7 @@ myData = [
   [
     "Log08",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -45638,6 +46344,7 @@ myData = [
   [
     "Log09",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -45652,6 +46359,7 @@ myData = [
   [
     "Log10",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -45666,6 +46374,7 @@ myData = [
   [
     "Log11",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -45680,6 +46389,7 @@ myData = [
   [
     "Log12",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -45694,6 +46404,7 @@ myData = [
   [
     "Log13",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -45708,6 +46419,7 @@ myData = [
   [
     "Log14",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -45722,6 +46434,7 @@ myData = [
   [
     "Log15",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -45736,6 +46449,7 @@ myData = [
   [
     "Log16",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -45750,6 +46464,7 @@ myData = [
   [
     "Log17",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -45764,6 +46479,7 @@ myData = [
   [
     "Log18",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -45775,141 +46491,23 @@ myData = [
     "Props",
     "Industrial",
   ],
-  [
-    "LogPileLargeHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileLargeHigh02",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileLargeHigh03",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileLargeLow01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileLargeLow02",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileLargeLow03",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileLargeMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileLargeMedium02",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileLargeMedium03",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
+  ["LogPileLargeHigh01", [], "", "1", "Props", "Industrial"],
+  ["LogPileLargeHigh02", [], "", "1", "Props", "Industrial"],
+  ["LogPileLargeHigh03", [], "", "1", "Props", "Industrial"],
+  ["LogPileLargeLow01", [], "", "1", "Props", "Industrial"],
+  ["LogPileLargeLow02", [], "", "1", "Props", "Industrial"],
+  ["LogPileLargeLow03", [], "", "1", "Props", "Industrial"],
+  ["LogPileLargeMedium01", [], "", "1", "Props", "Industrial"],
+  ["LogPileLargeMedium02", [], "", "1", "Props", "Industrial"],
+  ["LogPileLargeMedium03", [], "", "1", "Props", "Industrial"],
   [
     "LogPileLargeRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
+      "quantityobject",
       "staticobject",
       "subobjectdefaultprobability",
     ],
@@ -45920,139 +46518,42 @@ myData = [
   ],
   [
     "LogPileMediumHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
+    ["obsoleteidentifiers"],
     "",
     "1",
     "Props",
     "Industrial",
   ],
-  [
-    "LogPileMediumHigh02",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileMediumHigh03",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
+  ["LogPileMediumHigh02", [], "", "1", "Props", "Industrial"],
+  ["LogPileMediumHigh03", [], "", "1", "Props", "Industrial"],
   [
     "LogPileMediumLow01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
+    ["obsoleteidentifiers"],
     "",
     "1",
     "Props",
     "Industrial",
   ],
-  [
-    "LogPileMediumLow02",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileMediumLow03",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
+  ["LogPileMediumLow02", [], "", "1", "Props", "Industrial"],
+  ["LogPileMediumLow03", [], "", "1", "Props", "Industrial"],
   [
     "LogPileMediumMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
+    ["obsoleteidentifiers"],
     "",
     "1",
     "Props",
     "Industrial",
   ],
-  [
-    "LogPileMediumMedium02",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileMediumMedium03",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
+  ["LogPileMediumMedium02", [], "", "1", "Props", "Industrial"],
+  ["LogPileMediumMedium03", [], "", "1", "Props", "Industrial"],
   [
     "LogPileMediumRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
+      "quantityobject",
       "staticobject",
       "subobjectdefaultprobability",
     ],
@@ -46061,141 +46562,23 @@ myData = [
     "Props",
     "Random",
   ],
-  [
-    "LogPileSmallHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileSmallHigh02",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileSmallHigh03",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileSmallLow01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileSmallLow02",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileSmallLow03",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileSmallMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileSmallMedium02",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "LogPileSmallMedium03",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
+  ["LogPileSmallHigh01", [], "", "1", "Props", "Industrial"],
+  ["LogPileSmallHigh02", [], "", "1", "Props", "Industrial"],
+  ["LogPileSmallHigh03", [], "", "1", "Props", "Industrial"],
+  ["LogPileSmallLow01", [], "", "1", "Props", "Industrial"],
+  ["LogPileSmallLow02", [], "", "1", "Props", "Industrial"],
+  ["LogPileSmallLow03", [], "", "1", "Props", "Industrial"],
+  ["LogPileSmallMedium01", [], "", "1", "Props", "Industrial"],
+  ["LogPileSmallMedium02", [], "", "1", "Props", "Industrial"],
+  ["LogPileSmallMedium03", [], "", "1", "Props", "Industrial"],
   [
     "LogPileSmallRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
+      "quantityobject",
       "staticobject",
       "subobjectdefaultprobability",
     ],
@@ -46207,6 +46590,7 @@ myData = [
   [
     "LogRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -47199,6 +47583,7 @@ myData = [
   [
     "MailboxStandRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -47215,6 +47600,7 @@ myData = [
     "MailboxWallRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -47230,6 +47616,7 @@ myData = [
   [
     "MakeshiftTent01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "renterobject",
@@ -47245,6 +47632,7 @@ myData = [
   [
     "MakeshiftTent02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "renterobject",
@@ -47260,6 +47648,7 @@ myData = [
   [
     "MakeshiftTent03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "renterobject",
@@ -47275,6 +47664,7 @@ myData = [
   [
     "MakeshiftTent04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "renterobject",
@@ -47290,6 +47680,7 @@ myData = [
   [
     "MakeshiftTentRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -47693,6 +48084,7 @@ myData = [
   [
     "MetalStack01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -47708,6 +48100,7 @@ myData = [
   [
     "MetalStack02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -47723,6 +48116,7 @@ myData = [
   [
     "MetalStack03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -47738,6 +48132,7 @@ myData = [
   [
     "MetalStack04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -47753,6 +48148,7 @@ myData = [
   [
     "MetalStackRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -63514,6 +63910,7 @@ myData = [
   [
     "NewspaperVendingMachine01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -63529,6 +63926,7 @@ myData = [
   [
     "NewspaperVendingMachine02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -63544,6 +63942,7 @@ myData = [
   [
     "NewspaperVendingMachine03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -63559,6 +63958,7 @@ myData = [
   [
     "NewspaperVendingMachineRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -66645,7 +67045,13 @@ myData = [
   ],
   [
     "OilPipe01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -66705,7 +67111,13 @@ myData = [
   ],
   [
     "OldCemeteryMausoleum01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -66714,6 +67126,7 @@ myData = [
   [
     "OldCemeteryTombstone01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -66728,6 +67141,7 @@ myData = [
   [
     "OldCemeteryTombstone02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -66742,6 +67156,7 @@ myData = [
   [
     "OldCemeteryTombstone03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -66756,6 +67171,7 @@ myData = [
   [
     "OldCemeteryTombstone04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -66770,6 +67186,7 @@ myData = [
   [
     "OldCemeteryTombstone05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -66784,6 +67201,7 @@ myData = [
   [
     "OldCemeteryTombstone06",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -66798,6 +67216,7 @@ myData = [
   [
     "OldCemeteryTombstone07",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -66812,6 +67231,7 @@ myData = [
   [
     "OldCemeteryTombstone08",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -66826,6 +67246,7 @@ myData = [
   [
     "OldCemeteryTombstoneRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -66840,6 +67261,7 @@ myData = [
   [
     "OldCemeteryTombstoneRandom02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -67061,7 +67483,13 @@ myData = [
   ],
   [
     "OreConveyorBelt01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -67162,6 +67590,7 @@ myData = [
     "OutdoorCornerSofa01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -67178,6 +67607,7 @@ myData = [
     "OutdoorCornerSofa02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -67194,6 +67624,7 @@ myData = [
     "OutdoorCornerSofa03",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -67209,6 +67640,7 @@ myData = [
   [
     "OutdoorCornerSofaRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -67224,6 +67656,7 @@ myData = [
     "OutdoorSofa01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -67240,6 +67673,7 @@ myData = [
     "OutdoorSofa02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -67256,6 +67690,7 @@ myData = [
     "OutdoorSofa03",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -67271,6 +67706,7 @@ myData = [
   [
     "OutdoorSofaRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -67285,6 +67721,7 @@ myData = [
   [
     "Outhouse01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67300,6 +67737,7 @@ myData = [
   [
     "Outhouse02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67315,6 +67753,7 @@ myData = [
   [
     "OuthouseRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -67329,6 +67768,7 @@ myData = [
   [
     "Pallet01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67344,6 +67784,7 @@ myData = [
   [
     "Pallet02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67359,6 +67800,7 @@ myData = [
   [
     "Pallet03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67374,6 +67816,7 @@ myData = [
   [
     "Pallet04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67389,6 +67832,7 @@ myData = [
   [
     "PalletRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67404,6 +67848,7 @@ myData = [
   [
     "Parasol01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67420,6 +67865,7 @@ myData = [
   [
     "Parasol02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67436,6 +67882,7 @@ myData = [
   [
     "Parasol03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67452,6 +67899,7 @@ myData = [
   [
     "ParasolRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67475,6 +67923,7 @@ myData = [
   [
     "ParkInfosign01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67490,6 +67939,7 @@ myData = [
   [
     "ParkInfosign02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67505,6 +67955,7 @@ myData = [
   [
     "ParkInfosign03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67520,6 +67971,7 @@ myData = [
   [
     "ParkInfosignRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67682,6 +68134,7 @@ myData = [
   [
     "ParkSign01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67697,6 +68150,7 @@ myData = [
   [
     "ParkSign02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67712,6 +68166,7 @@ myData = [
   [
     "ParkSign03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67727,6 +68182,7 @@ myData = [
   [
     "ParkSignRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67742,6 +68198,7 @@ myData = [
   [
     "ParkSignpost01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67757,6 +68214,7 @@ myData = [
   [
     "ParkSignpost02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67772,6 +68230,7 @@ myData = [
   [
     "ParkSignpost03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67787,6 +68246,7 @@ myData = [
   [
     "ParkSignpostRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -67888,7 +68348,7 @@ myData = [
     "Parking",
   ],
   [
-    "ParkinglconDecal01",
+    "ParkingIconDecal01",
     ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
     "",
     "1",
@@ -67896,7 +68356,7 @@ myData = [
     "Decals",
   ],
   [
-    "ParkinglconDisabledDecal01",
+    "ParkingIconDisabledDecal01",
     ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
     "",
     "1",
@@ -67904,7 +68364,7 @@ myData = [
     "Decals",
   ],
   [
-    "ParkinglconElectricDecal01",
+    "ParkingIconElectricDecal01",
     ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
     "",
     "1",
@@ -67912,7 +68372,7 @@ myData = [
     "Decals",
   ],
   [
-    "ParkinglconMotorbikeDecal01",
+    "ParkingIconMotorbikeDecal01",
     ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
     "",
     "1",
@@ -67920,7 +68380,7 @@ myData = [
     "Decals",
   ],
   [
-    "ParkinglconTruckDecal01",
+    "ParkingIconTruckDecal01",
     ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
     "",
     "1",
@@ -68043,6 +68503,7 @@ myData = [
   [
     "ParkingLotBooth01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -68058,6 +68519,7 @@ myData = [
   [
     "ParkingLotBooth02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -68073,6 +68535,7 @@ myData = [
   [
     "ParkingLotCharger01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -68347,6 +68810,7 @@ myData = [
   [
     "ParkingLotGate01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -68361,6 +68825,7 @@ myData = [
   [
     "ParkingLotGate02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -68507,6 +68972,7 @@ myData = [
   [
     "ParkingLotSign01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -68521,6 +68987,7 @@ myData = [
   [
     "ParkingReaderStand01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -68536,6 +69003,7 @@ myData = [
     "ParkingReaderWall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -68557,7 +69025,13 @@ myData = [
   ],
   [
     "ParksLogoGround01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -68565,7 +69039,13 @@ myData = [
   ],
   [
     "ParksLogoGround02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -68573,7 +69053,13 @@ myData = [
   ],
   [
     "ParksLogoRoofLarge01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -68581,7 +69067,13 @@ myData = [
   ],
   [
     "ParksLogoRoofMedium01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -68589,7 +69081,13 @@ myData = [
   ],
   [
     "ParksLogoRoofSmall01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -68599,6 +69097,7 @@ myData = [
     "ParksLogoWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -68613,6 +69112,7 @@ myData = [
     "ParksLogoWallLargeNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -68627,6 +69127,7 @@ myData = [
     "ParksLogoWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -68641,6 +69142,7 @@ myData = [
     "ParksLogoWallMediumNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -68655,6 +69157,7 @@ myData = [
     "ParksLogoWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -68669,6 +69172,7 @@ myData = [
     "ParksLogoWallSmallNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -68682,6 +69186,7 @@ myData = [
   [
     "Patio01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -68697,6 +69202,7 @@ myData = [
   [
     "Patio02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -68712,6 +69218,7 @@ myData = [
   [
     "Patio03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -68727,6 +69234,7 @@ myData = [
   [
     "Patio04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -69093,6 +69601,7 @@ myData = [
       "placeablenet",
       "road",
       "serviceobject",
+      "staticobject",
       "uiobject",
       "undergroundnetsections",
       "unlockable",
@@ -69127,7 +69636,13 @@ myData = [
   ],
   [
     "PicnicBlanket01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -69135,7 +69650,13 @@ myData = [
   ],
   [
     "PicnicBlanket02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -69143,7 +69664,13 @@ myData = [
   ],
   [
     "PicnicBlanket03",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -69151,7 +69678,13 @@ myData = [
   ],
   [
     "PicnicBlanket04",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -69159,7 +69692,13 @@ myData = [
   ],
   [
     "PicnicBlanket05",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -69167,7 +69706,13 @@ myData = [
   ],
   [
     "PicnicBlanket06",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -69223,533 +69768,55 @@ myData = [
     "Effects",
     "Audio Randomize",
   ],
-  [
-    "PileCoalLargeHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCoalLargeLow01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCoalLargeMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCoalMassiveHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCoalMassiveLow01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCoalMassiveMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCoalMediumHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCoalMediumLow01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCoalMediumMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCoalSmallHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCoalSmallLow01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCoalSmallMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "obsoleteidentifiers",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCropLargeHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCropLargeLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCropLargeMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCropMassiveHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCropMassiveLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCropMassiveMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCropMediumHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCropMediumLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCropMediumMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCropSmallHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCropSmallLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileCropSmallMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileGarbageLargeHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileGarbageLargeLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileGarbageLargeMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileGarbageMassiveHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileGarbageMassiveLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileGarbageMassiveMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileGarbageMediumHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileGarbageMediumLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileGarbageMediumMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileGarbageSmallHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileGarbageSmallLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileGarbageSmallMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
+  ["PileCoalLargeHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileCoalLargeLow01", [], "", "1", "Props", "Industrial"],
+  ["PileCoalLargeMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileCoalMassiveHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileCoalMassiveLow01", [], "", "1", "Props", "Industrial"],
+  ["PileCoalMassiveMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileCoalMediumHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileCoalMediumLow01", [], "", "1", "Props", "Industrial"],
+  ["PileCoalMediumMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileCoalSmallHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileCoalSmallLow01", [], "", "1", "Props", "Industrial"],
+  ["PileCoalSmallMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileCropLargeHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileCropLargeLow01", [], "", "1", "Props", "Industrial"],
+  ["PileCropLargeMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileCropMassiveHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileCropMassiveLow01", [], "", "1", "Props", "Industrial"],
+  ["PileCropMassiveMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileCropMediumHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileCropMediumLow01", [], "", "1", "Props", "Industrial"],
+  ["PileCropMediumMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileCropSmallHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileCropSmallLow01", [], "", "1", "Props", "Industrial"],
+  ["PileCropSmallMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileGarbageLargeHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileGarbageLargeLow01", [], "", "1", "Props", "Industrial"],
+  ["PileGarbageLargeMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileGarbageMassiveHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileGarbageMassiveLow01", [], "", "1", "Props", "Industrial"],
+  ["PileGarbageMassiveMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileGarbageMediumHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileGarbageMediumLow01", [], "", "1", "Props", "Industrial"],
+  ["PileGarbageMediumMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileGarbageSmallHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileGarbageSmallLow01", [], "", "1", "Props", "Industrial"],
+  ["PileGarbageSmallMedium01", [], "", "1", "Props", "Industrial"],
   [
     "PileLargeRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
       "placeholderobject",
+      "quantityobject",
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Unspawnable",
     "1",
     "Props",
     "Random",
@@ -69757,14 +69824,16 @@ myData = [
   [
     "PileMassiveRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
       "placeholderobject",
+      "quantityobject",
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Unspawnable",
     "1",
     "Props",
     "Random",
@@ -69772,362 +69841,53 @@ myData = [
   [
     "PileMediumRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
       "placeholderobject",
+      "quantityobject",
       "staticobject",
       "subobjectdefaultprobability",
     ],
-    "",
+    "Unspawnable",
     "1",
     "Props",
     "Random",
   ],
-  [
-    "PileOreLargeHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileOreLargeLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileOreLargeMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileOreMassiveHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileOreMassiveLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileOreMassiveMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileOreMediumHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileOreMediumLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileOreMediumMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileOreSmallHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileOreSmallLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileOreSmallMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileSandLargeHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileSandLargeLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileSandLargeMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileSandMassiveHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileSandMassiveLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileSandMassiveMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileSandMediumHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileSandMediumLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileSandMediumMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileSandSmallHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileSandSmallLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileSandSmallMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
+  ["PileOreLargeHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileOreLargeLow01", [], "", "1", "Props", "Industrial"],
+  ["PileOreLargeMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileOreMassiveHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileOreMassiveLow01", [], "", "1", "Props", "Industrial"],
+  ["PileOreMassiveMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileOreMediumHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileOreMediumLow01", [], "", "1", "Props", "Industrial"],
+  ["PileOreMediumMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileOreSmallHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileOreSmallLow01", [], "", "1", "Props", "Industrial"],
+  ["PileOreSmallMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileSandLargeHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileSandLargeLow01", [], "", "1", "Props", "Industrial"],
+  ["PileSandLargeMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileSandMassiveHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileSandMassiveLow01", [], "", "1", "Props", "Industrial"],
+  ["PileSandMassiveMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileSandMediumHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileSandMediumLow01", [], "", "1", "Props", "Industrial"],
+  ["PileSandMediumMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileSandSmallHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileSandSmallLow01", [], "", "1", "Props", "Industrial"],
+  ["PileSandSmallMedium01", [], "", "1", "Props", "Industrial"],
   [
     "PileSmallRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
       "placeholderobject",
-      "spawnableobject",
+      "quantityobject",
       "staticobject",
       "subobjectdefaultprobability",
     ],
@@ -70136,174 +69896,18 @@ myData = [
     "Props",
     "Random",
   ],
-  [
-    "PileStoneLargeHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileStoneLargeLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileStoneLargeMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileStoneMassiveHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileStoneMassiveLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileStoneMassiveMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileStoneMediumHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileStoneMediumLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileStoneMediumMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileStoneSmallHigh01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileStoneSmallLow01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
-  [
-    "PileStoneSmallMedium01",
-    [
-      "object",
-      "objectgeometry",
-      "spawnableobject",
-      "staticobject",
-      "subobjectdefaultprobability",
-    ],
-    "",
-    "1",
-    "Props",
-    "Industrial",
-  ],
+  ["PileStoneLargeHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileStoneLargeLow01", [], "", "1", "Props", "Industrial"],
+  ["PileStoneLargeMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileStoneMassiveHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileStoneMassiveLow01", [], "", "1", "Props", "Industrial"],
+  ["PileStoneMassiveMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileStoneMediumHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileStoneMediumLow01", [], "", "1", "Props", "Industrial"],
+  ["PileStoneMediumMedium01", [], "", "1", "Props", "Industrial"],
+  ["PileStoneSmallHigh01", [], "", "1", "Props", "Industrial"],
+  ["PileStoneSmallLow01", [], "", "1", "Props", "Industrial"],
+  ["PileStoneSmallMedium01", [], "", "1", "Props", "Industrial"],
   [
     "Pillar Pedestrian Placeholder",
     ["object", "objectgeometry", "placeholderobject", "staticobject"],
@@ -70647,6 +70251,7 @@ myData = [
   [
     "PlantPot01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -70663,6 +70268,7 @@ myData = [
   [
     "PlantPot02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -70679,6 +70285,7 @@ myData = [
   [
     "PlayCabin01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -70694,6 +70301,7 @@ myData = [
   [
     "PlayCabin02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -70765,6 +70373,7 @@ myData = [
   [
     "PlaygroundPlayset01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -70780,6 +70389,7 @@ myData = [
   [
     "PlaygroundPlayset02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -70963,7 +70573,13 @@ myData = [
   ],
   [
     "PoliceLogoGround01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -70971,7 +70587,13 @@ myData = [
   ],
   [
     "PoliceLogoGround02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -70979,7 +70601,13 @@ myData = [
   ],
   [
     "PoliceLogoRoofLarge01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -70987,7 +70615,13 @@ myData = [
   ],
   [
     "PoliceLogoRoofMedium01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -70995,7 +70629,13 @@ myData = [
   ],
   [
     "PoliceLogoRoofSmall01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -71005,6 +70645,7 @@ myData = [
     "PoliceLogoWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -71019,6 +70660,7 @@ myData = [
     "PoliceLogoWallLargeNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -71033,6 +70675,7 @@ myData = [
     "PoliceLogoWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -71047,6 +70690,7 @@ myData = [
     "PoliceLogoWallMediumNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -71061,6 +70705,7 @@ myData = [
     "PoliceLogoWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -71075,6 +70720,7 @@ myData = [
     "PoliceLogoWallSmallNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -71176,6 +70822,7 @@ myData = [
   [
     "PortableToilet01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -71189,7 +70836,13 @@ myData = [
   ],
   [
     "PostLogoGround01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -71197,7 +70850,13 @@ myData = [
   ],
   [
     "PostLogoGround02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -71205,7 +70864,13 @@ myData = [
   ],
   [
     "PostLogoRoofLarge01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -71213,7 +70878,13 @@ myData = [
   ],
   [
     "PostLogoRoofMedium01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -71221,7 +70892,13 @@ myData = [
   ],
   [
     "PostLogoRoofSmall01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -71231,6 +70908,7 @@ myData = [
     "PostLogoWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -71245,6 +70923,7 @@ myData = [
     "PostLogoWallLargeNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -71259,6 +70938,7 @@ myData = [
     "PostLogoWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -71273,6 +70953,7 @@ myData = [
     "PostLogoWallMediumNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -71287,6 +70968,7 @@ myData = [
     "PostLogoWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -71301,6 +70983,7 @@ myData = [
     "PostLogoWallSmallNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -71314,6 +70997,7 @@ myData = [
   [
     "PostMailbox01",
     [
+      "editorassetcategoryoverride",
       "mailbox",
       "netobject",
       "object",
@@ -71517,6 +71201,7 @@ myData = [
     "PosterHuge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -71534,6 +71219,7 @@ myData = [
     "PosterHuge02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -71551,6 +71237,7 @@ myData = [
     "PosterLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -71568,6 +71255,7 @@ myData = [
     "PosterLarge02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -71585,6 +71273,7 @@ myData = [
     "PosterMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -71602,6 +71291,7 @@ myData = [
     "PosterMedium02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -71619,6 +71309,7 @@ myData = [
     "PosterSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -71636,6 +71327,7 @@ myData = [
     "PosterSmall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -71652,6 +71344,7 @@ myData = [
   [
     "PotRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -71898,7 +71591,6 @@ myData = [
   [
     "Prison01 Prison Library",
     [
-      "adjusthappiness",
       "buildingextension",
       "buildingterraformoverride",
       "effectsource",
@@ -71910,6 +71602,7 @@ myData = [
       "objectsubobjects",
       "obsoleteidentifiers",
       "pollution",
+      "prison",
       "serviceconsumption",
       "serviceupgrade",
       "staticobject",
@@ -75795,7 +75488,13 @@ myData = [
   ],
   [
     "RoadsLogoGround01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -75803,7 +75502,13 @@ myData = [
   ],
   [
     "RoadsLogoGround02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -75811,7 +75516,13 @@ myData = [
   ],
   [
     "RoadsLogoRoofLarge01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -75819,7 +75530,13 @@ myData = [
   ],
   [
     "RoadsLogoRoofMedium01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -75827,7 +75544,13 @@ myData = [
   ],
   [
     "RoadsLogoRoofSmall01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -75837,6 +75560,7 @@ myData = [
     "RoadsLogoWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -75851,6 +75575,7 @@ myData = [
     "RoadsLogoWallLargeNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -75865,6 +75590,7 @@ myData = [
     "RoadsLogoWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -75879,6 +75605,7 @@ myData = [
     "RoadsLogoWallMediumNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -75893,6 +75620,7 @@ myData = [
     "RoadsLogoWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -75907,6 +75635,7 @@ myData = [
     "RoadsLogoWallSmallNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -75920,6 +75649,7 @@ myData = [
   [
     "Rock01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -75934,6 +75664,7 @@ myData = [
   [
     "Rock02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -75948,6 +75679,7 @@ myData = [
   [
     "Rock03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -75962,6 +75694,7 @@ myData = [
   [
     "Rock04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -75976,6 +75709,7 @@ myData = [
   [
     "Rock05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -75990,6 +75724,7 @@ myData = [
   [
     "Rock06",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76004,6 +75739,7 @@ myData = [
   [
     "Rock07",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76018,6 +75754,7 @@ myData = [
   [
     "Rock08",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76032,6 +75769,7 @@ myData = [
   [
     "Rock09",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76046,6 +75784,7 @@ myData = [
   [
     "Rock10",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76060,6 +75799,7 @@ myData = [
   [
     "Rock11",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76074,6 +75814,7 @@ myData = [
   [
     "Rock12",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76088,6 +75829,7 @@ myData = [
   [
     "Rock13",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76102,6 +75844,7 @@ myData = [
   [
     "Rock14",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76116,6 +75859,7 @@ myData = [
   [
     "Rock15",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76130,6 +75874,7 @@ myData = [
   [
     "Rock16",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76144,6 +75889,7 @@ myData = [
   [
     "Rock17",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76158,6 +75904,7 @@ myData = [
   [
     "Rock18",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76172,6 +75919,7 @@ myData = [
   [
     "Rock19",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76186,6 +75934,7 @@ myData = [
   [
     "Rock20",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76200,6 +75949,7 @@ myData = [
   [
     "Rock21",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76214,6 +75964,7 @@ myData = [
   [
     "Rock22",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76228,6 +75979,7 @@ myData = [
   [
     "Rock23",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76242,6 +75994,7 @@ myData = [
   [
     "Rock24",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76256,6 +76009,7 @@ myData = [
   [
     "Rock25",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76270,6 +76024,7 @@ myData = [
   [
     "Rock26",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76284,6 +76039,7 @@ myData = [
   [
     "Rock27",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76298,6 +76054,7 @@ myData = [
   [
     "Rock28",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76312,6 +76069,7 @@ myData = [
   [
     "Rock29",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76326,6 +76084,7 @@ myData = [
   [
     "Rock30",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76340,6 +76099,7 @@ myData = [
   [
     "RockRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -76363,6 +76123,7 @@ myData = [
     "RoofLight01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76381,6 +76142,7 @@ myData = [
     "RoofLight02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76399,6 +76161,7 @@ myData = [
     "RoofLight03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76417,6 +76180,7 @@ myData = [
     "RoofLight04",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76435,6 +76199,7 @@ myData = [
     "RoofLightRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -76483,6 +76248,7 @@ myData = [
   [
     "RoofWalkway01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76497,6 +76263,7 @@ myData = [
   [
     "RoofWalkway02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76511,6 +76278,7 @@ myData = [
   [
     "RoofWalkway03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76525,6 +76293,7 @@ myData = [
   [
     "RoofWalkwayRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -76539,6 +76308,7 @@ myData = [
   [
     "RooftopAccess01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -76553,6 +76323,7 @@ myData = [
   [
     "RooftopAccess02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -76567,6 +76338,7 @@ myData = [
   [
     "RooftopAccess03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -76581,6 +76353,7 @@ myData = [
   [
     "RooftopAccess04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -76596,6 +76369,7 @@ myData = [
   [
     "RooftopAccess05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -76611,6 +76385,7 @@ myData = [
   [
     "RooftopAccess06",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -76626,6 +76401,7 @@ myData = [
   [
     "RubblePileConcrete01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76641,6 +76417,7 @@ myData = [
   [
     "RubblePileConcrete02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76655,6 +76432,7 @@ myData = [
   [
     "RubblePileConcrete03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76669,6 +76447,7 @@ myData = [
   [
     "RubblePileConcrete04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76683,6 +76462,7 @@ myData = [
   [
     "RubblePileConcreteRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -76697,6 +76477,7 @@ myData = [
   [
     "RubblePileMixed01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76712,6 +76493,7 @@ myData = [
   [
     "RubblePileMixed02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76727,6 +76509,7 @@ myData = [
   [
     "RubblePileMixed03",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76742,6 +76525,7 @@ myData = [
   [
     "RubblePileMixed04",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76757,6 +76541,7 @@ myData = [
   [
     "RubblePileMixedRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -76771,6 +76556,7 @@ myData = [
   [
     "RubblePileWood01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76786,6 +76572,7 @@ myData = [
   [
     "RubblePileWood02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76801,6 +76588,7 @@ myData = [
   [
     "RubblePileWood03",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76816,6 +76604,7 @@ myData = [
   [
     "RubblePileWood04",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -76831,6 +76620,7 @@ myData = [
   [
     "RubblePileWoodRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -76845,6 +76635,7 @@ myData = [
   [
     "RubblePylonLarge01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76859,6 +76650,7 @@ myData = [
   [
     "RubblePylonLarge02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76873,6 +76665,7 @@ myData = [
   [
     "RubblePylonLarge03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76887,6 +76680,7 @@ myData = [
   [
     "RubblePylonLarge04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76901,6 +76695,7 @@ myData = [
   [
     "RubblePylonLargeRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -76915,6 +76710,7 @@ myData = [
   [
     "RubblePylonSmall01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76929,6 +76725,7 @@ myData = [
   [
     "RubblePylonSmall02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76943,6 +76740,7 @@ myData = [
   [
     "RubblePylonSmall03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76957,6 +76755,7 @@ myData = [
   [
     "RubblePylonSmall04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -76971,6 +76770,7 @@ myData = [
   [
     "RubblePylonSmallRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -77134,6 +76934,7 @@ myData = [
   [
     "SafetyBarrier01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77148,6 +76949,7 @@ myData = [
   [
     "SafetyBarrier02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77162,6 +76964,7 @@ myData = [
   [
     "SafetyBarrier03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77176,6 +76979,7 @@ myData = [
   [
     "SafetyCone01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77191,6 +76995,7 @@ myData = [
   [
     "SafetyCone02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77206,6 +77011,7 @@ myData = [
   [
     "SafetyCone03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77221,6 +77027,7 @@ myData = [
   [
     "SafetyCone04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77236,6 +77043,7 @@ myData = [
   [
     "SafetyConeRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77275,6 +77083,7 @@ myData = [
   [
     "Sandbox01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77291,6 +77100,7 @@ myData = [
   [
     "Sandbox02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77307,6 +77117,7 @@ myData = [
   [
     "Sandbox03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77323,6 +77134,7 @@ myData = [
   [
     "SandboxRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77338,6 +77150,7 @@ myData = [
   [
     "SatelliteDishRoof01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77353,6 +77166,7 @@ myData = [
   [
     "SatelliteDishRoof02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77368,6 +77182,7 @@ myData = [
   [
     "SatelliteDishRoof03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77383,6 +77198,7 @@ myData = [
   [
     "SatelliteDishRoofRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77399,6 +77215,7 @@ myData = [
     "SatelliteDishWall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77415,6 +77232,7 @@ myData = [
     "SatelliteDishWall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77431,6 +77249,7 @@ myData = [
     "SatelliteDishWall03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77447,6 +77266,7 @@ myData = [
     "SatelliteDishWallRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77513,6 +77333,7 @@ myData = [
   [
     "Screen01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77529,6 +77350,7 @@ myData = [
   [
     "Screen02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77595,6 +77417,7 @@ myData = [
   [
     "Seesaw01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77611,6 +77434,7 @@ myData = [
   [
     "Seesaw02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -77627,6 +77451,7 @@ myData = [
   [
     "SeesawRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79384,6 +79209,7 @@ myData = [
   [
     "ShippingContainer01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79399,6 +79225,7 @@ myData = [
   [
     "ShippingContainer02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79414,6 +79241,7 @@ myData = [
   [
     "ShippingContainer03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79429,6 +79257,7 @@ myData = [
   [
     "ShippingContainerPileLargeHigh01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -79443,6 +79272,7 @@ myData = [
   [
     "ShippingContainerPileLargeLow01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -79457,6 +79287,7 @@ myData = [
   [
     "ShippingContainerPileLargeMedium01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -79471,6 +79302,7 @@ myData = [
   [
     "ShippingContainerPileLargeRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -79485,6 +79317,7 @@ myData = [
   [
     "ShippingContainerPileMediumHigh01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -79499,6 +79332,7 @@ myData = [
   [
     "ShippingContainerPileMediumLow01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -79513,6 +79347,7 @@ myData = [
   [
     "ShippingContainerPileMediumMedium01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -79527,6 +79362,7 @@ myData = [
   [
     "ShippingContainerPileMediumRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -79541,6 +79377,7 @@ myData = [
   [
     "ShippingContainerPileSmallHigh01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -79555,6 +79392,7 @@ myData = [
   [
     "ShippingContainerPileSmallLow01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -79569,6 +79407,7 @@ myData = [
   [
     "ShippingContainerPileSmallMedium01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -79583,6 +79422,7 @@ myData = [
   [
     "ShippingContainerPileSmallRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -79597,6 +79437,7 @@ myData = [
   [
     "ShippingContainerRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79612,6 +79453,7 @@ myData = [
   [
     "ShopRack01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79627,6 +79469,7 @@ myData = [
   [
     "ShopRack02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79642,6 +79485,7 @@ myData = [
   [
     "ShopRack03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79657,6 +79501,7 @@ myData = [
   [
     "ShopRack04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79672,6 +79517,7 @@ myData = [
   [
     "ShopRack05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79687,6 +79533,7 @@ myData = [
   [
     "ShopRack06",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79702,6 +79549,7 @@ myData = [
   [
     "ShopRackRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79716,7 +79564,13 @@ myData = [
   ],
   [
     "Sidewalk Prop Placeholder",
-    ["object", "objectgeometry", "placeholderobject", "staticobject"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+    ],
     "Randomizer",
     "1",
     "Props",
@@ -79725,6 +79579,7 @@ myData = [
   [
     "SignForSale01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79741,6 +79596,7 @@ myData = [
   [
     "SignForSale02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79757,6 +79613,7 @@ myData = [
   [
     "SignForSale03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79773,6 +79630,7 @@ myData = [
   [
     "SignForSaleRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79788,6 +79646,7 @@ myData = [
   [
     "SignFrontwayLarge01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79804,6 +79663,7 @@ myData = [
   [
     "SignFrontwayLarge02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79820,6 +79680,7 @@ myData = [
   [
     "SignFrontwayLargeRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79835,6 +79696,7 @@ myData = [
   [
     "SignFrontwayMedium01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79851,6 +79713,7 @@ myData = [
   [
     "SignFrontwayMedium02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79867,6 +79730,7 @@ myData = [
   [
     "SignFrontwayMediumRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79882,6 +79746,7 @@ myData = [
   [
     "SignFrontwaySmall01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79898,6 +79763,7 @@ myData = [
   [
     "SignFrontwaySmall02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79914,6 +79780,7 @@ myData = [
   [
     "SignFrontwaySmallRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79930,6 +79797,7 @@ myData = [
     "SignNeonLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79947,6 +79815,7 @@ myData = [
     "SignNeonLarge02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79964,6 +79833,7 @@ myData = [
     "SignNeonMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79981,6 +79851,7 @@ myData = [
     "SignNeonMedium02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -79998,6 +79869,7 @@ myData = [
     "SignNeonSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80015,6 +79887,7 @@ myData = [
     "SignNeonSmall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80031,6 +79904,7 @@ myData = [
   [
     "SignRoundLarge01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80048,6 +79922,7 @@ myData = [
     "SignSidewayLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80065,6 +79940,7 @@ myData = [
     "SignSidewayLarge02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80082,6 +79958,7 @@ myData = [
     "SignSidewayLargeRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80098,6 +79975,7 @@ myData = [
     "SignSidewayMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80115,6 +79993,7 @@ myData = [
     "SignSidewayMedium02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80132,6 +80011,7 @@ myData = [
     "SignSidewayMediumRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80148,6 +80028,7 @@ myData = [
     "SignSidewaySmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80165,6 +80046,7 @@ myData = [
     "SignSidewaySmall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80182,6 +80064,7 @@ myData = [
     "SignSidewaySmallRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80402,6 +80285,7 @@ myData = [
   [
     "SkateParkBox01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80417,6 +80301,7 @@ myData = [
   [
     "SkateParkBox02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80432,6 +80317,7 @@ myData = [
   [
     "SkateParkHalfPipe01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80447,6 +80333,7 @@ myData = [
   [
     "SkateParkHalfPipe02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80462,6 +80349,7 @@ myData = [
   [
     "SkateParkRail01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80477,6 +80365,7 @@ myData = [
   [
     "SkateParkRail02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80492,6 +80381,7 @@ myData = [
   [
     "SkateParkRamp01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80507,6 +80397,7 @@ myData = [
   [
     "SkateParkRamp02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80522,6 +80413,7 @@ myData = [
   [
     "SkateParkRamp03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80537,6 +80429,7 @@ myData = [
   [
     "SkateParkRamp04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80552,6 +80445,7 @@ myData = [
   [
     "SkateParkSign01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80567,6 +80461,7 @@ myData = [
   [
     "Slide01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80583,6 +80478,7 @@ myData = [
   [
     "Slide02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80599,6 +80495,7 @@ myData = [
   [
     "SlideRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80884,6 +80781,7 @@ myData = [
   [
     "SmallFountain01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80899,6 +80797,7 @@ myData = [
   [
     "SmallFountain02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80914,6 +80813,7 @@ myData = [
   [
     "SmallFountain03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80929,6 +80829,7 @@ myData = [
   [
     "SmallFountainRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80968,6 +80869,7 @@ myData = [
   [
     "Snowman01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -80985,6 +80887,7 @@ myData = [
   [
     "Snowman02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81002,6 +80905,7 @@ myData = [
   [
     "Snowman03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81019,6 +80923,7 @@ myData = [
   [
     "SnowmanRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81076,6 +80981,7 @@ myData = [
   [
     "SolarPanelLarge01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81091,6 +80997,7 @@ myData = [
   [
     "SolarPanelLarge02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81106,6 +81013,7 @@ myData = [
   [
     "SolarPanelMedium01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81121,6 +81029,7 @@ myData = [
   [
     "SolarPanelMedium02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81136,6 +81045,7 @@ myData = [
   [
     "SolarPanelSmall01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81151,6 +81061,7 @@ myData = [
   [
     "SolarPanelSmall02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81350,6 +81261,7 @@ myData = [
   [
     "SpinningWheel01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81366,6 +81278,7 @@ myData = [
   [
     "SpinningWheel02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81382,6 +81295,7 @@ myData = [
   [
     "SpinningWheelRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81397,6 +81311,7 @@ myData = [
   [
     "SportParkAmericanFootballGoal01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81412,6 +81327,7 @@ myData = [
     "SportParkBench01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81428,6 +81344,7 @@ myData = [
     "SportParkBench02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81443,6 +81360,7 @@ myData = [
   [
     "SportParkFlag01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81457,6 +81375,7 @@ myData = [
   [
     "SportParkFlag01_Clt",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81471,6 +81390,7 @@ myData = [
   [
     "SportParkFootballGoal01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81485,6 +81405,7 @@ myData = [
   [
     "SportParkFootballGoal02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81499,6 +81420,7 @@ myData = [
   [
     "SportParkScoreboard01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81514,6 +81436,7 @@ myData = [
   [
     "SportParkSign01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81530,6 +81453,7 @@ myData = [
     "SportParkStandLarge01",
     [
       "buildingextension",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -81547,6 +81471,7 @@ myData = [
     "SportParkStandLarge02",
     [
       "buildingextension",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -81564,6 +81489,7 @@ myData = [
     "SportParkStandLarge03",
     [
       "buildingextension",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -81581,6 +81507,7 @@ myData = [
     "SportParkStandLarge04",
     [
       "buildingextension",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -81598,6 +81525,7 @@ myData = [
     "SportParkStandLargeCorner01",
     [
       "buildingextension",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -81615,6 +81543,7 @@ myData = [
     "SportParkStandLargeCorner02",
     [
       "buildingextension",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -81632,6 +81561,7 @@ myData = [
     "SportParkStandSmall01",
     [
       "buildingextension",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -81649,6 +81579,7 @@ myData = [
     "SportParkStandSmall02",
     [
       "buildingextension",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -81666,6 +81597,7 @@ myData = [
     "SportParkStandSmall03",
     [
       "buildingextension",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -81683,6 +81615,7 @@ myData = [
     "SportParkStandSmallCorner01",
     [
       "buildingextension",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -81700,6 +81633,7 @@ myData = [
     "SportParkStandSmallCorner02",
     [
       "buildingextension",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -81716,6 +81650,7 @@ myData = [
   [
     "SportParkTrainingCone01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81730,6 +81665,7 @@ myData = [
   [
     "SportParkTrainingCone02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81744,6 +81680,7 @@ myData = [
   [
     "SportParkTrainingDummy01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81758,6 +81695,7 @@ myData = [
   [
     "SportParkTrainingDummy02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81772,6 +81710,7 @@ myData = [
   [
     "SportParkTrainingHurdle01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81786,6 +81725,7 @@ myData = [
   [
     "SportParkTrainingPole01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81821,6 +81761,7 @@ myData = [
   [
     "StageSmall01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -81835,6 +81776,7 @@ myData = [
   [
     "StaircaseSpiral01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -81849,6 +81791,7 @@ myData = [
   [
     "StaircaseSpiral02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -81863,6 +81806,7 @@ myData = [
   [
     "StaircaseSpiralEnd01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -81877,6 +81821,7 @@ myData = [
   [
     "StaircaseSpiralEnd02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -81891,6 +81836,7 @@ myData = [
   [
     "StaircaseSpiralEndRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -81905,6 +81851,7 @@ myData = [
   [
     "StaircaseSpiralMid01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -81919,6 +81866,7 @@ myData = [
   [
     "StaircaseSpiralMid02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -81933,6 +81881,7 @@ myData = [
   [
     "StaircaseSpiralMidRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -81947,6 +81896,7 @@ myData = [
   [
     "StaircaseSpiralRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -81961,6 +81911,7 @@ myData = [
   [
     "Stand01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81977,6 +81928,7 @@ myData = [
   [
     "Stand02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -81993,6 +81945,7 @@ myData = [
   [
     "StandRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -82008,6 +81961,7 @@ myData = [
   [
     "StandingStone01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -82022,6 +81976,7 @@ myData = [
   [
     "StandingStone02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -82036,6 +81991,7 @@ myData = [
   [
     "StandingStone03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -82050,6 +82006,7 @@ myData = [
   [
     "StandingStone04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -82064,6 +82021,7 @@ myData = [
   [
     "StandingStone05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -82078,6 +82036,7 @@ myData = [
   [
     "StandingStone06",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -82092,6 +82051,7 @@ myData = [
   [
     "StandingStone07",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -82106,6 +82066,7 @@ myData = [
   [
     "StandingStone08",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -82120,6 +82081,7 @@ myData = [
   [
     "StandingStoneRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -82134,6 +82096,7 @@ myData = [
   [
     "StoneHead01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -82148,6 +82111,7 @@ myData = [
   [
     "StoneHead02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -82162,6 +82126,7 @@ myData = [
   [
     "StoneHead03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -82176,6 +82141,7 @@ myData = [
   [
     "StoneHeadRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -82198,6 +82164,7 @@ myData = [
   [
     "Street Light Double Placeholder",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -82205,6 +82172,7 @@ myData = [
       "standingobject",
       "staticobject",
       "streetlightobject",
+      "subobjectdefaultprobability",
     ],
     "Randomizer",
     "1",
@@ -82214,6 +82182,7 @@ myData = [
   [
     "Street Light Single Placeholder",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -82221,6 +82190,7 @@ myData = [
       "standingobject",
       "staticobject",
       "streetlightobject",
+      "subobjectdefaultprobability",
     ],
     "Randomizer",
     "1",
@@ -82238,6 +82208,7 @@ myData = [
   [
     "StreetlightDouble01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -82256,6 +82227,7 @@ myData = [
   [
     "StreetlightDouble02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -82274,6 +82246,7 @@ myData = [
   [
     "StreetlightDouble03",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -82292,6 +82265,7 @@ myData = [
   [
     "StreetlightSingle01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -82310,6 +82284,7 @@ myData = [
   [
     "StreetlightSingle02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -82328,6 +82303,7 @@ myData = [
   [
     "StreetlightSingle03",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -83022,7 +82998,13 @@ myData = [
   ],
   [
     "SurveillanceCamera01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -83030,7 +83012,13 @@ myData = [
   ],
   [
     "SurveillanceCamera02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -83038,7 +83026,13 @@ myData = [
   ],
   [
     "SurveillanceCamera03",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -83135,6 +83129,7 @@ myData = [
   [
     "SwimmingPool01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83149,6 +83144,7 @@ myData = [
   [
     "SwimmingPool02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -83164,6 +83160,7 @@ myData = [
   [
     "SwimmingPool03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -83179,6 +83176,7 @@ myData = [
   [
     "SwimmingPool04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -83194,6 +83192,7 @@ myData = [
   [
     "SwingSet01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83210,6 +83209,7 @@ myData = [
   [
     "SwingSet02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83226,6 +83226,7 @@ myData = [
   [
     "SwingSet03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83242,6 +83243,7 @@ myData = [
   [
     "SwingSetRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83256,6 +83258,7 @@ myData = [
   [
     "Table01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83271,6 +83274,7 @@ myData = [
   [
     "Table02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83286,6 +83290,7 @@ myData = [
   [
     "Table03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83301,6 +83306,7 @@ myData = [
   [
     "TableCommercial01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83316,6 +83322,7 @@ myData = [
   [
     "TableCommercial02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83331,6 +83338,7 @@ myData = [
   [
     "TableCommercial03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83346,6 +83354,7 @@ myData = [
   [
     "TableCommercial04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83361,6 +83370,7 @@ myData = [
   [
     "TableCommercial05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83376,6 +83386,7 @@ myData = [
   [
     "TableCommercial06",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83391,6 +83402,7 @@ myData = [
   [
     "TableCommercialRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83406,6 +83418,7 @@ myData = [
   [
     "TableRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83422,6 +83435,7 @@ myData = [
     "TableSet01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83438,6 +83452,7 @@ myData = [
     "TableSet02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83454,6 +83469,7 @@ myData = [
     "TableSet03",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83470,6 +83486,7 @@ myData = [
     "TableSetCommercial01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83486,6 +83503,7 @@ myData = [
     "TableSetCommercial02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83502,6 +83520,7 @@ myData = [
     "TableSetCommercial03",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83518,6 +83537,7 @@ myData = [
     "TableSetCommercial04",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83534,6 +83554,7 @@ myData = [
     "TableSetCommercial05",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83550,6 +83571,7 @@ myData = [
     "TableSetCommercial06",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83565,6 +83587,7 @@ myData = [
   [
     "TableSetCommercialRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83580,6 +83603,7 @@ myData = [
   [
     "TableSetRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83595,6 +83619,7 @@ myData = [
   [
     "Tank01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83609,6 +83634,7 @@ myData = [
   [
     "Tank02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83623,6 +83649,7 @@ myData = [
   [
     "Tank03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83637,6 +83664,7 @@ myData = [
   [
     "Tank04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -83794,7 +83822,13 @@ myData = [
   ],
   [
     "TaxiLogoGround01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -83802,7 +83836,13 @@ myData = [
   ],
   [
     "TaxiLogoGround02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -83810,7 +83850,13 @@ myData = [
   ],
   [
     "TaxiLogoRoofLarge01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -83818,7 +83864,13 @@ myData = [
   ],
   [
     "TaxiLogoRoofMedium01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -83826,7 +83878,13 @@ myData = [
   ],
   [
     "TaxiLogoRoofSmall01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -83836,6 +83894,7 @@ myData = [
     "TaxiLogoWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -83850,6 +83909,7 @@ myData = [
     "TaxiLogoWallLargeNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -83864,6 +83924,7 @@ myData = [
     "TaxiLogoWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -83878,6 +83939,7 @@ myData = [
     "TaxiLogoWallMediumNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -83892,6 +83954,7 @@ myData = [
     "TaxiLogoWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -83906,6 +83969,7 @@ myData = [
     "TaxiLogoWallSmallNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -84060,6 +84124,7 @@ myData = [
     "TennisBench01",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -84076,6 +84141,7 @@ myData = [
     "TennisBench02",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -84092,6 +84158,7 @@ myData = [
     "TennisBench03",
     [
       "activitylocation",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -84166,6 +84233,7 @@ myData = [
   [
     "TennisNet01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -84181,6 +84249,7 @@ myData = [
   [
     "TennisUmpireChair01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -84355,6 +84424,7 @@ myData = [
   [
     "Tombstone01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84369,6 +84439,7 @@ myData = [
   [
     "Tombstone02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84383,6 +84454,7 @@ myData = [
   [
     "Tombstone03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84397,6 +84469,7 @@ myData = [
   [
     "Tombstone04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84411,6 +84484,7 @@ myData = [
   [
     "Tombstone05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84425,6 +84499,7 @@ myData = [
   [
     "Tombstone06",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84439,6 +84514,7 @@ myData = [
   [
     "Tombstone07",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84453,6 +84529,7 @@ myData = [
   [
     "Tombstone08",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84467,6 +84544,7 @@ myData = [
   [
     "Tombstone09",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84481,6 +84559,7 @@ myData = [
   [
     "TombstoneDouble01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84495,6 +84574,7 @@ myData = [
   [
     "TombstoneDouble02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84509,6 +84589,7 @@ myData = [
   [
     "TombstoneDouble03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84523,6 +84604,7 @@ myData = [
   [
     "TombstoneDouble04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84537,6 +84619,7 @@ myData = [
   [
     "TombstoneDouble05",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84551,6 +84634,7 @@ myData = [
   [
     "TombstoneDouble06",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84565,6 +84649,7 @@ myData = [
   [
     "TombstoneDouble07",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -84579,6 +84664,7 @@ myData = [
   [
     "TombstoneDoubleRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -84593,6 +84679,7 @@ myData = [
   [
     "TombstoneRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -84623,6 +84710,7 @@ myData = [
   [
     "ToolShed01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -84637,6 +84725,7 @@ myData = [
   [
     "ToolShed02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -84652,6 +84741,7 @@ myData = [
   [
     "ToolShed03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -84690,7 +84780,7 @@ myData = [
   ],
   [
     "TrackBumper01",
-    ["object", "objectgeometry", "staticobject"],
+    ["editorassetcategoryoverride", "object", "objectgeometry", "staticobject"],
     "",
     "1",
     "Props",
@@ -84928,6 +85018,7 @@ myData = [
   [
     "Traffic Sign Placeholder",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -85786,6 +85877,7 @@ myData = [
   [
     "TrainPowerPole01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsublanes",
@@ -86148,6 +86240,7 @@ myData = [
   [
     "TramPowerPole01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsublanes",
@@ -86198,7 +86291,13 @@ myData = [
   ],
   [
     "TransportationLogoGround01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -86206,7 +86305,13 @@ myData = [
   ],
   [
     "TransportationLogoGround02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -86214,7 +86319,13 @@ myData = [
   ],
   [
     "TransportationLogoRoofLarge01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -86222,7 +86333,13 @@ myData = [
   ],
   [
     "TransportationLogoRoofMedium01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -86230,7 +86347,13 @@ myData = [
   ],
   [
     "TransportationLogoRoofSmall01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -86240,6 +86363,7 @@ myData = [
     "TransportationLogoWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -86254,6 +86378,7 @@ myData = [
     "TransportationLogoWallLargeNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -86268,6 +86393,7 @@ myData = [
     "TransportationLogoWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -86282,6 +86408,7 @@ myData = [
     "TransportationLogoWallMediumNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -86296,6 +86423,7 @@ myData = [
     "TransportationLogoWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -86310,6 +86438,7 @@ myData = [
     "TransportationLogoWallSmallNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -86459,6 +86588,7 @@ myData = [
   [
     "TrashContainerEmpty01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -86475,6 +86605,7 @@ myData = [
   [
     "TrashContainerEmpty02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -86491,6 +86622,7 @@ myData = [
   [
     "TrashContainerEmpty03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -86507,6 +86639,7 @@ myData = [
   [
     "TrashContainerEmpty04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -86523,6 +86656,7 @@ myData = [
   [
     "Trashbag01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -86539,6 +86673,7 @@ myData = [
   [
     "Trashbag02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -86555,6 +86690,7 @@ myData = [
   [
     "Trashbag03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -86571,6 +86707,7 @@ myData = [
   [
     "Trashbag04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -86587,6 +86724,7 @@ myData = [
   [
     "TrashbagRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -86602,6 +86740,7 @@ myData = [
   [
     "Trashbin01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -86618,6 +86757,7 @@ myData = [
   [
     "Trashbin02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -86634,6 +86774,7 @@ myData = [
   [
     "Trashbin03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -86650,6 +86791,7 @@ myData = [
   [
     "Trashbin04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -86666,6 +86808,7 @@ myData = [
   [
     "TrashbinRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -86682,6 +86825,7 @@ myData = [
   [
     "Trashpile01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -86697,6 +86841,7 @@ myData = [
   [
     "Trashpile02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -86712,6 +86857,7 @@ myData = [
   [
     "Trashpile03",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -86727,6 +86873,7 @@ myData = [
   [
     "Trashpile04",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -86742,6 +86889,7 @@ myData = [
   [
     "Trashpile05",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -86757,6 +86905,7 @@ myData = [
   [
     "Trashpile06",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -86772,6 +86921,7 @@ myData = [
   [
     "Trashpile07",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -86787,6 +86937,7 @@ myData = [
   [
     "Trashpile08",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -86802,6 +86953,7 @@ myData = [
   [
     "TrashpileRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -87153,6 +87305,7 @@ myData = [
   [
     "Tunnel Light Placeholder",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -87168,6 +87321,7 @@ myData = [
   [
     "TunnelLight01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -87251,7 +87405,7 @@ myData = [
     "SFX",
   ],
   [
-    "UXDeleteltemSFX",
+    "UXDeleteItemSFX",
     ["effect", "sfx", "transform"],
     "Unspawnable",
     "1",
@@ -87451,6 +87605,7 @@ myData = [
   [
     "VendingMachine01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -87466,6 +87621,7 @@ myData = [
   [
     "VendingMachine02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -87481,6 +87637,7 @@ myData = [
   [
     "VendingMachine03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -87496,6 +87653,7 @@ myData = [
   [
     "VendingMachine04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -87510,6 +87668,7 @@ myData = [
   [
     "VendingMachineRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -87525,6 +87684,7 @@ myData = [
   [
     "VentilationDuct01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87539,6 +87699,7 @@ myData = [
   [
     "VentilationDuct02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87553,6 +87714,7 @@ myData = [
   [
     "VentilationDuct03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87567,6 +87729,7 @@ myData = [
   [
     "VentilationDuct04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87581,6 +87744,7 @@ myData = [
   [
     "VentilationDuctElbowHorizontal01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87595,6 +87759,7 @@ myData = [
   [
     "VentilationDuctElbowHorizontal02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87609,6 +87774,7 @@ myData = [
   [
     "VentilationDuctElbowHorizontal03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87623,6 +87789,7 @@ myData = [
   [
     "VentilationDuctElbowHorizontal04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87637,6 +87804,7 @@ myData = [
   [
     "VentilationDuctElbowHorizontalRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -87651,6 +87819,7 @@ myData = [
   [
     "VentilationDuctElbowVertical01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87665,6 +87834,7 @@ myData = [
   [
     "VentilationDuctElbowVertical02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87679,6 +87849,7 @@ myData = [
   [
     "VentilationDuctElbowVertical03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87693,6 +87864,7 @@ myData = [
   [
     "VentilationDuctElbowVertical04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87707,6 +87879,7 @@ myData = [
   [
     "VentilationDuctElbowVerticalFlipped01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87721,6 +87894,7 @@ myData = [
   [
     "VentilationDuctElbowVerticalFlipped02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87735,6 +87909,7 @@ myData = [
   [
     "VentilationDuctElbowVerticalFlipped03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87749,6 +87924,7 @@ myData = [
   [
     "VentilationDuctElbowVerticalFlipped04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87763,6 +87939,7 @@ myData = [
   [
     "VentilationDuctElbowVerticalFlippedRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -87777,6 +87954,7 @@ myData = [
   [
     "VentilationDuctElbowVerticalRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -87791,6 +87969,7 @@ myData = [
   [
     "VentilationDuctGroundConnection01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87805,6 +87984,7 @@ myData = [
   [
     "VentilationDuctGroundConnection02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87819,6 +87999,7 @@ myData = [
   [
     "VentilationDuctGroundConnection03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87833,6 +88014,7 @@ myData = [
   [
     "VentilationDuctGroundConnection04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87847,6 +88029,7 @@ myData = [
   [
     "VentilationDuctGroundConnectionRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -87861,6 +88044,7 @@ myData = [
   [
     "VentilationDuctRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -87875,6 +88059,7 @@ myData = [
   [
     "VentilationDuctSupportConnection01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87889,6 +88074,7 @@ myData = [
   [
     "VentilationDuctSupportConnection02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87903,6 +88089,7 @@ myData = [
   [
     "VentilationDuctSupportConnection03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87917,6 +88104,7 @@ myData = [
   [
     "VentilationDuctSupportConnection04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87931,6 +88119,7 @@ myData = [
   [
     "VentilationDuctSupports01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87945,6 +88134,7 @@ myData = [
   [
     "VentilationDuctSupports02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87959,6 +88149,7 @@ myData = [
   [
     "VentilationDuctSupports03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87973,6 +88164,7 @@ myData = [
   [
     "VentilationDuctSupports04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -87987,6 +88179,7 @@ myData = [
   [
     "VentilationDuctSupportsConnectionRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -88001,6 +88194,7 @@ myData = [
   [
     "VentilationDuctSupportsElbow01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88015,6 +88209,7 @@ myData = [
   [
     "VentilationDuctSupportsElbow02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88029,6 +88224,7 @@ myData = [
   [
     "VentilationDuctSupportsElbow03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88043,6 +88239,7 @@ myData = [
   [
     "VentilationDuctSupportsElbow04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88057,6 +88254,7 @@ myData = [
   [
     "VentilationDuctSupportsElbowRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -88071,6 +88269,7 @@ myData = [
   [
     "VentilationDuctSupportsRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -88085,6 +88284,7 @@ myData = [
   [
     "VentilationDuctSupportsTJoint01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88099,6 +88299,7 @@ myData = [
   [
     "VentilationDuctSupportsTJoint02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88113,6 +88314,7 @@ myData = [
   [
     "VentilationDuctSupportsTJoint03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88127,6 +88329,7 @@ myData = [
   [
     "VentilationDuctSupportsTJoint04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88141,6 +88344,7 @@ myData = [
   [
     "VentilationDuctSupportsTJointRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -88155,6 +88359,7 @@ myData = [
   [
     "VentilationDuctTJoint01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88169,6 +88374,7 @@ myData = [
   [
     "VentilationDuctTJoint02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88183,6 +88389,7 @@ myData = [
   [
     "VentilationDuctTJoint03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88197,6 +88404,7 @@ myData = [
   [
     "VentilationDuctTJoint04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88211,6 +88419,7 @@ myData = [
   [
     "VentilationDuctTJointRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -88226,6 +88435,7 @@ myData = [
     "VentilationDuctVertical01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88241,6 +88451,7 @@ myData = [
     "VentilationDuctVertical02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88256,6 +88467,7 @@ myData = [
     "VentilationDuctVertical03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88271,6 +88483,7 @@ myData = [
     "VentilationDuctVertical04",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88286,6 +88499,7 @@ myData = [
     "VentilationDuctVerticalRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -88300,6 +88514,7 @@ myData = [
   [
     "VentilationDuctWallConnection01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88314,6 +88529,7 @@ myData = [
   [
     "VentilationDuctWallConnection02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88328,6 +88544,7 @@ myData = [
   [
     "VentilationDuctWallConnection03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88342,6 +88559,7 @@ myData = [
   [
     "VentilationDuctWallConnection04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -88356,6 +88574,7 @@ myData = [
   [
     "VentilationDuctWallConnectionRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -88369,7 +88588,14 @@ myData = [
   ],
   [
     "Vertical Pillar",
-    ["netobject", "object", "objectgeometry", "pillarobject", "staticobject"],
+    [
+      "netobject",
+      "object",
+      "objectgeometry",
+      "pillarobject",
+      "spawnableobject",
+      "staticobject",
+    ],
     "",
     "1",
     "Props",
@@ -88402,6 +88628,7 @@ myData = [
     "WallLight01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88420,6 +88647,7 @@ myData = [
     "WallLight02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88438,6 +88666,7 @@ myData = [
     "WallLight03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88456,6 +88685,7 @@ myData = [
     "WallLight04",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88473,6 +88703,7 @@ myData = [
   [
     "WallLightFarRange01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88490,6 +88721,7 @@ myData = [
   [
     "WallLightFarRange02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88507,6 +88739,7 @@ myData = [
   [
     "WallLightFarRange03",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88524,6 +88757,7 @@ myData = [
   [
     "WallLightFarRangeRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -88564,6 +88798,7 @@ myData = [
   [
     "WallLightMidRange01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88581,6 +88816,7 @@ myData = [
   [
     "WallLightMidRange02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88598,6 +88834,7 @@ myData = [
   [
     "WallLightMidRange03",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88615,6 +88852,7 @@ myData = [
   [
     "WallLightMidRangeRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -88656,6 +88894,7 @@ myData = [
     "WallLightRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -88673,6 +88912,7 @@ myData = [
     "WallLightShortRange01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88691,6 +88931,7 @@ myData = [
     "WallLightShortRange02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88709,6 +88950,7 @@ myData = [
     "WallLightShortRange03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88727,6 +88969,7 @@ myData = [
     "WallLightShortRangeRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -88800,6 +89043,7 @@ myData = [
     "WallLightTwowayFarRange01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88818,6 +89062,7 @@ myData = [
     "WallLightTwowayFarRange02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88836,6 +89081,7 @@ myData = [
     "WallLightTwowayFarRange03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88854,6 +89100,7 @@ myData = [
     "WallLightTwowayFarRangeRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -88895,6 +89142,7 @@ myData = [
     "WallLightTwowayMidRange01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88913,6 +89161,7 @@ myData = [
     "WallLightTwowayMidRange02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88931,6 +89180,7 @@ myData = [
     "WallLightTwowayMidRange03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -88949,6 +89199,7 @@ myData = [
     "WallLightTwowayMidRangeRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -88990,6 +89241,7 @@ myData = [
     "WallLightTwowayShortRange01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -89008,6 +89260,7 @@ myData = [
     "WallLightTwowayShortRange02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -89026,6 +89279,7 @@ myData = [
     "WallLightTwowayShortRange03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -89044,6 +89298,7 @@ myData = [
     "WallLightTwowayShortRangeRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -89084,6 +89339,7 @@ myData = [
   [
     "WarningLight01",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -89100,6 +89356,7 @@ myData = [
   [
     "WarningLight02",
     [
+      "editorassetcategoryoverride",
       "effectsource",
       "object",
       "objectgeometry",
@@ -89116,6 +89373,7 @@ myData = [
   [
     "WarningLightRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -89359,7 +89617,13 @@ myData = [
   ],
   [
     "WaterLogoGround01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -89367,7 +89631,13 @@ myData = [
   ],
   [
     "WaterLogoGround02",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -89375,7 +89645,13 @@ myData = [
   ],
   [
     "WaterLogoRoofLarge01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -89383,7 +89659,13 @@ myData = [
   ],
   [
     "WaterLogoRoofMedium01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -89391,7 +89673,13 @@ myData = [
   ],
   [
     "WaterLogoRoofSmall01",
-    ["object", "objectgeometry", "staticobject", "subobjectdefaultprobability"],
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
     "",
     "1",
     "Props",
@@ -89401,6 +89689,7 @@ myData = [
     "WaterLogoWallLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -89415,6 +89704,7 @@ myData = [
     "WaterLogoWallLargeNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -89429,6 +89719,7 @@ myData = [
     "WaterLogoWallMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -89443,6 +89734,7 @@ myData = [
     "WaterLogoWallMediumNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -89457,6 +89749,7 @@ myData = [
     "WaterLogoWallSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -89471,6 +89764,7 @@ myData = [
     "WaterLogoWallSmallNeon01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "staticobject",
@@ -89577,6 +89871,7 @@ myData = [
   [
     "WaterTank01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -89592,6 +89887,7 @@ myData = [
   [
     "WaterTank02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -89607,6 +89903,7 @@ myData = [
   [
     "WaterTank03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -89622,6 +89919,7 @@ myData = [
   [
     "WaterTankRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -89868,6 +90166,7 @@ myData = [
     "WindowBoardsLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -89883,6 +90182,7 @@ myData = [
     "WindowBoardsLarge02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -89898,6 +90198,7 @@ myData = [
     "WindowBoardsLarge03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -89913,6 +90214,7 @@ myData = [
     "WindowBoardsLargeRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -89928,6 +90230,7 @@ myData = [
     "WindowBoardsMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -89943,6 +90246,7 @@ myData = [
     "WindowBoardsMedium02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -89958,6 +90262,7 @@ myData = [
     "WindowBoardsMedium03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -89973,6 +90278,7 @@ myData = [
     "WindowBoardsMediumRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -89988,6 +90294,7 @@ myData = [
     "WindowBoardsSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -90003,6 +90310,7 @@ myData = [
     "WindowBoardsSmall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -90018,6 +90326,7 @@ myData = [
     "WindowBoardsSmall03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -90033,6 +90342,7 @@ myData = [
     "WindowBoardsSmallRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -90048,6 +90358,7 @@ myData = [
     "WindowCleaningPlatform01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -90063,6 +90374,7 @@ myData = [
     "WindowCleaningPlatformHoists01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "objectsubobjects",
@@ -90079,6 +90391,7 @@ myData = [
     "WindowSecurityShuttersLarge01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -90094,6 +90407,7 @@ myData = [
     "WindowSecurityShuttersLarge02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -90109,6 +90423,7 @@ myData = [
     "WindowSecurityShuttersLarge03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -90124,6 +90439,7 @@ myData = [
     "WindowSecurityShuttersLargeRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -90139,6 +90455,7 @@ myData = [
     "WindowSecurityShuttersMedium01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -90154,6 +90471,7 @@ myData = [
     "WindowSecurityShuttersMedium02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -90169,6 +90487,7 @@ myData = [
     "WindowSecurityShuttersMedium03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -90184,6 +90503,7 @@ myData = [
     "WindowSecurityShuttersMediumRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -90199,6 +90519,7 @@ myData = [
     "WindowSecurityShuttersSmall01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -90214,6 +90535,7 @@ myData = [
     "WindowSecurityShuttersSmall02",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -90229,6 +90551,7 @@ myData = [
     "WindowSecurityShuttersSmall03",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "spawnableobject",
@@ -90244,6 +90567,7 @@ myData = [
     "WindowSecurityShuttersSmallRandom01",
     [
       "attachedobject",
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "placeholderobject",
@@ -90258,6 +90582,7 @@ myData = [
   [
     "WoodStack01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -90273,6 +90598,7 @@ myData = [
   [
     "WoodStack02",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -90288,6 +90614,7 @@ myData = [
   [
     "WoodStack03",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -90303,6 +90630,7 @@ myData = [
   [
     "WoodStack04",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -90318,6 +90646,7 @@ myData = [
   [
     "WoodStackRandom01",
     [
+      "editorassetcategoryoverride",
       "object",
       "objectgeometry",
       "obsoleteidentifiers",
@@ -90445,5 +90774,12003 @@ myData = [
     "4",
     "Parks & Recreation",
     "Landmark",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_2x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_2x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_2x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_3x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_3x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_3x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_4x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L1_4x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_2x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_2x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_2x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_3x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_3x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_3x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_4x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L2_4x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_2x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_2x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_2x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_3x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_3x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_3x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_4x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L3_4x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_2x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_2x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_2x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_3x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_3x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_3x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_4x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L4_4x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_2x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_2x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_2x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_3x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_3x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_3x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_4x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront01_L5_4x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L1_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L1_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L1_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L1_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L1_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L2_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L2_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L2_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L2_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L2_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L3_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L3_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L3_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L3_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L3_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L4_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L4_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L4_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L4_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L4_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L5_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L5_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L5_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L5_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfront02_L5_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "NA_ResidentialLowWaterfrontSignature01",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "localeffects",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "signaturebuilding",
+      "staticobject",
+      "themeobject",
+      "uiobject",
+      "unlockable",
+    ],
+    "",
+    "6",
+    "Signature",
+    "Residential",
+  ],
+  [
+    "NA_ResidentialLowWaterfrontSignature02",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "localeffects",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "signaturebuilding",
+      "staticobject",
+      "themeobject",
+      "uiobject",
+      "unlockable",
+    ],
+    "",
+    "6",
+    "Signature",
+    "Residential",
+  ],
+  [
+    "NA_ResidentialLowWaterfrontSignature03",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "localeffects",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "signaturebuilding",
+      "staticobject",
+      "themeobject",
+      "uiobject",
+      "unlockable",
+    ],
+    "",
+    "6",
+    "Signature",
+    "Residential",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_2x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_2x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_2x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_3x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_3x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_3x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_4x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L1_4x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_2x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_2x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_2x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_3x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_3x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_3x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_4x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L2_4x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_2x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_2x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_2x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_3x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_3x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_3x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_4x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L3_4x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_2x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_2x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_2x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_3x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_3x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_3x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_4x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L4_4x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_2x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_2x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_2x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_3x3",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_3x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_3x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_4x5",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront01_L5_4x6",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L1_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L1_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L1_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L1_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L1_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L2_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L2_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L2_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L2_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L2_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L3_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L3_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L3_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L3_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L3_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L4_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L4_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L4_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L4_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L4_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L5_2x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L5_2x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L5_3x2",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L5_3x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfront02_L5_4x4",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "spawnablebuilding",
+      "staticobject",
+    ],
+    "Requires Zoning",
+    "6",
+    "Buildings",
+    "Residential Low Waterfront",
+  ],
+  [
+    "EU_ResidentialLowWaterfrontSignature01",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "localeffects",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "signaturebuilding",
+      "staticobject",
+      "themeobject",
+      "uiobject",
+      "unlockable",
+    ],
+    "",
+    "6",
+    "Signature",
+    "Residential",
+  ],
+  [
+    "EU_ResidentialLowWaterfrontSignature02",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "localeffects",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "signaturebuilding",
+      "staticobject",
+      "themeobject",
+      "uiobject",
+      "unlockable",
+    ],
+    "",
+    "6",
+    "Signature",
+    "Residential",
+  ],
+  [
+    "EU_ResidentialLowWaterfrontSignature03",
+    [
+      "building",
+      "buildingterraformoverride",
+      "contentprerequisite",
+      "effectsource",
+      "localeffects",
+      "object",
+      "objectgeometry",
+      "objectsubareas",
+      "objectsublanes",
+      "objectsubnets",
+      "objectsubobjects",
+      "signaturebuilding",
+      "staticobject",
+      "themeobject",
+      "uiobject",
+      "unlockable",
+    ],
+    "",
+    "6",
+    "Signature",
+    "Residential",
+  ],
+  [
+    "CoconutPalmTree01",
+    [
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "placeableobject",
+      "serviceobject",
+      "standingobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+      "treeobject",
+      "uiobject",
+      "unlockable",
+    ],
+    "",
+    "6",
+    "Landscaping",
+    "Trees",
+  ],
+  [
+    "FloridaPalmTree01",
+    [
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "placeableobject",
+      "serviceobject",
+      "standingobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+      "treeobject",
+      "uiobject",
+      "unlockable",
+    ],
+    "",
+    "6",
+    "Landscaping",
+    "Trees",
+  ],
+  [
+    "RoyalPalmTree01",
+    [
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "placeableobject",
+      "serviceobject",
+      "standingobject",
+      "subobjectdefaultprobability",
+      "treeobject",
+      "uiobject",
+      "unlockable",
+    ],
+    "",
+    "6",
+    "Landscaping",
+    "Trees",
+  ],
+  [
+    "SylvesterPalmTree01",
+    [
+      "contentprerequisite",
+      "effectsource",
+      "object",
+      "objectgeometry",
+      "placeableobject",
+      "serviceobject",
+      "standingobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+      "treeobject",
+      "uiobject",
+      "unlockable",
+    ],
+    "",
+    "6",
+    "Landscaping",
+    "Trees",
+  ],
+  [
+    "EU_Chimney01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Chimney01Tall",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Chimney02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Chimney02Tall",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Chimney03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Chimney03Tall",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Chimney04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Chimney04Tall",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Chimney05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Chimney05Tall",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Chimney06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Chimney06Tall",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_ChimneyRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_ChimneyTallRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_ChimneyWide01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_ChimneyWide01Tall",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_ChimneyWide02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_ChimneyWide02Tall",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_ChimneyWide03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_ChimneyWide03Tall",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_ChimneyWide04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_ChimneyWide04Tall",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_ChimneyWide05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_ChimneyWide05Tall",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_ChimneyWide06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_ChimneyWide06Tall",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialHigh Placeholder",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "placeholderlane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialHigh01",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialHigh02",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialHigh03",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialHigh04",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialHigh05",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialHigh06",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialLow Placeholder",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "placeholderlane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialLow01",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialLow02",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialLow03",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialLow04",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialLow05",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialLow06",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "EU_FenceResidentialPieceHigh01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceHigh02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceHigh03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceHigh04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceHigh05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceHigh06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceHighRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_FenceResidentialPieceHighShort01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceHighShort02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceHighShort03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceHighShort04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceHighShort05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceHighShort06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceHighShortRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_FenceResidentialPieceLow01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceLow02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceLow03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceLow04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceLow05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceLow06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceLowRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_FenceResidentialPieceLowShort01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceLowShort02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceLowShort03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceLowShort04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceLowShort05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceLowShort06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_FenceResidentialPieceLowShortRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_Railing01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing01ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing01Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing01Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing02ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing02Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing02Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing03ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing03Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing03Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing04ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing04Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing04Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing05ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing05Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing05Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing06ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing06Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing06Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing07ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing07Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing07Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing08",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing08ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing08Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing08Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing09",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing09ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing09Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Railing09Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_RailingExtraShortRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_RailingLongRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_RailingRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_RailingShortRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_Wall01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall01ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall01Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall01Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall02ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall02Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall02Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall03ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall03Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall03Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall04ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall04Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall04Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall05ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall05Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall05Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall06ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall06Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall06Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall07ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall07Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall07Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall08",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall08ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall08Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall08Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall09",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall09ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall09Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_Wall09Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallExtraShortRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WallLongRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WallLow01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow01ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow01Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow01Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow02ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow02Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow02Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow03ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow03Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow03Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow04ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow04Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow04Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow05ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow05Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow05Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow06ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow06Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow06Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow07ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow07Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow07Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow08",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow08ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow08Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow08Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow09",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow09ExtraShort",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow09Long",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLow09Short",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallLowExtraShortRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WallLowLongRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WallLowRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WallLowShortRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WallPylon01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylon02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylon03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylon04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylon05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylon06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylon07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylon08",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylon09",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylonLow01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylonLow02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylonLow03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylonLow04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylonLow05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylonLow06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylonLow07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylonLow08",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylonLow09",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WallPylonLowRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WallPylonRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WallRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WallShortRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowGuard01",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard01Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard01Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard01Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard02",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard02Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard02Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard02Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard03",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard03Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard03Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard03Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard04",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard04Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard04Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard04Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard05",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard05Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard05Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard05Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard06",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard06Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard06Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard06Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard07",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard07Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard07Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard07Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard08",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard08Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard08Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard08Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard09",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard09Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard09Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuard09Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowGuardRandom01",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowGuardRandom02",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowGuardRandomNarrow01",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowGuardRandomNarrow02",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowGuardRandomShort01",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowGuardRandomShort02",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowGuardRandomTall01",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowGuardRandomTall02",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowHatch01L",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch01NarrowL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch01NarrowR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch01R",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch01ShortL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch01ShortR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch01TallL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch01TallR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch02L",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch02NarrowL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch02NarrowR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch02R",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch02ShortL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch02ShortR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch02TallL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch02TallR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch03L",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch03NarrowL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch03NarrowR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch03R",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch03ShortL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch03ShortR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch03TallL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatch03TallR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowHatchLRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowHatchNarrowLRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowHatchNarrowRRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowHatchRRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowHatchShortLRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowHatchShortRRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowHatchTallLRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowHatchTallRRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowOrnament01",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament01Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament02",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament02Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament03",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament03Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament04",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament04Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament05",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament05Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament06",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament06Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament07",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament07Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament07Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament07Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament08",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament08Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament08Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament08Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament09",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament09Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament09Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament09Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament10",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament10Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament10Short",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament10Tall",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament11",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnament11Narrow",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "EU_WindowOrnamentNarrowRandom01",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowOrnamentNarrowRandom02",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowOrnamentNarrowRandom03",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowOrnamentRandom01",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowOrnamentRandom02",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "EU_WindowOrnamentRandom03",
+    [
+      "attachedobject",
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_ChimneyResidential01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_ChimneyResidential02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_ChimneyResidential03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_ChimneyResidentialRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_ChimneyResidentialSmall01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_ChimneyResidentialSmall02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_ChimneyResidentialSmall03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_ChimneyResidentialSmallRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_FenceResidentialHigh Placeholder",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "placeholderlane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "NA_FenceResidentialHigh01",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "NA_FenceResidentialHigh02",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "NA_FenceResidentialHigh03",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "NA_FenceResidentialHigh04",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "NA_FenceResidentialHigh05",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "NA_FenceResidentialLow Placeholder",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "placeholderlane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "NA_FenceResidentialLow01",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "NA_FenceResidentialLow02",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "NA_FenceResidentialLow03",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "NA_FenceResidentialLow04",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "NA_FenceResidentialLow05",
+    [
+      "contentprerequisite",
+      "netlane",
+      "netlanegeometry",
+      "spawnablelane",
+      "utilitylane",
+    ],
+    "Unspawnable",
+    "6",
+    "Uncategorized",
+    "Props",
+  ],
+  [
+    "NA_FenceResidentialPieceHigh01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceHigh02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceHigh03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceHigh04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceHigh05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceHighRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_FenceResidentialPieceHighShort01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceHighShort02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceHighShort03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceHighShort04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceHighShort05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceHighShortRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_FenceResidentialPieceLow01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceLow02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceLow03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceLow04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceLow05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceLowRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_FenceResidentialPieceLowShort01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceLowShort02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceLowShort03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceLowShort04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceLowShort05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_FenceResidentialPieceLowShortRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_WindowHatch01ShortL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch01ShortR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch01ShortWideL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch01ShortWideR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch01TallL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch01TallR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch01TallWideL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch01TallWideR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch02ShortL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch02ShortR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch02ShortWideL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch02ShortWideR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch02TallL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch02TallR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch02TallWideL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch02TallWideR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch03ShortL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch03ShortR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch03ShortWideL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch03ShortWideR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch03TallL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch03TallR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch03TallWideL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch03TallWideR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch04ShortL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch04ShortR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch04ShortWideL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch04ShortWideR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch04TallL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch04TallR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch04TallWideL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch04TallWideR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch05ShortL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch05ShortR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch05ShortWideL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch05ShortWideR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch05TallL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch05TallR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch05TallWideL",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatch05TallWideR",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "NA_WindowHatchShortLRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_WindowHatchShortRRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_WindowHatchShortWideLRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_WindowHatchShortWideRRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_WindowHatchTallLRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_WindowHatchTallRRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_WindowHatchTallWideLRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "NA_WindowHatchTallWideRRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "Pergola01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "Pergola02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "Pergola03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "Pergola04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "Pergola05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "Pergola06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "Pergola07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModular01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModular02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModular03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModular04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModular05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModular06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModular07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModularDoorway01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModularDoorway02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModularDoorway03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModularDoorway04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModularDoorway05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModularDoorway06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModularDoorway07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Residential",
+  ],
+  [
+    "PergolaModularDoorwayRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "PergolaModularOpen01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularOpen02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularOpen03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularOpen04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularOpen05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularOpen06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularOpen07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularOpenRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "PergolaModularRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "PergolaModularWall01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWall02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWall03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWall04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWall05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWall06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWall07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallL01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallL02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallL03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallL04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallL05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallL06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallL07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallLRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "PergolaModularWallR01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallR02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallR03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallR04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallR05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallR06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallR07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaModularWallRRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "PergolaModularWallRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "PergolaRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "PergolaSmall01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmall02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmall03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmall04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmall05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmall06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmall07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmallDouble01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmallDouble02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmallDouble03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmallDouble04",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmallDouble05",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmallDouble06",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmallDouble07",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PergolaSmallDoubleRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "PergolaSmallRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "PoolLadder01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PoolLadder02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PoolLadder03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "PoolLadderRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "SignatureBuildingWaterfront",
+    ["contentprerequisite", "effect", "sfx", "transform"],
+    "Unspawnable",
+    "6",
+    "Effects",
+    "SFX",
+  ],
+  [
+    "WallFountain01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "WallFountain02",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "WallFountain03",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Recreational",
+  ],
+  [
+    "WallFountainRandom01",
+    [
+      "contentprerequisite",
+      "object",
+      "objectgeometry",
+      "placeholderobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "",
+    "6",
+    "Props",
+    "Random",
+  ],
+  [
+    "WaterfrontLowCloseGroupSFX",
+    ["contentprerequisite", "effect", "sfx", "transform"],
+    "Unspawnable",
+    "6",
+    "Effects",
+    "SFX",
+  ],
+  [
+    "WaterfrontLowDistantGroupSFX",
+    ["contentprerequisite", "effect", "sfx", "transform"],
+    "Unspawnable",
+    "6",
+    "Effects",
+    "SFX",
+  ],
+  [
+    "PileCoalLarge01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileCoalMassive01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileCoalMedium01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileCoalSmall01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileCropLarge01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileCropMassive01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileCropMedium01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileCropSmall01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileGarbageLarge01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileGarbageMassive01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileGarbageMedium01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileGarbageSmall01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileOreLarge01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileOreMassive01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileOreMedium01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileOreSmall01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileSandLarge01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileSandMassive01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileSandMedium01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileSandSmall01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileStoneLarge01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileStoneMassive01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileStoneMedium01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "PileStoneSmall01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "LogPileLarge01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "LogPileLarge02",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "LogPileLarge03",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "LogPileMedium01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "LogPileMedium02",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "LogPileMedium03",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "LogPileSmall01",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "LogPileSmall02",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
+  ],
+  [
+    "LogPileSmall03",
+    [
+      "editorassetcategoryoverride",
+      "object",
+      "objectgeometry",
+      "obsoleteidentifiers",
+      "quantityobject",
+      "spawnableobject",
+      "staticobject",
+      "subobjectdefaultprobability",
+    ],
+    "Invisible",
+    "1",
+    "Props",
+    "Industrial",
   ],
 ];
