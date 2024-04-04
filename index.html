@@ -637,10 +637,10 @@
 
             // Redraw the DataTable
             dataTable.columns(2).search(selectedNotes.join('|'), true, false).draw();
-            dataTable.columns(4).search(searchRegex, true, false).draw();
-            dataTable.columns(5).search(selectedCategory.join('|'), true, false).draw();
-            dataTable.columns(6).search(selectedSubcategory.join('|'), true, false).draw();
-            dataTable.columns(7).search(selectedSource.join('|'), true, false).draw();
+            dataTable.columns(3).search(searchRegex, true, false).draw();
+            dataTable.columns(4).search(selectedCategory.join('|'), true, false).draw();
+            dataTable.columns(5).search(selectedSubcategory.join('|'), true, false).draw();
+            dataTable.columns(6).search(selectedSource.join('|'), true, false).draw();
         });
 
         const toastTrigger = document.getElementById('toaster')
