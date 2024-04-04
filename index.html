@@ -20,8 +20,8 @@
     <nav class="navbar navbar-expand-lg bg-secondary fixed-top">
         <div class="container-xxl">
             <a class="navbar-brand" href="#">
-                <img src="/files/starq.svg" alt="StarQ" width="50" height="50"
-                    class="d-inline-block align-text-baseline" style="margin-top: -1rem !important;">
+                <img src="files/starq.svg" alt="StarQ" width="50" height="50" class="d-inline-block align-text-baseline"
+                    style="margin-top: -1rem !important;">
                 <span class="h1 cities-font">StarQ</span>
             </a>
             <button class="btn btn-outline-danger me-2" type="button" data-bs-toggle="modal"
@@ -370,7 +370,7 @@
 
                             if (row['source'] != null) {
                                 info += '<div class="info-icon d-inline-block" data-bs-toggle="tooltip" data-bs-title="' + sourceArray[row['source'] - 1]['name'] + '" data-bs-placement="top">'
-                                info += '<img src="/files/sources/' + sourceArray[row['source'] - 1]['id'] + '.svg" alt="' + sourceArray[row['source'] - 1]['name'] + '" width="20" height="20" class="bi"></div>'
+                                info += '<img src="files/sources/' + sourceArray[row['source'] - 1]['id'] + '.svg" alt="' + sourceArray[row['source'] - 1]['name'] + '" width="20" height="20" class="bi"></div>'
                             }
                             if (row['theme'] != null) {
                                 switch (row['theme']) {
@@ -384,7 +384,7 @@
                                         break;
                                 }
                                 info += '<div class="info-icon d-inline-block" data-bs-toggle="tooltip" data-bs-title="' + themeName + '" data-bs-placement="top">'
-                                info += '<img src="/files/themes/' + row['theme'] + '.svg" alt="' + row['theme'] + '" width="20" height="20" class="bi"></div>'
+                                info += '<img src="files/themes/' + row['theme'] + '.svg" alt="' + row['theme'] + '" width="20" height="20" class="bi"></div>'
                             }
                             if (row['date'] != null) {
                                 info += '<div class="info-icon d-inline-block" data-bs-toggle="tooltip" data-bs-title="' + formatDate(row['date']) + '" data-bs-placement="top">'
