@@ -66,12 +66,12 @@ body {
   width: 100% !important;
 }
 
-.mixed-column {
+/* .mixed-column {
   display: none; /* Hide the Notes column by default */
-}
+/* }
 .normal-column {
   display: table-cell;
-}
+} */
 
 .serial-column {
   width: 5% !important;
@@ -94,14 +94,14 @@ body {
 }
 
 /* Media query for small screens */
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) {
   .mixed-column {
-    display: table-cell; /* Display the Notes column as a table row */
+    display: table-cell;
   }
   .normal-column {
     display: none;
   }
-}
+} */
 
 .row-red,
 .row-red > td {
@@ -127,4 +127,24 @@ body {
 
 .info-icon {
   margin-right: 0.4rem !important;
+}
+
+td.child {
+  padding-left: 3rem !important;
+}
+
+td.child > ul > li > span.dtr-title {
+  display: none !important;
+}
+
+td.child > ul > li > span.dtr-data > ul {
+  list-style-type: disclosure-closed !important;
+}
+
+#btn-group-first {
+  border-bottom-left-radius: 0 !important;
+}
+
+#btn-group-last {
+  border-top-right-radius: 0 !important;
 }

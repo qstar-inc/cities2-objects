@@ -153,19 +153,31 @@
                 </div>
             </div>
             <div class="card card-body mt-3">
-                <div class="btn-group" role="group" aria-label="Button Group">
-                    <a href="?source=5" class="btn btn-outline-info">Beach Properties
-                        <span class="position-absolute top-0 start-0 translate-middle badge rounded-pill bg-danger">
-                            NEW</span></a>
+                <span class="position-absolute top-0 start-50 translate-middle badge rounded-pill bg-success">
+                    Shortcuts</span>
+                <div class="btn-group flex-wrap justify-content-between" role="group" aria-label="Button Group">
+                    <div class="btn-group" role="group">
+                        <button id="btn-group-first" type="button" class="btn btn-outline-info dropdown-toggle"
+                            data-bs-toggle="dropdown" aria-expanded="false">DLCs</button>
+                        <ul class="dropdown-menu">
+                            <li><a href="?source=6" class="dropdown-item">Beach Properties
+                                    <span class="badge rounded-pill bg-danger">NEW</span></a></li>
+                            <li><a href="?source=5" class="dropdown-item">San Francisco Set</a></li>
+                        </ul>
+                    </div>
                     <a href="?cat=vehicles" class="btn btn-outline-info">Vehicles</a>
                     <a href="?cat=props" class="btn btn-outline-info">Props</a>
-                    <a href="?cat=buildings" class="btn btn-outline-info">Zoned Buildings</a>
-                    <a href="?cat=signature%20buildings" class="btn btn-outline-info">Signature Buildings</a>
-                    <a href="?cat=sub%20buildings" class="btn btn-outline-info">Sub Buildings</a>
+                    <div class="btn-group" role="group">
+                        <button type="button" class="btn btn-outline-info dropdown-toggle" data-bs-toggle="dropdown"
+                            aria-expanded="false">Buildings</button>
+                        <ul class="dropdown-menu">
+                            <li><a href="?cat=buildings" class="dropdown-item">Zoned Buildings</a></li>
+                            <li><a href="?cat=signature%20buildings" class="dropdown-item">Signature Buildings</a></li>
+                            <li><a href="?cat=sub%20buildings" class="dropdown-item">Sub Buildings</a></li>
+                        </ul>
+                    </div>
                     <a href="?removed=true" class="btn btn-outline-info">Removed</a>
-                    <a href="index.html" class="btn btn-outline-info">Reset
-                        <span class="position-absolute top-100 start-100 translate-middle badge rounded-pill bg-danger">
-                            X</span></a>
+                    <a href="index.html" class="btn btn-outline-info" id="btn-group-last">Reset</a>
                 </div>
             </div>
         </div>
@@ -212,8 +224,7 @@
                     <tr>
                         <th class="serial-column">Sl</th>
                         <th class="normal-column long-column">Object Name</th>
-                        <th class="normal-column long-column">Notes</th>
-                        <th class="mixed-column xl-column">Details</th>
+                        <th class="normal-column long-column">Details</th>
                         <th class="hidden-column">Tags</th>
                         <th class="hidden-column">Category</th>
                         <th class="hidden-column">Subcategory</th>
@@ -356,7 +367,7 @@
                     {
                         data: null,
                         className: 'serial-column',
-                        width: '10%',
+                        responsivePriority: 1,
                         render: function (data, type, row, meta) {
                             return meta.row + 1;
                         }
@@ -364,6 +375,7 @@
                     {
                         data: 'title',
                         className: 'normal-column long-column',
+                        responsivePriority: 2,
                         render: function (data, type, row, meta) {
                             title = row['title'];
                             info = '';
@@ -414,6 +426,7 @@
                         data: 'notes',
                         className: 'normal-column xl-column',
                         orderable: false,
+                        responsivePriority: 2,
                         render: function (data, type, row, meta) {
                             text = '<ul class="mb-0 px-0">'
                             text += (row['notes'] == null ? '' : '<li>' + row['notes'] + '</li>');
@@ -427,20 +440,6 @@
                             text += '<li>' + line + '</li>';
                             return trimString(text);
                         }
-                    },
-                    {
-                        data: function (row) {
-                            if (row['notes'] == '' || row['notes'] == null) {
-                                text = row['title'];
-                            } else {
-                                text = row['title'] + "<br><span class='m-1 px-2 border rounded bg-warning text-dark'><b>Note:</b> <small><i>" + row['notes'] + "</i></small></span>";
-                            }
-                            text += "<br><b>Requires: </b>" + sourceArray[row['source'] - 1]['name'];
-                            text += "<br><b>Category: </b>" + catArray[row['cat'] - 1]['cat'] + " > " + catArray[row['cat'] - 1]['subcat'];
-                            return text;
-                        },
-                        orderable: false,
-                        className: 'mixed-column xl-column'
                     },
                     {
                         data: 'tags',
@@ -518,7 +517,6 @@
                             text: displayNote
                         }));
                     });
-
                 },
                 pageLength: 50,
                 pagingType: 'simple_numbers',
@@ -530,6 +528,13 @@
                     lengthMenu: 'Display: _MENU_'
                 },
                 processing: true,
+                responsive: {
+                    details: {
+                        display: DataTable.Responsive.display.childRowImmediate,
+                        target: '',
+                        type: 'none'
+                    }
+                }
             });
         }
 
@@ -647,6 +652,8 @@
                 toastBootstrap.show()
             })
         }
+
+
     </script>
 </body>
 
