@@ -19,7 +19,7 @@
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg bg-secondary fixed-top">
         <div class="container-xxl">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="index.html">
                 <img src="files/starq.svg" alt="StarQ" width="50" height="50" class="d-inline-block align-text-baseline"
                     style="margin-top: -1rem !important;">
                 <span class="h1 cities-font">StarQ</span>
@@ -101,7 +101,7 @@
             <div class="d-flex justify-content-between align-items-center flex-wrap mt-5">
                 <h1 class="cities-font">Cities: Skylines II Objects List</h1>
                 <div class="ms-auto">
-                    <h3 class="text-end cities-font">Revision 2.01.0</h3>
+                    <h3 class="text-end cities-font">Revision 2.01.2</h3>
                     <p class="text-end cities-font">Added "Beach Properties" objects</p>
                 </div>
             </div>
@@ -144,11 +144,11 @@
                     <p>The filters can also help you narrow down what you're looking for. You can select multiple values
                         on the filters at once.</p>
                     <div class="text-center">
-                        <iframe width="560" height="315"
+                        <!-- <iframe width="560" height="315"
                             src="https://www.youtube.com/embed/E68sOrml-oo?si=BO1OKmA44Ny5K5rx"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
                     </div>
                 </div>
             </div>
@@ -158,25 +158,40 @@
                 <div class="btn-group flex-wrap justify-content-between" role="group" aria-label="Button Group">
                     <div class="btn-group" role="group">
                         <button id="btn-group-first" type="button" class="btn btn-outline-info dropdown-toggle"
-                            data-bs-toggle="dropdown" aria-expanded="false">DLCs</button>
-                        <ul class="dropdown-menu">
-                            <li><a href="?source=6" class="dropdown-item">Beach Properties
-                                    <span class="badge rounded-pill bg-danger">NEW</span></a></li>
-                            <li><a href="?source=5" class="dropdown-item">San Francisco Set</a></li>
-                        </ul>
+                            data-bs-toggle="dropdown" aria-expanded="false">Sources</button>
+                        <ul class="dropdown-menu" id="sourceDropdown"></ul>
                     </div>
-                    <a href="?cat=vehicles" class="btn btn-outline-info">Vehicles</a>
-                    <a href="?cat=props" class="btn btn-outline-info">Props</a>
                     <div class="btn-group" role="group">
                         <button type="button" class="btn btn-outline-info dropdown-toggle" data-bs-toggle="dropdown"
                             aria-expanded="false">Buildings</button>
-                        <ul class="dropdown-menu">
-                            <li><a href="?cat=buildings" class="dropdown-item">Zoned Buildings</a></li>
-                            <li><a href="?cat=signature%20buildings" class="dropdown-item">Signature Buildings</a></li>
-                            <li><a href="?cat=sub%20buildings" class="dropdown-item">Sub Buildings</a></li>
+                        <ul class="dropdown-menu" id="buildingsDropdown">
                         </ul>
                     </div>
-                    <a href="?removed=true" class="btn btn-outline-info">Removed</a>
+                    <div class="btn-group" role="group">
+                        <button type="button" class="btn btn-outline-info dropdown-toggle" data-bs-toggle="dropdown"
+                            aria-expanded="false">Services</button>
+                        <ul class="dropdown-menu" id="servicesDropdown">
+                        </ul>
+                    </div>
+                    <div class="btn-group" role="group">
+                        <button type="button" class="btn btn-outline-info dropdown-toggle" data-bs-toggle="dropdown"
+                            aria-expanded="false">Placeables</button>
+                        <ul class="dropdown-menu" id="placeablesDropdown">
+                        </ul>
+                    </div>
+                    <div class="btn-group" role="group">
+                        <button type="button" class="btn btn-outline-info dropdown-toggle" data-bs-toggle="dropdown"
+                            aria-expanded="false">Miscellaneous</button>
+                        <ul class="dropdown-menu" id="miscDropdown">
+                            <li><a href="?removed=true" class="dropdown-item">Removed</a></li>
+                        </ul>
+                    </div>
+                    <div class="btn-group" role="group">
+                        <button type="button" class="btn btn-outline-info dropdown-toggle" data-bs-toggle="dropdown"
+                            aria-expanded="false">Color Tags</button>
+                        <ul class="dropdown-menu" id="colorDropdown">
+                        </ul>
+                    </div>
                     <a href="index.html" class="btn btn-outline-info" id="btn-group-last">Reset</a>
                 </div>
             </div>
@@ -185,36 +200,32 @@
             <div class="collapse mt-3" id="collapseFilters">
                 <div class="d-flex flex-wrap justify-content-around align-items-center">
                     <div id="tagsDiv" class="divGroup">
-                        <label class="divSelectLabel" id="tagsSelectLabel" for="tagsSelect">Tags:</label>
-                        <select class="divSelect" id="tagsSelect" multiple class="text-bg-dark">
-                            <option value="">All</option>
+                        <label class="divSelectLabel" id="tagSelectLabel" for="tagSelect">Tags:</label>
+                        <select class="divSelect" id="tagSelect" multiple class="text-bg-dark">
                         </select>
                     </div>
                     <div id="notesDiv" class="divGroup">
-                        <label class="divSelectLabel" id="notesSelectLabel" for="notesSelect">Notes:</label>
-                        <select class="divSelect" id="notesSelect" multiple class="text-bg-dark">
-                            <option value="">All</option>
+                        <label class="divSelectLabel" id="noteSelectLabel" for="noteSelect">Notes:</label>
+                        <select class="divSelect" id="noteSelect" multiple class="text-bg-dark">
                         </select>
                     </div>
                 </div>
                 <div class="d-flex flex-wrap justify-content-around align-items-center">
                     <div id="sourceDiv" class="divGroup">
-                        <label class="divSelectLabel" id="sourceSelectLabel" for="sourceSelect">Unlock:</label>
+                        <label class="divSelectLabel" id="sourceSelectLabel" for="sourceSelect">Source:</label>
                         <select class="divSelect" id="sourceSelect" multiple class="text-bg-dark">
-                            <option value="">All</option>
                         </select>
                     </div>
                     <div id="categoryDiv" class="divGroup">
                         <label class="divSelectLabel2" id="categorySelectLabel" for="categorySelect">Category:</label>
                         <select class="divSelect" id="categorySelect" multiple class="text-bg-dark">
-                            <option value="">All</option>
                         </select>
                     </div>
                     <div id="subCategoryDiv" class="divGroup">
                         <label class="divSelectLabel2" id="subcategorySelectLabel"
                             for="subcategorySelect">Subcategory:</label>
                         <select class="divSelect" id="subcategorySelect" multiple class="text-bg-dark">
-                            <option value="">All</option>
+                            <option value="" disabled>Select a category to get started</option>
                         </select>
                     </div>
                 </div>
@@ -312,13 +323,71 @@
             if (getUrlParameter('cat') + getUrlParameter('source') + getUrlParameter('removed') != '') {
                 $('#loadDataTableButton').click();
             }
+            loadData();
+            loadSourceShorcuts();
+            loadShorcuts();
         }
 
         $('#loadDataTableButton').on('click', function () {
-            loadData();
             $('#filtersButton').removeClass('d-none');
             $('#loadDataTableButton').addClass('d-none');
         });
+
+        function loadSourceShorcuts() {
+            var sourceArray = [{ sl: 1, name: "Base Game" }, { sl: 2, name: "Treasure Hunt" }, { sl: 3, name: "Link Paradox Account" }, { sl: 4, name: "Landmark Buildings" }, { sl: 5, name: "San Francisco Set" }, { sl: 6, name: "Beach Properties" }];
+            sourceIdArray = sourceArray.map(obj => obj.sl);
+            var sourceDropdown = $('#sourceDropdown');
+            var sourceLine = '';
+            function sourceLineMaker(sl, name, isNew = false) {
+                var newLine = '';
+                if (isNew == true) {
+                    newLine = ' <span class="badge rounded-pill bg-danger">NEW</span>'
+                }
+                return '<li><a href="?source=' + sl + '" class="dropdown-item">' + name + newLine + '</a></li>'
+            }
+            sourceArray.forEach(function (sources) {
+                sourceLine = sourceLineMaker(sources.sl, sources.name, sources.sl == Math.max(...sourceIdArray)) + sourceLine;
+            })
+            sourceDropdown.prepend(sourceLine);
+        }
+
+        function loadShorcuts() {
+            var buildings = ['Zoned Buildings', 'Signature Buildings', 'Sub Buildings'];
+            var services = ['Road Service', 'Electricity', 'Water & Sewage', 'Medical', 'Garbage', 'Education & Research', 'Fire and Rescue', 'Police & Administration', 'Transportation', 'Parks & Recreation', 'Communications'];
+            var placeables = ['Networks', 'Props', 'Vehicles', 'Landscaping', 'Areas', 'Animals'];
+            var misc = ['Effects', 'Editor Elements', 'Uncategorized'];
+            var color = ['Green', 'Yellow', 'Red'];
+            var buildingsDropdown = $('#buildingsDropdown');
+            var servicesDropdown = $('#servicesDropdown');
+            var placeablesDropdown = $('#placeablesDropdown');
+            var miscDropdown = $('#miscDropdown');
+            var colorDropdown = $('#colorDropdown');
+
+            function lineMaker(name, type) {
+                var link = encodeURIComponent(name);
+                if (name == 'Zoned Buildings') {
+                    link = 'buildings';
+                }
+
+                return '<li><a href="?' + type + '=' + link.toLowerCase() + '" class="dropdown-item">' + name + '</a></li>'
+            }
+            function looper(cat) {
+                text = '';
+                type = 'cat';
+                if (cat == color) {
+                    type = 'color';
+                }
+                cat.forEach(function (item) {
+                    text += lineMaker(item, type);
+                })
+                return text;
+            }
+            buildingsDropdown.prepend(looper(buildings));
+            servicesDropdown.prepend(looper(services));
+            placeablesDropdown.prepend(looper(placeables));
+            miscDropdown.prepend(looper(misc));
+            colorDropdown.prepend(looper(color));
+        }
 
         function loadData() {
             $.ajax({
@@ -340,6 +409,7 @@
                     populateSources(sourceArray);
                     populateCats(catArray);
                     populateTags(tagArray);
+                    detectChange(catArray, sourceArray, tagArray);
                 },
                 error: function (xhr, status, error) {
                     console.error(status, error);
@@ -359,6 +429,7 @@
                         "Authorization": auth,
                         "cat": getUrlParameter('cat'),
                         "source": getUrlParameter('source'),
+                        "color": getUrlParameter('color'),
                         "removed": getUrlParameter('removed')
                     },
                     // dataType: 'json',
@@ -488,7 +559,7 @@
                     $('#thead').removeClass('d-none');
 
                     // Preparte notes options
-                    var notesSelect = $('#notesSelect');
+                    var noteSelect = $('#noteSelect');
                     var columnData = dataTable.column(2).data().toArray();
                     var filteredData = columnData.filter(function (value) {
                         return value !== null;
@@ -502,9 +573,9 @@
                         var valueNote = note.includes("Untextured") ? "Untextured*" : note;
                         uniqueNotesMap[displayNote] = valueNote;
                     });
-                    notesSelect.empty();
+                    noteSelect.empty();
 
-                    notesSelect.append($('<option>', {
+                    noteSelect.append($('<option>', {
                         value: '',
                         text: 'All'
                     }));
@@ -512,7 +583,7 @@
                     // Populate notes options
                     Object.keys(uniqueNotesMap).sort().forEach(function (displayNote) {
                         var valueNote = uniqueNotesMap[displayNote];
-                        notesSelect.append($('<option>', {
+                        noteSelect.append($('<option>', {
                             value: valueNote,
                             text: displayNote
                         }));
@@ -537,30 +608,95 @@
                 }
             });
         }
+        var isDataTableInitialized = false;
+
+        function checkExistsInDataTable(column) {
+            return new Promise(function (resolve, reject) {
+                var table = $('#dyna').DataTable();
+                if (isDataTableInitialized) {
+                    var columnData = table.column(column).data().toArray();
+                    var uniqueValues = [...new Set(columnData)].sort();
+                    resolve(uniqueValues);
+                } else {
+                    table.on('init', function () {
+                        isDataTableInitialized = true;
+                        var columnData = table.column(column).data().toArray();
+                        var uniqueValues = [...new Set(columnData)].sort();
+                        resolve(uniqueValues);
+                    });
+                }
+            });
+        }
 
         // Populate Sources
         function populateSources(sourceArray) {
             var sourceSelect = $('#sourceSelect');
-            sourceArray.forEach(function (option) {
-                sourceSelect.append($('<option>', {
-                    value: option.sl,
-                    text: option.name
-                }));
-            });
+            sourceSelect.empty();
+            sourceSelect.append($('<option>', {
+                value: '',
+                text: 'All'
+            }));
+            checkExistsInDataTable(6)
+                .then(function (sourceExists) {
+                    sourceArray.forEach(function (option) {
+                        var $option = $('<option>', {
+                            value: option.sl,
+                            text: option.name,
+                        });
+                        sourceSelect.append($option);
+                        if (!sourceExists.includes(option.sl)) {
+                            $option.prop('disabled', true);
+                        }
+                    });
+                    if (sourceExists.length == 1) {
+                        sourceSelect.find('option[value="' + sourceExists[0] + '"]').prop('selected', true);
+                    }
+
+                    sourceSelect.find('option:disabled').detach().appendTo(sourceSelect);
+                    sourceSelect.find('option[value="all"]').detach().prependTo(sourceSelect);
+
+                })
         }
 
+        // Populate Category
         function populateCats(catArray) {
-            // Populate Category
             var categorySelect = $('#categorySelect');
-            catArray.forEach(function (category) {
-                var categoryValue = category['cat'];
-                if (!categorySelect.find('option[value="' + categoryValue + '"]').length) {
-                    categorySelect.append($('<option>', {
-                        value: category.cat,
-                        text: category.cat
-                    }));
-                };
-            });
+            categorySelect.empty();
+            categorySelect.append($('<option>', {
+                value: '',
+                text: 'All'
+            }));
+            checkExistsInDataTable(4)
+                .then(function (catExists) {
+                    var categoryNum = catExists.map(function (catId) {
+                        var catObject = catArray.find(function (cat) {
+                            return cat.sl === catId;
+                        });
+                        var columnData = catObject ? catObject.cat : null;
+                        return columnData;
+                    });
+                    var uniqueCategories = new Set(categoryNum);
+                    var sortedUniqueCategories = Array.from(uniqueCategories).sort();
+                    catArray.forEach(function (option) {
+                        var $option = $('<option>', {
+                            value: option.cat,
+                            text: option.cat,
+                        });
+                        if (!categorySelect.find('option[value="' + option.cat + '"]').length) {
+                            categorySelect.append($option);
+                            if (!sortedUniqueCategories.includes(option.cat)) {
+                                $option.prop('disabled', true);
+                            }
+                        };
+                    });
+
+                    if (sortedUniqueCategories.length == 1) {
+                        categorySelect.find('option[value="' + sortedUniqueCategories[0] + '"]').prop('selected', true);
+                    }
+                    categorySelect.find('option:disabled').detach().appendTo(categorySelect);
+                    categorySelect.find('option[value="all"]').detach().prependTo(categorySelect);
+
+                })
 
             // Populate Subategory
             var subcategorySelect = $('#subcategorySelect');
@@ -602,47 +738,69 @@
 
         // Populate Tags
         function populateTags(tagArray) {
-            var tagsSelect = $('#tagsSelect');
-            tagArray.forEach(function (tags) {
-                tagsSelect.append($('<option>', {
-                    value: tags.sl,
-                    text: tags.id
-                }));
-            });
+            var tagSelect = $('#tagSelect');
+            tagSelect.empty();
+            tagSelect.append($('<option>', {
+                value: '',
+                text: 'All'
+            }));
+            checkExistsInDataTable(3)
+                .then(function (tagExists) {
+                    var mergedTags = tagExists.map(str => JSON.parse(str)).flat();
+                    tagArray.forEach(function (option) {
+                        var $option = $('<option>', {
+                            value: option.sl,
+                            text: option.id.toSentenceCase(),
+                        });
+                        tagSelect.append($option);
+                        if (mergedTags.includes(parseInt(option.sl))) {
+                            $option.prop('disabled', true);
+                        }
+                    });
+                    if (mergedTags.length == 1 && isValueExist) {
+                        tagSelect.find('option[value="' + mergedTags[0] + '"]').prop('selected', true);
+                    }
+
+                    tagSelect.find('option:disabled').detach().appendTo(tagSelect);
+                    tagSelect.find('option[value="all"]').detach().prependTo(tagSelect);
+
+                })
         }
 
-        var tagsSelect = $('#tagsSelect');
-        var notesSelect = $('#notesSelect');
-        var sourceSelect = $('#sourceSelect');
-        var categorySelect = $('#categorySelect');
-        var subcategorySelect = $('#subcategorySelect');
+        function detectChange(catArray, sourceArray, tagArray) {
+            var tagsSelect = $('#tagsSelect');
+            var noteSelect = $('#noteSelect');
+            var sourceSelect = $('#sourceSelect');
+            var categorySelect = $('#categorySelect');
+            var subcategorySelect = $('#subcategorySelect');
 
-        tagsSelect.add(notesSelect).add(sourceSelect).add(categorySelect).add(subcategorySelect).on('change', function () {
-            var dataTable = $('#dyna').DataTable();
-            var selectedTags = tagsSelect.val() || [];
-            var selectedNotes = notesSelect.val() || [];
-            var selectedSource = sourceSelect.val() || [];
-            var selectedCategory = categorySelect.val() || [];
-            var selectedSubcategory = subcategorySelect.val() || [];
+            tagsSelect.add(noteSelect).add(sourceSelect).add(categorySelect).add(subcategorySelect).on('change', function () {
+                var table = $('#dyna').DataTable();
+                var selectedTags = tagsSelect.val() || [];
+                var selectedNotes = noteSelect.val() || [];
+                var selectedSource = sourceSelect.val() || [];
+                var selectedCategory = categorySelect.val() || [];
+                var selectedSubcategory = subcategorySelect.val() || [];
 
-            // Create search for tags
-            var regex = '\\b' + selectedTags.join('\\b|\\b') + '\\b';;
-            var searchRegex = new RegExp(regex, 'g');
-            var data = dataTable.data();
-            data.each(function (rowData, index) {
-                var columnData = rowData['tags'];
-                var dataArray = JSON.parse(columnData);
-                var searchString = dataArray.join(' ');
+                // Create search for tags
+                var regex = '\\b' + selectedTags.join('\\b|\\b') + '\\b';;
+                var searchRegex = new RegExp(regex, 'g');
+                var data = table.data();
+                data.each(function (rowData, index) {
+                    var columnData = rowData['tags'];
+                    var dataArray = JSON.parse(columnData);
+                    var searchString = dataArray.join(' ');
+                });
+
+                // Redraw the DataTable
+                table.columns(2).search(selectedNotes.join('|'), true, false).draw();
+                table.columns(3).search(searchRegex, true, false).draw();
+                table.columns(4).search(selectedCategory.join('|'), true, false).draw();
+                table.columns(5).search(selectedSubcategory.join('|'), true, false).draw();
+                table.columns(6).search(selectedSource.join('|'), true, false).draw();
             });
 
-            // Redraw the DataTable
-            dataTable.columns(2).search(selectedNotes.join('|'), true, false).draw();
-            dataTable.columns(3).search(searchRegex, true, false).draw();
-            dataTable.columns(4).search(selectedCategory.join('|'), true, false).draw();
-            dataTable.columns(5).search(selectedSubcategory.join('|'), true, false).draw();
-            dataTable.columns(6).search(selectedSource.join('|'), true, false).draw();
-        });
-
+        }
         const toastTrigger = document.getElementById('toaster')
         const toastLiveExample = document.getElementById('nothingToast')
 

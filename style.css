@@ -148,3 +148,7 @@ td.child > ul > li > span.dtr-data > ul {
 #btn-group-last {
   border-top-right-radius: 0 !important;
 }
+
+.btn-group {
+  flex: 1 1 auto !important;
+}
