@@ -1,9 +1,9 @@
 <br/>
 <p align="center">
-  <h3 align="center">Cities: Skylines 2 Developer Mode AddObjects item list</h3>
+  <h3 align="center">Cities: Skylines II Objects List</h3>
 
   <p align="center">
-    An easy way to browse and find usable items from Cities: Skylines 2's AddObjects menu
+    An easy way to browse and find usable items from Cities: Skylines 2's Objects List
     <br/>
     <br/>
   </p>
@@ -14,7 +14,7 @@
 ## Built With
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-- [Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
 ## Roadmap

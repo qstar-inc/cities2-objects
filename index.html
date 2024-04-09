@@ -101,7 +101,7 @@
             <div class="d-flex justify-content-between align-items-center flex-wrap mt-5">
                 <h1 class="cities-font">Cities: Skylines II Objects List</h1>
                 <div class="ms-auto">
-                    <h3 class="text-end cities-font">Revision 2.01.2</h3>
+                    <h3 class="text-end cities-font">Revision 2.01.3</h3>
                     <p class="text-end cities-font">Added "Beach Properties" objects</p>
                 </div>
             </div>
@@ -182,6 +182,9 @@
                     <div class="btn-group" role="group">
                         <button type="button" class="btn btn-outline-info dropdown-toggle" data-bs-toggle="dropdown"
                             aria-expanded="false">Miscellaneous</button>
+                        <ul class="dropdown-menu" id="miscDropdown">
+                            <li><a href="?non%20removable=true" class="dropdown-item">Non-Removable</a></li>
+                        </ul>
                         <ul class="dropdown-menu" id="miscDropdown">
                             <li><a href="?removed=true" class="dropdown-item">Removed</a></li>
                         </ul>
@@ -430,6 +433,7 @@
                         "cat": getUrlParameter('cat'),
                         "source": getUrlParameter('source'),
                         "color": getUrlParameter('color'),
+                        "non_removable": getUrlParameter('non%20removable'),
                         "removed": getUrlParameter('removed')
                     },
                     // dataType: 'json',
