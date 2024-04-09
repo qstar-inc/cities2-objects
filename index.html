@@ -183,9 +183,7 @@
                         <button type="button" class="btn btn-outline-info dropdown-toggle" data-bs-toggle="dropdown"
                             aria-expanded="false">Miscellaneous</button>
                         <ul class="dropdown-menu" id="miscDropdown">
-                            <li><a href="?non%20removable=true" class="dropdown-item">Non-Removable</a></li>
-                        </ul>
-                        <ul class="dropdown-menu" id="miscDropdown">
+                            <li><a href="?nonremovable=true" class="dropdown-item">Non-Removable</a></li>
                             <li><a href="?removed=true" class="dropdown-item">Removed</a></li>
                         </ul>
                     </div>
@@ -323,7 +321,7 @@
         function enableButtons() {
             $('#loadDataTableButton').html('Load Table');
             $('#loadDataTableButton').prop({ disabled: false });
-            if (getUrlParameter('cat') + getUrlParameter('source') + getUrlParameter('removed') != '') {
+            if (getUrlParameter('cat') + getUrlParameter('source') + getUrlParameter('removed') + getUrlParameter('nonremovable') != '') {
                 $('#loadDataTableButton').click();
             }
             loadData();
@@ -433,7 +431,7 @@
                         "cat": getUrlParameter('cat'),
                         "source": getUrlParameter('source'),
                         "color": getUrlParameter('color'),
-                        "non_removable": getUrlParameter('non%20removable'),
+                        "nonremovable": getUrlParameter('nonremovable'),
                         "removed": getUrlParameter('removed')
                     },
                     // dataType: 'json',
